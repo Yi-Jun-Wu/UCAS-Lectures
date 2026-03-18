@@ -16,7 +16,7 @@ export const Header: React.FC<HeaderProps> = ({ lastUpdated, filters, onToggleFi
   };
 
   return (
-    <header className="sticky left-0 top-0 w-max min-w-full px-8 py-4 bg-white/90 backdrop-blur-sm border-b border-slate-200 z-40 flex justify-between items-center shadow-sm">
+    <header className="sticky left-0 top-0 w-max min-w-full px-8 py-4 bg-white/90 backdrop-blur-sm border-b border-slate-200 z-400 flex justify-between items-center shadow-sm">
       
       {/* 左侧：标题与基础信息 */}
       <div className="flex flex-col">

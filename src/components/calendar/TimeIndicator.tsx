@@ -14,7 +14,6 @@ export const TimeIndicator: React.FC<TimeIndicatorProps> = ({ days }) => {
     const calculatePosition = () => {
       const now = new Date();
       const currentHour = now.getHours();
-      // const currentHour = 19;
       const currentMinute = now.getMinutes();
       
       const totalMinutesPassed = (currentHour - CALENDAR_CONFIG.START_HOUR) * 60 + currentMinute;
@@ -23,8 +22,8 @@ export const TimeIndicator: React.FC<TimeIndicatorProps> = ({ days }) => {
       let percentage = (totalMinutesPassed / totalCalendarMinutes) * 100;
       let outOfBounds = false;
 
-      if (percentage <= 1) { percentage = 1; outOfBounds = true; } 
-      else if (percentage >= 99) { percentage = 99; outOfBounds = true; }
+      if (percentage <= 0.5) { percentage = 0.5; outOfBounds = true; } 
+      else if (percentage >= 99.5) { percentage = 99.5; outOfBounds = true; }
 
       setPosition({ top: percentage, outOfBounds });
     };

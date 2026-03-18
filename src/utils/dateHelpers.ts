@@ -59,20 +59,16 @@ export function getNextSevenDays(startDate: Date): Date[] {
  * 将扁平的讲座数组，按天分发到 7 个数组中
  */
 export function groupLecturesByDay(lectures: AppLecture[], days: Date[]): AppLecture[][] {
-  // 初始化 7 个空数组
   const grouped: AppLecture[][] = Array.from({ length: 7 }, () => []);
 
-  if (days.length === 0) return grouped;
-  
-  const startOfDayZero = days[0].getTime();
-
   lectures.forEach(lecture => {
-    // 通过毫秒差计算该讲座属于 0-6 中的哪一天
-    const diffTime = lecture.startTimestamp - startOfDayZero;
-    const dayIndex = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    const lectureDate = new Date(lecture.startTimestamp);
+    
+    // 核心修复: 通过 isSameDay 精准匹配物理列，彻底无视数组的排序顺序
+    const dayIndex = days.findIndex(day => isSameDay(lectureDate, day));
 
-    // 如果讲座刚好在计算的 7 天视口内，则推入对应数组
-    if (dayIndex >= 0 && dayIndex < 7) {
+    // 只要在这 7 天的视口内，就塞进对应的物理列
+    if (dayIndex !== -1) {
       grouped[dayIndex].push(lecture);
     }
   });

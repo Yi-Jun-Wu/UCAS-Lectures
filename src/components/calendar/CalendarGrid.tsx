@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { type AppLecture, type TooltipState } from '../../types';
 import { CALENDAR_CONFIG } from '../../constants/config';
-import { getNextSevenDays, groupLecturesByDay, formatDayHeader } from '../../utils/dateHelpers';
+import { getWrappingWeekDays, groupLecturesByDay, formatDayHeader, isSameDay } from '../../utils/dateHelpers';
 import { ColumnDay } from './ColumnDay';
 import { TimeIndicator } from './TimeIndicator';
 import { HoverTooltip } from '../ui/HoverTooltip';
@@ -15,7 +15,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
   // 1. 生成未来 7 天的日期序列
   const daysArray = useMemo(() => {
     const today = new Date();
-    return getNextSevenDays(today);
+    return getWrappingWeekDays(today);
   }, []);
 
   // 2. 将讲座数据按天进行分组
@@ -30,9 +30,11 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
     (_, i) => CALENDAR_CONFIG.START_HOUR + i
   );
 
-  // ---> 新增悬浮状态管理 <---
+  const todayDate = new Date();
+
+  // 新增悬浮状态管理 
   const [tooltipState, setTooltipState] = useState<TooltipState | null>(null);
-  // ---> 计算当前悬浮的讲座列表 <---
+  // 计算当前悬浮的讲座列表
   const hoveredLectures = useMemo(() => {
     if (!tooltipState) return [];
     return lectures
@@ -50,7 +52,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
       <div className="flex border-b border-slate-200 bg-slate-50 z-10">
         <div className="w-16 shrink-0 border-r border-slate-200"></div> {/* 左上角留白 */}
         {daysArray.map((date, index) => {
-          const isToday = index === 0;
+          const isToday = isSameDay(date, todayDate);
           return (
             <div 
               key={index} 
@@ -96,7 +98,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
             <ColumnDay
               key={index}
               date={date}
-              isToday={index === 0}
+              isToday={isSameDay(date, todayDate)}
               lectures={groupedLectures[index] || []}
               onLectureClick={onLectureClick}
               onHoverEnter={(ids, x, y) => setTooltipState({ ids, x, y })}
@@ -106,7 +108,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
           ))}
 
           {/* 全局时间红线 (跨越 7 列) */}
-          <TimeIndicator />
+          <TimeIndicator days={daysArray}/>
         </div>
       </div>
       {/* ---> 挂载悬浮窗 <--- */}

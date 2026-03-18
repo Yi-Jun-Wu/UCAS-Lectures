@@ -25,7 +25,11 @@ export const ColumnDay: React.FC<ColumnDayProps> = (
   return (
     <div 
       className={`flex-1 relative border-r border-slate-100 min-h-full ${
-        isToday ? 'border-l-4 border-l-blue-500 bg-blue-50/10 shadow-[inset_10px_0_10px_-10px_rgba(0,0,0,0.05)]' : ''
+        isToday ? 
+          // 今天：提高层级(z-20)，加粗蓝边，并向左投射白色渐变阴影(-25px的偏移)
+          'border-l-4 border-l-blue-500 bg-blue-50/10 z-20 shadow-[-25px_0_20px_-5px_rgba(255,255,255,0.85)] ring-1 ring-blue-500/10' 
+          // 其他天：普通右边框，基础层级(z-10)
+          : 'border-r border-slate-100 z-10'
       }`}
     >
       {/* 渲染讲座区块 */}

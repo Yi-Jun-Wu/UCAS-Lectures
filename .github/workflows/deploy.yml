@@ -1,3 +1,5 @@
+name: Deploy to GitHub Pages
+
 on:
   # use [skip ci] in commit message to skip this workflow
   push:

@@ -1,7 +1,7 @@
 // components/calendar/TimeIndicator.tsx
 import React, { useState, useEffect } from 'react';
 import { CALENDAR_CONFIG } from '../../constants/config';
-import { isSameDay } from '../../utils/dateHelpers';
+// import { isSameDay } from '../../utils/dateHelpers';
 
 interface TimeIndicatorProps {
   days: Date[];
@@ -13,9 +13,9 @@ export const TimeIndicator: React.FC<TimeIndicatorProps> = ({ days }) => {
   useEffect(() => {
     const calculatePosition = () => {
       const now = new Date();
-      // const currentHour = now.getHours();
-      const currentHour = 19;
-      const currentMinute = 0;//now.getMinutes();
+      const currentHour = now.getHours();
+      // const currentHour = 19;
+      const currentMinute = now.getMinutes();
       
       const totalMinutesPassed = (currentHour - CALENDAR_CONFIG.START_HOUR) * 60 + currentMinute;
       const totalCalendarMinutes = CALENDAR_CONFIG.TOTAL_HOURS * 60;

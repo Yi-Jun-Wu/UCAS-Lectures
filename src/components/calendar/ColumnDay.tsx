@@ -14,7 +14,7 @@ interface ColumnDayProps {
 }
 
 export const ColumnDay: React.FC<ColumnDayProps> = (
-  { date, lectures, isToday, onLectureClick, onHoverEnter, onHoverMove, onHoverLeave }
+  { date: _data, lectures, isToday, onLectureClick, onHoverEnter, onHoverMove, onHoverLeave }
 ) => {
   // 1. 通过排版引擎计算每个讲座的绝对坐标
   const uiLectures = useMemo(() => calculateDayLayout(lectures), [lectures]);

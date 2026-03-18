@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { RawLectureResponse, AggregatedLectures } from '../types';
+import type { RawLectureResponse, AggregatedLectures } from '../types';
 import { API_ENDPOINTS, STORAGE_KEYS } from '../constants/config';
 
 interface UseLecturesDataReturn {

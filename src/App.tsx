@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Header } from './components/layout/Header';
 import { Sidebar } from './components/layout/Sidebar';
 import { CalendarGrid } from './components/calendar/CalendarGrid';
@@ -74,6 +74,14 @@ export default function App() {
       .sort((a, b) => a.startTimestamp - b.startTimestamp);
   }, [selectedLectureIds, visibleLectures]);
 
+  useEffect(() => {
+    // 核心逻辑: 如果原本有选中的ID，但是由于筛选导致当前可显示列表中找不到这些讲座了
+    // 则彻底清空选中状态，防止修改筛选条件时侧边栏“幽灵复活”
+    if (selectedLectureIds.length > 0 && selectedLectures.length === 0) {
+      setSelectedLectureIds([]);
+    }
+  }, [selectedLectures.length, selectedLectureIds.length]);
+
   // 7. 渲染层
   return (
     <div className="w-screen h-screen overflow-hidden flex bg-gray-50 text-slate-800">
@@ -87,10 +95,10 @@ export default function App() {
           onToggleFilter={(type: LectureCategory) => setFilters(prev => ({ ...prev, [type]: !prev[type] }))}
         />
 
-        <main className="min-w-[1200px] min-h-[800px] w-max p-8 relative flex flex-col">
-          {isLoading ? (
+        <main className="min-w-[1200px] min-h-[800px] w-max p-8 relative flex flex-col mx-auto">
+          {(!data && isLoading) ? (
             <div className="flex-1 flex items-center justify-center text-gray-500">正在加载最新讲座数据...</div>
-          ) : error ? (
+          ) : (error && !data) ? (
             <div className="flex-1 flex items-center justify-center text-red-500">数据加载失败，请检查网络或离线缓存状态。</div>
           ) : (
             <CalendarGrid

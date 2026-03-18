@@ -50,7 +50,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
           return (
             <div 
               key={lecture.id} 
-              className={`bg-white rounded-xl border transition-all duration-200 overflow-hidden ${
+              className={`bg-white rounded-xl border shrink-0 transition-all duration-200 overflow-hidden ${
                 isExpanded ? 'border-blue-200 shadow-md' : 'border-slate-200 shadow-sm hover:border-blue-300 hover:shadow cursor-pointer'
               }`}
             >

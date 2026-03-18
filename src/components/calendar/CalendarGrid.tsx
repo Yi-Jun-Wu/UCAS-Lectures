@@ -41,7 +41,10 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
   }, [tooltipState, lectures]);
 
   return (
-    <div className="flex-1 flex flex-col min-w-[1000px] bg-white rounded-lg shadow-sm border border-slate-200 overflow-hidden relative">
+    <div 
+      className="flex-1 flex flex-col min-w-[1000px] bg-white rounded-lg shadow-sm border border-slate-200 overflow-hidden relative"
+      onClick={() => onLectureClick([])}
+    >
       
       {/* 顶部日期表头 */}
       <div className="flex border-b border-slate-200 bg-slate-50 z-10">

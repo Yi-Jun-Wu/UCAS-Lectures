@@ -7,7 +7,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8383/view",
     "startTimestamp": 1768800600000,
     "endTimestamp": 1768811400000,
@@ -15,7 +15,7 @@
     "mainVenue": "玉泉路 - 人文楼教一1",
     "parallelVenue": "",
     "introduction": "河南舞阳贾湖遗址是中国百年考古学史上最为重要的考古发现之一，展现了距今8000年前中华文明起步阶段中原地区先民灿烂的生产生活图景。本讲座结合2013年第八次发掘资料以及近年来的野外考古调查和研究结果，讲述贾湖遗址研究的最新进展。内容包括贾湖文化的来源、分布以及贾湖绿松石的工艺和产源研究等。",
-    "lastUpdatedAt": "2026-03-19T04:55:28.873Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "NCLMNOIB",
@@ -25,7 +25,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "钮凤林",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8284/view",
     "startTimestamp": 1768455000000,
     "endTimestamp": 1768461600000,
@@ -33,7 +33,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "钮凤林，男，1966年12月出生，地球和空间科学学院教授。1988年毕业于中国科学技术大学，获学士学位；1994年、1997年分别获日本东京大学地球物理硕士、博士学位。1997-2002年相继在日本东京大学地震研究所、日本国立防灾科学技术研究所和美国华盛顿卡内基研究所从事博士后研究。2002年7月至2024年10月在美国莱斯大学工作，历任助理教授、终身副教授、终身教授。2011年入选国家创新人才计划长期项目 ，2012-2024 担任中国石油大学（北京）特聘教授。2024年11月起任中国科学技术大学地球与空间科学学院杰出讲席教授。2008年荣获美国国家科学基金委杰出青年学者奖， 2023年被选为美国地球物理学会会士 （AGU fellow）。\n钮凤林教授在地球内部构造和断层应力监测领域取得了丰硕的研究成果。他在国际顶级学术期刊上发表论文180余篇，其中6篇发表于Nature、4篇发表于Nature Geoscience、1篇发表于Nature Communications、1篇发表于Geology。截至目前，论文总引用次数超过9200次，H指数为56，i10指数为127。先后主持美国自然科学基金、美国能源部、美国地质调查局、科技部国家重点研发项目，中国国家自然科学基金重点与面上项目等20多项国家级科研项目。2006-2012负责中美日国际合作项目，完成在中国东北地区布设126个宽频地震台，横跨1200x800公里，是美国地震学研究联合会至今为止最大的流动地震观测。曾担任美国国家科学基金委、美国国务院国际开发署地学基金委、加拿大自然科学与工程研究基金委等机构的会评委员，担任全球地震台网管理委员会常务委员、Journal of Geophysical Research: Solid Earth期刊主编。2008年，钮凤林教授对美国加州圣安德烈斯断层的研究引发了广泛关注，被新华社、路透社、《时代》周刊和英国BBC等150多家主流媒体报道，被称为“向地震预测迈出新的一步”。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.062Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "GCMLAOLC",
@@ -43,7 +43,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "姜大膀",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8268/view",
     "startTimestamp": 1768444200000,
     "endTimestamp": 1768450800000,
@@ -51,7 +51,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "姜大膀，研究员，基金委优青、杰青、创新群体、重大项目负责人，入选国家百千万人才工程，并被授予“有突出贡献中青年专家”荣誉称号，享受国务院政府特殊津贴；是IPCC第六次评估报告第一工作组主要作者。从事气候变化研究，发表SCI期刊论文190余篇，已培养博士毕业生23名。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "COCLNACO",
@@ -61,7 +61,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "柯贤胜",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8371/view",
     "startTimestamp": 1768378800000,
     "endTimestamp": 1768384200000,
@@ -69,7 +69,7 @@
     "mainVenue": "雁栖湖 - 教二楼121",
     "parallelVenue": "",
     "introduction": "卟啉与芳烃是两类极具代表性的π共轭功能分子，已在众多领域展现出巨大的应用潜力。碳杂卟啉（Carbaporphyrin），是一类碳原子取代了传统四吡咯卟啉中心氮原子的类卟啉大环化合物。利用芳烃结构取代吡咯单元来构筑碳杂卟啉，从而构建卟啉和芳烃的紧密连接，为创制新颖π共轭功能分子提供了良好的平台。本次讲座将主要介绍芳烃桥连的碳杂卟啉阵列和一类大尺寸芳烃——纳米石墨烯稠合的碳杂卟啉体系，重点介绍其分子设计，电子结构，芳香性和配位化学。\n柯贤胜，北京师范大学化学学院教授，博士生导师。2010年本科毕业于四川大学化学学院，2015年博士毕业于北京大学化学与分子工程学院，随后在美国得州大学奥斯汀分校Jonathan Sessler教授课题组从事博士后研究。2020年入选国家海外高层次人才青年项目，同年9月加入北京师范大学化学学院开展独立研究工作，主要从事卟啉，纳米石墨烯，π-共轭功能分子，分子碳材料和超分子化学等方面的研究。在Nat. Chem., J. Am. Chem. Soc., Nat. Commun.和CCS Chem.等期刊发表论文30余篇, 其中以第一或通讯作者发表J. Am. Chem. Soc. 12篇。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "NLPDOOKO",
@@ -79,7 +79,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "徐义刚",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8263/view",
     "startTimestamp": 1768302000000,
     "endTimestamp": 1768308600000,
@@ -87,7 +87,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "徐义刚  中国科学院院士，中国科学院广州地球化学研究所研究员\n美国地质学会会士、美国地球物理联合会会士、国际地球化学学会会士。曾任中国科学院广州地球化学研究所所长、同位素地球化学国家重点实验室主任。现任国际大地测量和地球物理联合会中国委员会候任主席，国家航天局第二届月球样品专家委员会主任、探月工程四期领域科学家，国家基金委重大研究计划“地球宜居性的深部驱动机制”专家组组长。主要从事深地科学、宜居地球和月球演化研究，在华北克拉通破坏、峨眉山大火成岩省、东亚大地幔楔以及嫦娥月样研究等领域取得创新认识，曾获国家自然科学奖二等奖两项、广东省科学技术突出贡献奖，入选2024年中国科学十大进展和中国十大科技进展新闻。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "MBNKFBBO",
@@ -97,7 +97,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "吴庆举",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8283/view",
     "startTimestamp": 1768282200000,
     "endTimestamp": 1768288800000,
@@ -105,7 +105,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "吴庆举，中国地震局地球物理研究所研究员\n1996年于中国地震局地球物理研究所获博士学位，赵九章优秀中青年科学奖获得者、国家人事部百千万人才工程国家级人选和有突出贡献中青年专家，中国地震局防震减灾先进个人和中国地震局新世纪优秀人才百人计划人选。承担多项国家级科研项目，在国内外学术期刊合作发表研究论文100余篇。作为项目参加人和负责人曾分别荣获中国地震局防震减灾优秀成果一等奖三次、二等奖一次。现任中国地球物理学会大陆动力学和固体地球物理学专业委员会委员、中国地震学会地震学专业委员会和地壳深部探测专业委员会委员，中国地质学会构造地质学与地球动力学专业委员会委员，《地震学报》、《地震科学进展》副主编、《CT理论与应用研究》编委。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "GLCLNKBD",
@@ -115,7 +115,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "武亮",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8270/view",
     "startTimestamp": 1768282200000,
     "endTimestamp": 1768288800000,
@@ -123,7 +123,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "武亮，博士，研究员/博导，中国科学院青年创新促进会优秀会员。主要从事台风气候学、热带大气动力学、气候变化等研究。作为负责人先后主持完成国家自然科学基金重点项目、国际地区合作重点项目等十余项国家重要科研项目。现已在国内外学术期刊发表论文五十余篇，曾获中国气象局科技成果评价优秀一等奖、中华地球科学联盟“最高被引论文奖”、“南粤科技创新优秀学术论文奖”和“学笃风正创新贡献奖”。现担任国际气象学与大气科学协会（IAMAS）中国委员会青年工作组成员，中国气象学会动力气象学委员会委员，《大气科学》副主编，《Terrestrial, Atmospheric and Oceanic Sciences》副主编，《The Innovation》和《The Innovation Geoscience》编委等。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "IMGHOPLB",
@@ -133,7 +133,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "赵国春",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8265/view",
     "startTimestamp": 1768215600000,
     "endTimestamp": 1768222200000,
@@ -141,7 +141,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "赵国春  中国科学院院士，香港大学莫秀琼冠名教授、地球科学讲座教授和西北大学长江学者讲座教授\n第三世界发展中国家科学院院士、 香港科学院院士。1985和1988年在原长春地质学院分别获得学士和硕士学位，2000年在澳大利亚科廷大学获得博士学位。主要从事变质岩石学、前寒武纪地质学和超大陆研究。1998年以来发表学术论文520篇，总引78108次 (H-index=148)。在Research.com 公布的 2025年世界科学家排名榜中，赵国春名列全球地球科学家第6位，亚洲地球科学家第1位; 曾获国家自然科学二等奖(2014)、美国地质学会会士 (2014)、高被引科学家(Clarivate; 2014-2025）、第 29 届花剌子米(Khwarizmi)国际奖(一等奖; 2016)、长江学者奖励计划讲座教授(2017)、 发展中国家科学院TWAS地球、天文与空间科学奖(2018)、香港大学卓越研究成果奖(2021)。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "ONIJFHEL",
@@ -169,7 +169,7 @@
     "department": "人文学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8355/view",
     "startTimestamp": 1768195800000,
     "endTimestamp": 1768203000000,
@@ -177,7 +177,7 @@
     "mainVenue": "玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "XXX",
-    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "MEFMOCPP",
@@ -187,7 +187,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8374/view",
     "startTimestamp": 1768195800000,
     "endTimestamp": 1768206600000,
@@ -195,7 +195,7 @@
     "mainVenue": "玉泉路 - 人文楼教一1",
     "parallelVenue": "",
     "introduction": "伊和淖尔墓群位于锡林郭勒盟正镶白旗，地处浑善达克沙地南缘，是 2014 年度全国十大考古新发现及新时代百项考古新发现之一。2010-2014 年发现的 6 座墓葬中，5 座为北魏时期长斜坡墓道土洞墓，1 座为辽代墓葬，出土金器、银器、玻璃器、漆器等大量精美文物。墓群兼具鲜卑文化特色与欧亚草原、中西亚异域元素，见证了草原丝绸之路的文化交融与商贸往来。本次讲座将结合考古发掘成果，解析墓群的墓葬形制、文物价值与族属谜题，探讨其在北魏边疆历史、民族关系及东西方文明互鉴中的重要意义，呈现边疆考古视野下的草原文明图景。",
-    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
+    "lastUpdatedAt": "2026-03-19T05:36:08.910Z"
   },
   {
     "id": "HADMFEFA",

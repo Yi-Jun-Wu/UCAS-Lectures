@@ -7,7 +7,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马启明",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8445/view",
     "startTimestamp": 1779255000000,
     "endTimestamp": 1779260700000,
@@ -15,7 +15,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "本讲作为课程的总结与延伸，聚焦电磁脉冲探测技术的实际应用与未来发展趋势。一方面讲解两大核心应用场景：闪电电磁脉冲探测（包括闪电定位、计数、强度评估，及在航空航天、电力系统、通信网络防雷保护中的实践价值），以及雷击火探测与预防（通过捕捉雷击电磁脉冲信号实现快速识别、定位与预警，降低对森林、电力设施的破坏）；另一方面展望技术发展方向，分析当前探测技术的瓶颈的同时，探讨AI融合升级、多频段协同探测、小型化装备研发等前沿趋势，完善课程知识体系，拓宽学习者视野。",
-    "lastUpdatedAt": "2026-03-19T04:55:28.862Z"
+    "lastUpdatedAt": "2026-03-19T05:36:06.185Z"
   },
   {
     "id": "JPLLDAHI",
@@ -25,7 +25,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘春秀",
-    "isAppointmentRequired": false,
+    "isAppointmentRequired": true,
     "sourceUrl": "/subject/8422/view",
     "startTimestamp": 1779082200000,
     "endTimestamp": 1779087900000,
@@ -33,6 +33,6 @@
     "mainVenue": "雁栖湖 - 教一楼108",
     "parallelVenue": "",
     "introduction": "电刺激技术是治疗运动障碍和神经精神疾病的一种方法，在多种疾病治疗领域具备重大潜力。电刺激包括：离子电渗技术、无创电刺激、植入式电刺激，从原理-器件-系统进行介绍。",
-    "lastUpdatedAt": "2026-03-19T04:55:28.863Z"
+    "lastUpdatedAt": "2026-03-19T05:36:06.186Z"
   }
 ]

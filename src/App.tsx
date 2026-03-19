@@ -21,7 +21,7 @@ export default function App() {
   const [selectedLectureIds, setSelectedLectureIds] = useState<string[]>([]);
 
   // 综合筛选器状态 (默认全选)
-  const [filters, setFilters] = useState<AppFilters>({
+  const [filters, setFilters] = useLocalStorage<AppFilters>({
     science: true,
     humanity: true,
     locations: []

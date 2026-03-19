@@ -15,13 +15,13 @@ export default function App() {
 
   // 2. 本地持久化状态 (星标 & 缩放比例)
   const [starredIds, setStarredIds] = useLocalStorage<string[]>(STORAGE_KEYS.STARRED_LECTURES, []);
-  const [uiScale, setUiScale] = useLocalStorage<number>('ucas_ui_scale', 1);
+  const [uiScale, setUiScale] = useLocalStorage<number>(STORAGE_KEYS.UI_SCALE, 1);
 
   // 3. UI 交互状态
   const [selectedLectureIds, setSelectedLectureIds] = useState<string[]>([]);
 
   // 综合筛选器状态 (默认全选)
-  const [filters, setFilters] = useLocalStorage<AppFilters>({
+  const [filters, setFilters] = useLocalStorage<AppFilters>(STORAGE_KEYS.LECTURE_FILTERS, {
     science: true,
     humanity: true,
     locations: []

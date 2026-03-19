@@ -37,9 +37,10 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, onLectureC
   // 计算当前悬浮的讲座列表
   const hoveredLectures = useMemo(() => {
     if (!tooltipState) return [];
-    return lectures
-      .filter(l => tooltipState.ids.includes(l.id))
-      .sort((a, b) => a.startTimestamp - b.startTimestamp);
+    // 严格按照 tooltipState.ids 的顺序映射
+    return tooltipState.ids
+      .map(id => lectures.find(l => l.id === id))
+      .filter((l): l is AppLecture => l !== undefined);
   }, [tooltipState, lectures]);
 
   return (

@@ -48,7 +48,7 @@ export const ColumnDay: React.FC<ColumnDayProps> = (
       {congestionBadges.map((badge, index) => (
         <div 
           key={`badge-${index}`}
-          className="absolute right-1 w-5 h-5 bg-slate-800 text-white text-[10px] font-bold flex items-center justify-center rounded-md z-20 shadow-sm opacity-80 pointer-events-none"
+          className="absolute right-1 w-5 h-5 bg-slate-800 text-white text-[10px] font-bold flex items-center justify-center rounded-md z-[150] shadow-sm opacity-80 pointer-events-none"
           style={{ top: badge.top }}
           title={`该时间段有 ${badge.count} 个重叠讲座`}
         >

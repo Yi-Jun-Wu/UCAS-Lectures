@@ -68,10 +68,11 @@ export default function App() {
   // 6. 获取选中讲座列表 (传递给 Sidebar)
   const selectedLectures = useMemo(() => {
     if (selectedLectureIds.length === 0) return [];
-    // 从可视列表中过滤出所有被选中的讲座，并按开始时间排序
-    return visibleLectures
-      .filter(l => selectedLectureIds.includes(l.id))
-      .sort((a, b) => a.startTimestamp - b.startTimestamp);
+    // 从可视列表中过滤出所有被选中的讲座，并严格按照 selectedLectureIds 的顺序映射
+    // 因为引擎已经保证了被点击的卡片 ID 永远排在第 0 位
+    return selectedLectureIds
+      .map(id => visibleLectures.find(l => l.id === id))
+      .filter((l): l is AppLecture => l !== undefined);
   }, [selectedLectureIds, visibleLectures]);
 
   useEffect(() => {

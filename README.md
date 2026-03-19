@@ -1,43 +1,79 @@
-# UCAS-Lectures
-A database storing lectures arrangements of UCAS. Also provide a website to deploy online Weekly Schedule
+# UCAS Lectures (国科大讲座周历)
 
-分析我的详细需求, 思考结构与逻辑, 以及各种细节的实现. 给出详细的设计文档.
-我初步的打算是在 GitHub Pages 上做一个日历(vite + react + tailwindcss), 仅显示一周内的所有讲座和时间地点(七列的表, 从上到下是时间, 用明显的线标出当前的时间, 今天的列左边线是明显的分割线, 右侧是将来几天, 左侧是下周同一时间), 讲座在表上占据一定时间区块, 如果同一时间段内有多个讲座, 则略微缩小宽度, 按开始时间排序, 后者压在前者上面, 仅在左侧露出一点边缘(因此要在x方向稍微错开一定), 如果两个(或多个)讲座开始时间一致, y坐标也稍微错开一点(相当于稍微错开开始时间和结束时间, 结束早的压住结束晚的, 尽量多露出区块的边缘). 对于时间重叠的段, 会在右上角显示数字代表当前时间段有几个重叠(可以不附在卡片上而是日程表列上).鼠标移到任何区域都会出现悬浮卡片简述内容, 点击会在侧边栏展开详细内容(以及每一个讲座的信息), 并且可以星标某个讲座. 加星标的讲座会显示在最上层, 且改变颜色: (共四种颜色, 科学讲座和人文讲座, 以及分别加星的).
-最上方是页面标题, 下面有一些其它信息如显示当前数据同步时间, 筛选显示讲座类型. 下面是周历, 保证周历最小有一定宽度和高度, 不要让周历自己内部出现滚动 如果屏幕较大可以放大, 但也要有尺寸上限. 不要去做小屏适应, 让页面可以上下左右滚动如果超出尺寸. 左右滚动不影响标题和侧边栏, 上下滚动仅影响标题, 不影响侧边栏. 侧边栏内部如果显示不下可以在内部独立上下滚动. 单击侧边栏其它位置会自动收回. 
+本项目包含中国科学院大学（UCAS）讲座信息的公开数据源，以及一个用于直观展示讲座安排的现代化 Web 周历应用。
 
-我希望页面和数据是可离线加载的(数据用最新抓取的). 用户的星标也同样可以被记住(localStorage or indexedStorage?)
+🌐 **在线访问**: [https://yi-jun-wu.github.io/UCAS-Lectures/](https://yi-jun-wu.github.io/UCAS-Lectures/)
 
-数据结构为 json, 需要从公开的 github 仓库抓取, (公共 ip 是否会触发速率限制?).
-路径为 `https://raw.githubusercontent.com/Yi-Jun-Wu/UCAS-Lectures/refs/heads/main/science/latest.json` 与 `humanity/latest.json`
 
-```ts
-{
-  "generatedAt": "2026-03-18T11:07:49.746Z",
-  "total": 21,
-  "lectures": []
-}
-export interface MergedLecture {
-  id: string;                 // 纯字母特征码 (例如: AJFNKQLB)
-  seriesName: string;         // 讲座系列
-  title: string;              // 讲座名称 (映射自 lectureName)
-  creditHours: string;        // 学时
-  department: string;         // 主办部门
-  targetAudience: string;     // 面向对象 (映射自 targetedObjects)
-  speaker: string;            // 主讲人 (映射自 lecturer)
-  isAppointmentRequired: boolean; // 是否需要预约
-  sourceUrl: string;          // 详情页地址 (映射自 detailUrl)
+## 📖 项目简介
 
-  // 统一处理后的绝对时间 (解决原始数据格式混乱问题)
-  startTimestamp: number;     // 毫秒时间戳
-  endTimestamp: number;       // 毫秒时间戳
-  rawTimeStr: string;         // 保留原始时间字符串备用
+本仓库具有双重作用：
+1. **公开数据源**：结构化存储国科大的最新讲座信息（分为科学讲座与人文讲座），以 JSON 格式托管，可供其他开发者或应用直接调用。
+2. **前端 Web 应用**：托管网页端周历的源代码（基于 React + Vite + Tailwind CSS）。该应用通过 GitHub Actions 自动构建，并部署至 GitHub Pages。
 
-  // 详情信息 (初始可能为空)
-  mainVenue: string;          // 主会场
-  parallelVenue: string;      // 分会场 (映射自 venueOfParallelSessions)
-  introduction: string;       // 讲座简介
 
-  // 元数据
-  lastUpdatedAt: string;      // ISO 时间戳
-}
-```
+- **网页预览**： [![Web Screenshot](./public/screenshot.png)](https://yi-jun-wu.github.io/UCAS-Lectures/)
+
+## ✨ 核心特性
+
+前端应用专为高密度的讲座信息展示而设计，具备以下特性：
+
+* **直观的周历视图**：采用物理位置固定的周一至周日布局，配合环绕式时间窗口，专注于展示当前及未来 7 天的讲座动态。
+* **智能排版引擎**：针对同一时段的高频重叠讲座，内置二维防遮挡排版算法，确保卡片阶梯式错开，配合拥挤度徽章，保证信息的可读性与交互的准确性。
+* **多维交叉筛选**：支持按讲座类别（科学/人文）以及校区（雁栖湖/中关村/玉泉路/未知）进行无缝交叉筛选。
+* **离线优先设计 (Offline-First)**：优先读取本地缓存，实现页面的秒级渲染；支持在弱网或断网环境下查看历史数据，并提供清晰的网络同步状态指示。
+* **个性化管理**：支持对特定讲座进行“星标”收藏，星标讲座将在视觉层级中置顶，且配置保留在用户本地。
+
+## ⚙️ 架构与数据流
+
+本系统的数据抓取与前端展示完全解耦，主要流程如下：
+
+1. **自动抓取**：讲座数据的抓取逻辑独立部署于 [Yi-Jun-Wu/Scheduled-Tasks-Public](https://github.com/Yi-Jun-Wu/Scheduled-Tasks-Public) 仓库。该仓库的 `check-lectures` 工作流会定期运行。
+2. **数据同步**：抓取到的最新数据会被格式化为 JSON 文件，并自动推送至本仓库 `main` 分支的 `science/` 和 `humanity/` 目录下。
+3. **前端渲染**：Web 应用在用户访问时，直接从本仓库的 Raw 链接静默拉取最新的 JSON 数据进行渲染更新。
+
+## 🔗 数据 API 接口
+
+如果你希望在自己的项目中使用这些讲座数据，可以直接请求以下公开的 GitHub Raw 链接（数据格式为标准的 JSON）：
+
+* **科学讲座**: `https://raw.githubusercontent.com/Yi-Jun-Wu/UCAS-Lectures/refs/heads/main/science/latest.json`
+* **人文讲座**: `https://raw.githubusercontent.com/Yi-Jun-Wu/UCAS-Lectures/refs/heads/main/humanity/latest.json`
+
+## 💻 本地开发
+
+如果你希望在本地运行或二次开发此 Web 应用，请按照以下步骤操作：
+
+### 环境要求
+* Node.js (建议 v18+)
+* npm 或 pnpm
+
+### 启动步骤
+
+1. 克隆本仓库：
+   ```bash
+   git clone [https://github.com/Yi-Jun-Wu/UCAS-Lectures.git](https://github.com/Yi-Jun-Wu/UCAS-Lectures.git)
+   cd UCAS-Lectures
+   ```
+
+2.  安装依赖：
+
+    ```bash
+    npm install
+    ```
+
+3.  启动本地开发服务器：
+
+    ```bash
+    npm run dev
+    ```
+
+4.  构建生产版本：
+
+    ```bash
+    npm run build
+    ```
+
+## 📄 开源协议
+
+本网站源码基于 [MIT License](./license) 开源。允许任何人在遵守协议的前提下进行使用、修改和分发。
+

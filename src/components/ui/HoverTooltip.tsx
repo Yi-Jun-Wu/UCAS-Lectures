@@ -55,7 +55,7 @@ export const HoverTooltip: React.FC<HoverTooltipProps> = ({ lectures, x, y }) =>
           
           <div className="flex gap-2 mt-1">
             <span className={`px-2 py-0.5 rounded text-[10px] font-bold ${lectures[0].type === 'science' ? 'bg-blue-100 text-blue-700' : 'bg-emerald-100 text-emerald-700'}`}>
-              {lectures[0].type === 'science' ? '科学' : '人文'}
+              {lectures[0].type === 'science' ? '科学前沿' : '人文'}
             </span>
             {lectures[0].isAppointmentRequired && (
               <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-100 text-amber-700">需预约</span>

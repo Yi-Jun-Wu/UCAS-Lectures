@@ -24,7 +24,7 @@ export default function App() {
   const [filters, setFilters] = useState<AppFilters>({
     science: true,
     humanity: true,
-    locations: ['雁栖湖', '中关村', '玉泉路', '未知']
+    locations: []
   });
 
   // ==========================================
@@ -47,7 +47,8 @@ export default function App() {
           const lectureLocations = extractLocations(lecture);
 
           // C. 地点交叉过滤：只要讲座的任何一个地点在当前选中的过滤器中，就保留
-          const hasMatchingLocation = lectureLocations.some(loc => filters.locations.includes(loc));
+          const hasMatchingLocation = filters.locations.length === 0 ||
+            lectureLocations.some(loc => filters.locations.includes(loc));
 
           if (hasMatchingLocation) {
             combined.push({
@@ -126,8 +127,8 @@ export default function App() {
           lastUpdated={lastUpdated}
           localSyncTime={localSyncTime}
           onRefresh={refetch}
-        // scale={uiScale}
-        // onScaleChange={setUiScale}
+          scale={uiScale}
+          onScaleChange={setUiScale}
         />
 
         <main

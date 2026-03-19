@@ -70,7 +70,8 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
                     title={lecture.isStarred ? "取消星标" : "标为重要"}
                   >
                     <svg 
-                      className={`w-7 h-7 ${lecture.isStarred ? 'text-orange-400 fill-orange-400' : 'text-slate-300 fill-transparent hover:text-orange-300'}`} 
+                      // className={`w-7 h-7 ${lecture.isStarred ? 'text-orange-400 fill-orange-400' : 'text-slate-300 fill-transparent hover:text-orange-300'}`} 
+                      className={`w-7 h-7 ${lecture.isStarred ? 'text-amber-400 fill-amber-400' : 'text-slate-300 fill-transparent hover:text-amber-300'}`}
                       viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5"
                     >
                       <path strokeLinecap="round" strokeLinejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385c.148.621-.531 1.115-1.071.794l-4.755-2.825a.562.562 0 00-.58 0l-4.755 2.825c-.54.321-1.219-.173-1.071-.794l1.285-5.385a.563.563 0 00-.182-.557l-4.204-3.602c-.38-.325-.178-.95.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z" />
@@ -80,7 +81,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
 
                 <div className="mt-2 flex flex-wrap gap-2 items-center">
                   <span className={`px-2 py-0.5 rounded text-xs font-bold ${lecture.type === 'science' ? 'bg-blue-100 text-blue-700' : 'bg-emerald-100 text-emerald-700'}`}>
-                    {lecture.type === 'science' ? '科学讲座' : '人文讲座'}
+                    {lecture.type === 'science' ? '科学前沿讲座' : '人文讲座'}
                   </span>
                   {lecture.isAppointmentRequired && (
                     <span className="px-2 py-0.5 rounded text-xs font-bold bg-amber-100 text-amber-700">需预约</span>

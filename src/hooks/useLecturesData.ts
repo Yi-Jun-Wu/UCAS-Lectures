@@ -7,7 +7,7 @@ interface UseLecturesDataReturn {
   syncStatus: SyncStatus;
   lastUpdated: string | null;       // 数据源更新时间
   localSyncTime: number | null;     // 本地实际拉取时间
-  refetch: () => Promise<void>;     // 暴露的手动刷新方法
+  refetch: (isManual?: boolean) => Promise<void>;     // 暴露的手动刷新方法
 }
 
 interface CachePayload {
@@ -40,8 +40,10 @@ export function useLecturesData(): UseLecturesDataReturn {
   }, []);
 
   // 核心抓取逻辑 (可被自动或手动调用)
-  const refetch = useCallback(async () => {
-    // 1. 网络状态前置检查
+  // src/hooks/useLecturesData.ts
+
+  // ---> 找到原先的 refetch 函数，替换为以下代码 <---
+  const refetch = useCallback(async (isManual: boolean = false) => {
     if (!navigator.onLine) {
       setSyncStatus('offline');
       return;
@@ -50,9 +52,13 @@ export function useLecturesData(): UseLecturesDataReturn {
     setSyncStatus('fetching');
 
     try {
+      // 如果是手动刷新，追加时间戳参数击穿 CDN 缓存，并指示浏览器不使用本地缓存
+      const fetchOptions: RequestInit = isManual ? { cache: 'no-store' } : {};
+      const cacheBuster = isManual ? `?t=${Date.now()}` : '';
+
       const [scienceRes, humanityRes] = await Promise.all([
-        fetch(API_ENDPOINTS.SCIENCE),
-        fetch(API_ENDPOINTS.HUMANITY)
+        fetch(`${API_ENDPOINTS.SCIENCE}${cacheBuster}`, fetchOptions),
+        fetch(`${API_ENDPOINTS.HUMANITY}${cacheBuster}`, fetchOptions),
       ]);
 
       if (!scienceRes.ok || !humanityRes.ok) {
@@ -62,7 +68,6 @@ export function useLecturesData(): UseLecturesDataReturn {
       const scienceJson: RawLectureResponse = await scienceRes.json();
       const humanityJson: RawLectureResponse = await humanityRes.json();
 
-      // 组装数据，严格保留所有重复项，不做过滤
       const newData: AggregatedLectures = {
         science: scienceJson.lectures,
         humanity: humanityJson.lectures,
@@ -73,13 +78,12 @@ export function useLecturesData(): UseLecturesDataReturn {
       const latestTimeStr = sciTime > humTime ? scienceJson.generatedAt : humanityJson.generatedAt;
       const currentLocalTime = Date.now();
 
-      // 更新内存状态
+      // 更新状态 (React 的 setState 引用是稳定的，不需要加入依赖数组)
       setData(newData);
       setLastUpdated(latestTimeStr);
       setLocalSyncTime(currentLocalTime);
       setSyncStatus('success');
 
-      // 更新持久化缓存
       const cachePayload: CachePayload = {
         data: newData,
         generatedAt: latestTimeStr,
@@ -89,16 +93,18 @@ export function useLecturesData(): UseLecturesDataReturn {
 
     } catch (err) {
       console.error('拉取最新讲座数据失败:', err);
-      // 如果报错时用户本身就有数据(缓存)，降级为 offline 提示；否则判定为 error
-      setSyncStatus(data ? 'offline' : 'error');
+      // 不依赖 state 中的 data，直接向底层的 localStorage 要真相
+      // 这样既能实现准确的降级判断，又能斩断 useCallback 的依赖闭包
+      const hasCache = !!localStorage.getItem(STORAGE_KEYS.CACHED_LECTURES_DATA);
+      setSyncStatus(hasCache ? 'offline' : 'error');
     }
-  }, [data]);
+  }, []); // 依赖数组彻底清空！
 
   // 首次挂载时的执行序列与全局网络事件监听
   useEffect(() => {
     // 尝试优先使用缓存，保证页面瞬间渲染
     loadFromCache();
-    
+
     // 立即在后台静默发起一次同步
     refetch();
 

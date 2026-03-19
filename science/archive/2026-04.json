@@ -7,7 +7,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "徐鲁宁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8463/view",
     "startTimestamp": 1777354200000,
     "endTimestamp": 1777359900000,
@@ -15,7 +15,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "PID控制方法被称为工业控制中的神器，至今在工业控制领域占有及其重要的地位，在智能机器人领域中默默贡献着。为何它会历久不衰、历久弥新？本次讲座谈谈PID控制方法的前世今生……",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "AGFDOFFC",
@@ -25,7 +25,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李琦",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8459/view",
     "startTimestamp": 1777015500000,
     "endTimestamp": 1777021200000,
@@ -33,7 +33,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "讲解作为电动汽车核心零部件的电机驱动系统的未来发展趋势",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "GACJABIJ",
@@ -43,7 +43,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8456/view",
     "startTimestamp": 1776940200000,
     "endTimestamp": 1776945900000,
@@ -51,7 +51,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二1",
     "parallelVenue": "",
     "introduction": "深度学习有很多良好优点，但其中的一朵乌云是数据标注难。数据标注需要大量人力物力财力，还要结合各专业领域，如何在利用深度学习大数据驱动优势的同时降低数据标注工作量和难度，本讲座从网络框架构建方面，怎么设计自监督、无监督、半监督的网络框架来减弱这朵乌云的影响。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "JLBHNGOM",
@@ -61,7 +61,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8455/view",
     "startTimestamp": 1776853800000,
     "endTimestamp": 1776859500000,
@@ -69,7 +69,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二1",
     "parallelVenue": "",
     "introduction": "深度学习有很多良好优点，但其中的一朵乌云是数据标注难。数据标注需要大量人力物力财力，还要结合各专业领域，如何在利用深度学习大数据驱动优势的同时降低数据标注工作量和难度，本讲座从数据集构建方面，转换思维，从多个角度来减弱这朵乌云的影响。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "LEJIHELL",
@@ -79,7 +79,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "王小霞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8451/view",
     "startTimestamp": 1776853800000,
     "endTimestamp": 1776859500000,
@@ -87,7 +87,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二5",
     "parallelVenue": "",
     "introduction": "近年来，随着微波真空电子器件向高功率、高频率的发展，要求热阴极进一步降低工作温度、提高发射电流密度及耐长脉宽工作的能力。因此，发射电流密度高于50A/cm2钪型高发射电流密度阴极成为近20年多来热阴极的研究热点。\n系列讲座的第三讲将介绍钪型高发射电流密度阴极电子发射理论、技术发展历程和未来发展展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "HMEEEOGH",
@@ -97,7 +97,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘亚波",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8461/view",
     "startTimestamp": 1776835800000,
     "endTimestamp": 1776841500000,
@@ -105,7 +105,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "首先介绍合成孔径雷达微波视觉概念与相关成像处理和解译方法。最后提出伴随芯片、集成电路、人工智能和电磁场与电磁波等多领域的快速发展，合成孔径雷达也呈现出日新月异的态势，介绍其发展趋势与应用前景。\n本讲重在讲述合成孔径雷达最新发展，包括微波视觉新概念和方法，以及其应用前景和发展趋势",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "IJEGFLPJ",
@@ -115,7 +115,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘亚波",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8460/view",
     "startTimestamp": 1776817800000,
     "endTimestamp": 1776828600000,
@@ -123,7 +123,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "概述合成孔径系统组成、设计方法，针对不同平台分析特点及相应信号处理方法。\n在第一讲的基础上，本讲较为详细介绍了合成孔径雷达相关的知识和概念，对其中一些关键点进行了剖析，使同学们能够具象化理解微波成像。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "FFCMGFNC",
@@ -133,7 +133,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "徐鲁宁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8462/view",
     "startTimestamp": 1776749400000,
     "endTimestamp": 1776755100000,
@@ -141,7 +141,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "反馈放大器是电路的重要组成部分，诞生之始，问题多多；正是这些问题，促成了一整套频率分析方法的出现。本次讲座讲述反馈放大器与频率分析方法的邂逅……",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "LMGPCDCM",
@@ -151,7 +151,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李震",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8449/view",
     "startTimestamp": 1776663000000,
     "endTimestamp": 1776668700000,
@@ -159,7 +159,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "介绍冻土分布与冻融监测的主要内容，包括冻土分布、冻土冻融变化、冻土形变、热融湖塘和冻土活动层的遥感观测方法、主要发展历程、国内外最新研究进展和未来发展展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "MKNKGEAE",
@@ -169,7 +169,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李震",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8448/view",
     "startTimestamp": 1776651900000,
     "endTimestamp": 1776657600000,
@@ -177,7 +177,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "介绍积雪遥感的主要内容，包括积雪覆盖范围、积雪厚度（雪水当量），积雪含水量、积雪反照率、积雪密度、积雪粒径和积雪分层等特性的遥感观测方法、国内外最新研究进展和未来发展展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "LFCEINHM",
@@ -187,7 +187,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李琦",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8458/view",
     "startTimestamp": 1776410700000,
     "endTimestamp": 1776416400000,
@@ -195,7 +195,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "讲解作为电动汽车核心零部件的逆变器的发展脉络、基本理论、关键技术",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "CIOJFMFC",
@@ -205,7 +205,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8454/view",
     "startTimestamp": 1776335400000,
     "endTimestamp": 1776341100000,
@@ -213,7 +213,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二1",
     "parallelVenue": "",
     "introduction": "主要讲解从第一个生成对抗网络GAN开始，后面多种GAN的变形网络到目前的Diffusion等生成式网络的基本原理、发展变化和未来展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "POLEBCGA",
@@ -223,7 +223,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘亚波",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8457/view",
     "startTimestamp": 1776317400000,
     "endTimestamp": 1776327000000,
@@ -231,7 +231,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "通过介绍对客观世界的多维感知，引入广义成像与合成孔径关系原理。进一步结合微波频段特性，阐述其感知世界的优势和特性。宇宙空间浩瀚深邃，合成孔径雷达全天时全天候工作的特点特别有利于对空间物质探测，本讲结合我国月球探测方面的进展讲述合成孔径雷达在推动深空探测方面的作用和前景。\n本章重在从宏观层面讲解，使同学们可以从传统成像角度理解微波成像，并进一步理解合成孔径雷达概念。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "PDHPFHPP",
@@ -241,7 +241,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘春秀",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8421/view",
     "startTimestamp": 1776299400000,
     "endTimestamp": 1776309000000,
@@ -249,7 +249,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一3",
     "parallelVenue": "",
     "introduction": "水凝胶及器件的发展历程、传感器应用及前景。水凝胶类似人体软组织，其柔软性及优异的导电性能，具备优良的可穿戴神经接口特点，水凝胶技术在推动神经接口从实验室走向临床的过程中扮演着不可或缺的角色，未来在医疗和消费电子领域有望获得更广泛的应用。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "BDIIAHGF",
@@ -259,7 +259,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8453/view",
     "startTimestamp": 1776249000000,
     "endTimestamp": 1776254700000,
@@ -267,7 +267,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二1",
     "parallelVenue": "",
     "introduction": "主要讲解卷积神经网络的理论、发展过程、最新进展和未来展望，这也是后面几讲的基础性内容。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "CIKFAPMO",
@@ -277,7 +277,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "王小霞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8450/view",
     "startTimestamp": 1776249000000,
     "endTimestamp": 1776258000000,
@@ -285,7 +285,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二5",
     "parallelVenue": "",
     "introduction": "使用碱土金属氧化物涂覆在金属阴极表面来提高阴极的热电子发射效率，是热阴极发展历程中的一个里程碑。氧化物阴极具有工作温度低、窄脉冲发射电流密度大、成本低等特点；浸渍覆膜钡钨阴极具有比氧化物阴极更强的连续波及长脉宽电子发射能力，这两类热阴极是在真空电子电子器件中应用最为广泛。\n第二讲主要讲述这两种热阴极的电子发射理论与技术发展历程、最新进展和未来发展展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "ALPELBEE",
@@ -295,7 +295,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马启明",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8444/view",
     "startTimestamp": 1776231000000,
     "endTimestamp": 1776236700000,
@@ -303,7 +303,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "本讲聚焦电磁脉冲探测的核心定位方法，依次展开单站定位、测向定位及时差定位的原理讲解。详细说明各类定位方法的核心逻辑、计算模型、适用场景及精度影响因素，重点解析单站定位的便捷性、测向定位的方向识别优势及时差定位的高精度特点，帮助学习者掌握不同场景下电磁脉冲定位技术的选择逻辑与应用要点，为实际探测工作提供方法支撑。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "BFINCIIO",
@@ -313,7 +313,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李震",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8447/view",
     "startTimestamp": 1776231000000,
     "endTimestamp": 1776236700000,
@@ -321,7 +321,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "介绍冰川变化监测的主要内容，包括冰川范围、冰川运动速度、冰川厚度、冰川雪线、冰碛物及冰裂隙的参数的遥感观测方法、主要发展历程、国内外最新研究进展和未来发展展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "BFNGHNHD",
@@ -331,7 +331,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李震",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8446/view",
     "startTimestamp": 1776219900000,
     "endTimestamp": 1776225600000,
@@ -339,7 +339,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "主要介绍冰冻圈的内容，研究意义，其关键要素冰川、积雪、冻土和极地海冰的特点，及其光谱特征，散射特性，光学遥感和微波遥感监测冰川、积雪、冻土和极地海冰的基本原理。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "PHFPLNJJ",
@@ -349,7 +349,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "肖立业",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8428/view",
     "startTimestamp": 1776160800000,
     "endTimestamp": 1776168000000,
@@ -357,7 +357,7 @@
     "mainVenue": "雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "为了支撑可再生能源的大规模消纳与利用，需要发展先进大规模储能技术，本章重点介绍各种储能技术特别是大规模物理储能、混合储能、储热等关键技术及研究方向。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "KKCEDIIO",
@@ -367,7 +367,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭明焕",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8419/view",
     "startTimestamp": 1776144600000,
     "endTimestamp": 1776150300000,
@@ -375,7 +375,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "利用过热蒸汽、熔盐和其他传热介质的线性菲涅尔电站，采用布雷顿循环的塔式电站，利用超临界二氧化碳和超临界水蒸气循环的塔式电站，以及解耦复合循环的塔式电站，太阳能高温热处理应用，如太阳能陶瓷窑。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "ABMCLKGL",
@@ -385,7 +385,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马衍伟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8442/view",
     "startTimestamp": 1776076200000,
     "endTimestamp": 1776083400000,
@@ -393,7 +393,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "2008年发现的铁基超导材料由于具有临界磁场高、各向异性小等优点，被认为是适合于高场领域的超导材料。本文将介绍铁基超导材料发现、基本特性、发展方向、线材制备中存在的问题、及最新进展。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "OGFALCJC",
@@ -403,7 +403,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李琦",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8441/view",
     "startTimestamp": 1775805900000,
     "endTimestamp": 1775811600000,
@@ -411,7 +411,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "讲解作为电动汽车核心零部件的驱动电机的发展脉络、基本理论、关键技术。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "BMBCHJHB",
@@ -421,7 +421,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马衍伟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8440/view",
     "startTimestamp": 1775730600000,
     "endTimestamp": 1775737800000,
@@ -429,7 +429,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "2001年发现的MgB2超导材料因为具有简单的结构、较高的临界转变温度而受到关注，被认为是适用于中温低场的超导材料。本文将介绍MgB2基本特性、影响性能的关键因素、实用化研究历程及最新进展。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "DJOPMFLL",
@@ -439,7 +439,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "王小霞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8438/view",
     "startTimestamp": 1775644200000,
     "endTimestamp": 1775653200000,
@@ -447,7 +447,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二5",
     "parallelVenue": "",
     "introduction": "阴极作为真空电子器件的电子源，它的电子发射性能直接决定了器件的输出功率、工作寿命和可靠性。\n系列讲座的第一讲将首先介绍电子发射基本原理，将重点讲解金属阴极、合金阴极、薄膜阴极的电子发射理论、技术发展历程、最新研究进展以及未来发展的展望。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "PIJPBKNH",
@@ -457,7 +457,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "徐鲁宁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8439/view",
     "startTimestamp": 1775626200000,
     "endTimestamp": 1775631900000,
@@ -465,7 +465,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "根轨迹是控制系统的一种图形化分析方法，而图形是人类获得信息的主要手段，直观而信息丰富。本次讲座，让我们一起重温根轨迹诞生，汲取前辈的思维精华……",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "OOLJGOHD",
@@ -475,7 +475,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马启明",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8437/view",
     "startTimestamp": 1775626200000,
     "endTimestamp": 1775631900000,
@@ -483,7 +483,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "本讲系统介绍电磁脉冲的主要辐射源类型，包括自然辐射源（如闪电）与人工辐射源（如核电磁脉冲、高能电磁脉冲武器），分析不同辐射源的脉冲波形、幅值、频谱等核心特性；最后讲解电磁脉冲在不同介质（大气、空间、地面）中的传播规律，包括衰减特性、散射效应、传播速度等，为后续探测方法与装备学习奠定理论基础。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "MBPJGJJH",
@@ -493,7 +493,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马衍伟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8436/view",
     "startTimestamp": 1775557800000,
     "endTimestamp": 1775565000000,
@@ -501,7 +501,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "根据实际应用对超导材料的要求，分析超导材料几个重要的应用参数，着重介绍超导材料的磁通钉扎机制及临界电流特性。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
   },
   {
     "id": "EFNNMGEO",
@@ -511,7 +511,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "肖立业",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8427/view",
     "startTimestamp": 1775556000000,
     "endTimestamp": 1775566800000,
@@ -519,7 +519,7 @@
     "mainVenue": "雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "重点介绍在清洁低碳能源革命的背景下，新型电力系统的发展趋势—发电能源多样化、智能化、直流化或交直流共存、大电网与微电网共存，以及新型电力系统的构造及其关键技术。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "LBAIHOHE",
@@ -529,7 +529,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭明焕",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8418/view",
     "startTimestamp": 1775539800000,
     "endTimestamp": 1775545500000,
@@ -537,7 +537,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "太阳辐照资源的长期和短期预报，太阳能槽式电站的优化运行，太阳能塔式电站的聚光能流密度的动态优化，技术趋势；前沿的控制和调度技术。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "PFKMEGDK",
@@ -547,7 +547,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马衍伟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8433/view",
     "startTimestamp": 1775212200000,
     "endTimestamp": 1775219400000,
@@ -555,7 +555,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "介绍超导的基本特性、表征超导体的物理量，超导体的分类，各类实用化超导之间的区别、以及制备工艺和最新性能。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "GMKJGMPG",
@@ -565,7 +565,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李琦",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8432/view",
     "startTimestamp": 1775201100000,
     "endTimestamp": 1775206800000,
@@ -573,7 +573,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "讲解电动汽车的发展历史、现状和趋势。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "EFMMMABF",
@@ -583,7 +583,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "袁伟群",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8425/view",
     "startTimestamp": 1775110800000,
     "endTimestamp": 1775117400000,
@@ -591,7 +591,7 @@
     "mainVenue": "雁栖湖 - 教三楼304",
     "parallelVenue": "",
     "introduction": "结合国内外研究现状，分析电磁轨道发射技术的发展方向，探讨其在先进发射系统中的潜在应用前景。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "NJKGIAID",
@@ -601,7 +601,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马启明",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8430/view",
     "startTimestamp": 1775021400000,
     "endTimestamp": 1775027100000,
@@ -609,7 +609,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "本讲作为课程的入门基础，首先阐述电磁脉冲探测在国防安全、气象监测、电子设备防护等领域的研究背景与核心意义，明确该技术的应用价值与发展必要性。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   },
   {
     "id": "DBMNJOMI",
@@ -619,7 +619,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "徐鲁宁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8431/view",
     "startTimestamp": 1775021400000,
     "endTimestamp": 1775027100000,
@@ -627,6 +627,6 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "蒸汽机出现是第一次工业革命的标志，瓦特离心式调速器在蒸汽机转速控制上得到普遍应用，出现了研究控制理论的需求，1868年，英国物理学家麦克斯韦在论文《论调节器》中首先解释了瓦特速度控制系统中出现的不稳定问题；通过线性常微分方程的建立和分析，指出速度控制系统出现的振荡现象与由系统导出的代数方程根的分布密切相关；开辟了用数学方法研究控制系统的先河……",
-    "lastUpdatedAt": "2026-03-19T05:36:06.187Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
   }
 ]

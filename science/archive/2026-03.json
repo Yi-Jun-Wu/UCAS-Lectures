@@ -7,7 +7,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "肖立业",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8426/view",
     "startTimestamp": 1774951200000,
     "endTimestamp": 1774962000000,
@@ -15,7 +15,7 @@
     "mainVenue": "雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "重点讲述清洁低碳能源体系转型的必要性、重要性及可行性，阐述清洁低碳能源体系的图景及涉及到的主要领域与发展方向。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.188Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "FMPAFBAB",
@@ -25,7 +25,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "袁伟群",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8424/view",
     "startTimestamp": 1774935000000,
     "endTimestamp": 1774944600000,
@@ -33,7 +33,7 @@
     "mainVenue": "雁栖湖 - 教三楼307",
     "parallelVenue": "",
     "introduction": "围绕制约电磁轨道发射工程化应用的关键问题，介绍轨道寿命、发射效率、能量供给与系统稳定性等核心技术挑战，并概述相关研究进展。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.188Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "IIHEAEPN",
@@ -43,7 +43,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭明焕",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8417/view",
     "startTimestamp": 1774935000000,
     "endTimestamp": 1774940700000,
@@ -51,7 +51,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "主要介绍新一代熔盐介质真空吸热管，槽式聚光器的新一代导热油，塔式聚光系统的高性能粒子吸热器，塔式聚光系统的液态金属介质吸热器；高温潜热储热，CST系统的热化学储能，直接蒸汽（DSG）太阳能热发电站的储热技术。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.188Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "PHELNMKJ",
@@ -79,7 +79,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘春秀",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8420/view",
     "startTimestamp": 1774503000000,
     "endTimestamp": 1774513200000,
@@ -87,7 +87,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一3",
     "parallelVenue": "",
     "introduction": "佩戴无创汗液柔性传感器系统的发展、现状、产品体系和展望。\n无创检测作为医学检测一直追求的目标，可用非侵入方式监测体液中的分析物，从而动态监测个体的生理健康状态。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.188Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "FBAJGLGM",
@@ -97,7 +97,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "袁伟群",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8423/view",
     "startTimestamp": 1774503000000,
     "endTimestamp": 1774512600000,
@@ -105,7 +105,7 @@
     "mainVenue": "雁栖湖 - 教三楼307",
     "parallelVenue": "",
     "introduction": "介绍电磁轨道发射的基本原理与工作机理，说明电磁力驱动、电磁场分布及电能向动能转化的基本过程，并分析影响发射过程的主要物理因素。",
-    "lastUpdatedAt": "2026-03-19T05:36:06.188Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "LLOLEBEP",
@@ -115,7 +115,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭明焕",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8416/view",
     "startTimestamp": 1774330200000,
     "endTimestamp": 1774335900000,
@@ -123,7 +123,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "太阳能热发电技术简介,主要包括：太阳能，CST的定义，热效率和聚光的必要性，聚光极限，最优工作温度和最大光热转化效率，主要的聚光技术，工业和市场趋势，研究的优先性、策略和趋势。太阳能聚光技术进展,主要包括：太阳聚光器的镜面技术，线性菲涅尔反射镜的新设计。大开口槽式聚光器，多塔聚光热发电站，太阳能聚光器的聚月光技术太空太阳能聚光技术。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "JFIFELMN",
@@ -133,7 +133,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8452/view",
     "startTimestamp": 1774141200000,
     "endTimestamp": 1774152000000,
@@ -141,7 +141,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "本讲座围绕土壤质量演变、污染防控、生态修复、碳循环与全球变化、土壤健康及智慧监测等核心方向，通过梳理土壤环境学科的发展历程与理论基础，深入讲解国内外研究热点与前沿技术，并结合典型案例与最新科研进展，剖析土壤资源保护、面源污染治理、生态安全保障等关键问题，旨在提升学生分析土壤环境领域实际问题的能力，为从事相关科研、管理与工程实践奠定坚实基础。\n宋凡浩，博士，硕士生导师，中国环境科学研究院环境基准标准与风险管控全国重点实验室副研究员，兼任中国环境科学学会新污染物治理专业委员会青年委员等。长期从事有机质与污染物领域研究，发表学术论文50余篇，主持国家自然科学基金和国家重点研发计划青年科学家等项目，入选第九届中国科协青年人才托举工程。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "CGEEJHBD",
@@ -151,7 +151,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "赵秀阁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8429/view",
     "startTimestamp": 1774054800000,
     "endTimestamp": 1774065600000,
@@ -159,7 +159,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "暴露科学作为连接环境污染现状与人体健康效应之间的关键桥梁，为人群环境健康风险提供了严谨的暴露量化方法与数据，是实施精准、高效环境健康风险管理不可或缺的科学工具。本讲座通过系统化梳理健康风险评估，详细介绍精准量化环境污染物与人体接触的途径、频率和剂量，深入探讨提升我国环境健康风险评估精准性，为环境健康风险管理提供真正可落地的科学依据。\n赵秀阁，博士，硕士生导师，中国环境科学研究院研究员。国内最早开展“暴露科学”研究的科研人员之一，长期致力于 “环境污染的人体暴露测量、评价与健康风险评估”领域的研究。发表学术论文50余篇，主编专著14部(主编11部、副主编3部)，其中英文专著1部，组织我国环保系统环境与健康相关技术培训10余次。主持各类省部级项目、重点研发计划课题以及标准文件编制多项，作为项目负责人完成了我国首次“中国人群环境暴露行为模式研究”及“典型地区居民环境总暴露研究”等工作，作为主编完成的“中国人群暴露参数手册”“典型地区居民金属环境总暴露量及贡献比手册”等系列工作成果生态环境部正式发布，填补了我国环境健康风险评价基础数据空白；构建的有毒有害污染物环境暴露和风险评估技术理论方法体系及基于同位素和机器学习的人体暴露来源解析等方法，为暴露学科发展起到了积极的推动作用。获国家科技进步二等奖、湖北省科技进步一等奖和中华环保医学会科技进步二等奖各1项。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "GIIPOPLL",
@@ -169,7 +169,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "杜睿",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8407/view",
     "startTimestamp": 1774002600000,
     "endTimestamp": 1774008000000,
@@ -177,7 +177,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "外对生物气溶胶研究现状，使听众充分了解生物气溶胶的前世今生，揭开作为空中生态使者的生物气溶胶的神秘面纱。\n杜睿，1999在中国科学院大气物理研究所获得博士学位，目前是中国科学院大学资源与环境学院教授。研究方向：主要围绕生物气溶胶在大气环境中的作用与生物气溶胶的环境监测方面的关键科学与技术问题开展研究。学术成绩：已主持完成五项国家自然基金面上项目，主持完成了中国科学院先导专项以及北京市基金等科研项目，已发表百余篇科学论文。主要成果发表在Soil biology & Biochemistry，Atmospheric Environment, Atmospheric Research, Science Bulletin, Environmental Microbiology等著名学术刊物。2019年荣获中国科学院“朱李月华优秀教师”奖。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "HMDOHJAJ",
@@ -187,7 +187,7 @@
     "department": "物理科学学院",
     "targetAudience": "全校学生",
     "speaker": "凌意",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8386/view",
     "startTimestamp": 1774002600000,
     "endTimestamp": 1774008000000,
@@ -195,7 +195,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "摘要：量子力学与相对论是现代物理学的两大基石，而怎样将量子理论与广义相对论结合起来理解时空的起源与微观结构依然是理论物理中的基本问题。本报告将从不可思议的量子特性出发介绍纠缠的基本概念，然后通过黑洞与时空虫洞展示它在揭开时空之谜中的关键作用。\n-------------------\n报告人简介：凌意，现为中国科学院高能物理研究所研究员，博士生导师，中国科学院大学岗位教授。美国宾州州立大学博士学位，曾在南昌大学与同事组建相对论天体物理与高能物理中心。研究工作主要集中在量子引力、黑洞物理、宇宙学和理论高能物理等领域,曾兼任引力与相对论天体物理学会副理事长等职。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "EDPHBEAI",
@@ -241,7 +241,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8434/view",
     "startTimestamp": 1773900000000,
     "endTimestamp": 1773909000000,
@@ -249,7 +249,7 @@
     "mainVenue": "玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "The cultivation of high-yielding grain crops permitted humanity to culturally develop into modernity and demographically expand and to congregate into dense urban centers under social hierarchies. In this way, the study of the origins of agriculture and the domestication of crops remains one of the most important areas of scholarship in the social sciences. In this talk, I argue that domesticated crops were not human creations, and agriculture was not simply invented. Domestication was the result of an evolutionary process in which people played a role only unwittingly and as actors in a numberless cast that spanned the plant and animal kingdoms. In my recent book, Nature's Greatest Success I bring together recent scientific discoveries and discuss ongoing research to provide a systematic account of not only how agriculture really developed but why. I focus on a few new theories about how domestication unfolded.",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "FFHBIHKL",
@@ -259,7 +259,7 @@
     "department": "计算机科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8415/view",
     "startTimestamp": 1773822600000,
     "endTimestamp": 1773828000000,
@@ -267,7 +267,7 @@
     "mainVenue": "雁栖湖 - 教一楼305",
     "parallelVenue": "玉泉路 - 人文楼教一3",
     "introduction": "线上讲座平台及会议号：腾讯会议 会议号272251326\n世界模型是大模型的发展方向，也是走向通用人工智能的必要台阶。世界模型对智能体提出了更高的要求，其不仅需要对环境和物理规律建模，还需要及时感知环境变化并做出相应的决策。智能体对于环境的观测是流式视频，因而长视频理解就是智能体必不可少的能力，可称为世界模型的大脑。近年来，在多模态大语言模型的推动下，长视频理解算法取得了长足进步，但大部分算法依然只能解决基础问答任务，在评价指标上也未能形成完整体系。本团队以长篇影视剧为切入点，通过大量数据工程，定义了时间范围更广、逻辑更复杂、颗粒度更精细的长视频理解任务，并且提出基于多模态工具的推理框架，使得长视频理解算法在精度和效率上达到更好的平衡。基于这些研究成果，本团队进一步提出“长视频知识化”的愿景，以综合评估长视频理解算法的精度和时效性，为其在世界模型上的应用奠定基础。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "OLMJPEMO",
@@ -277,7 +277,7 @@
     "department": "物理科学学院",
     "targetAudience": "全校学生",
     "speaker": "温良剑",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8382/view",
     "startTimestamp": 1773397800000,
     "endTimestamp": 1773403200000,
@@ -285,7 +285,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "内容简介：中微子是物质世界的基本粒子之一，对宇宙的起源与演化起到关键作用。中微子振荡是一种宏观尺度上的量子效应，是迄今发现的超出粒子物理标准模型的唯一确凿证据，表明中微子质量不为零。中微子仍有很多未解之谜，是粒子物理、天体物理和宇宙学的交叉前沿。日本的超级神冈实验和加拿大的SNO实验分别发现了大气中微子振荡和太阳中微子振荡，获得2015年诺贝尔物理奖。我国的大亚湾反应堆中微子实验（Daya Bay）发现了第三种振荡模式，发现最小的中微子混合角θ13不为零，并精确测量了其大小。正在运行的江门中微子实验，是国际上中微子研究三大旗舰装置之一，其首要科学目标是确定中微子质量顺序、精确测量中微子振荡参数，并开展丰富的天体中微子研究，未来还将升级，探索中微子的马约拉纳属性。本报告将回顾中微子研究简史、大亚湾反应堆中微子实验，介绍江门中微子实验的设计、建设和首批物理成果。\n\n报告人简介：温良剑，中国科学院高能物理研究所研究员，长期从事中微子物理和实验研究，参与了大亚湾反应堆中微子实验建设和物理分析，目前在江门中微子实验（JUNO）开展中微子振荡、超新星中微子、以及未来的无中微子双贝塔衰变（0υββ）实验关键技术研究，任JUNO物理协调人；并参与美国EXO-200/nEXO实验寻找Xe-136的0υββ过程。曾获腾讯“科学探索奖”、中国科学院青年科学家奖、国际纯粹与应用物理学联合会粒子与场（IUPAP-C11）青年科学家奖。",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "BELNFMCE",
@@ -313,7 +313,7 @@
     "department": "生命科学学院",
     "targetAudience": "全校研究生",
     "speaker": "康乐",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8397/view",
     "startTimestamp": 1773379800000,
     "endTimestamp": 1773388800000,
@@ -321,7 +321,7 @@
     "mainVenue": "雁栖湖 - 教二楼213",
     "parallelVenue": "",
     "introduction": "蝗虫群聚是蝗灾爆发的直接诱因。蝗虫的聚集是依靠群聚信息素。该研究鉴定出群居飞蝗两种特异性挥发物-苯乙腈(PAN)与4-乙烯基苯甲醚(4VA)。证明PAN是飞蝗的警戒信息素和毒物前体，用于群体防御和避免种内自相蚕食。发现4VA为蝗虫真正的群聚信息素，鉴定其嗅觉受体OR35，并在田间加以证明。解析这两种嗅觉冲突信号在飞蝗群聚成灾的“起始-维持”过程中的核心机制。揭示4VA生物合成过程和关键合成酶以及小分子限制物。相关研究为蝗灾预测与防控提供重要理论与应用基础",
-    "lastUpdatedAt": "2026-03-19T05:36:08.908Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   },
   {
     "id": "KHBLKMPD",
@@ -403,7 +403,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8465/view",
     "startTimestamp": 1774337100000,
     "endTimestamp": 1774342800000,
@@ -411,6 +411,6 @@
     "mainVenue": "雁栖湖 - 教三楼204",
     "parallelVenue": "",
     "introduction": "主讲人简介\nAndré Thess is a Professor of Energy Storage at the University of Stuttgart and Director at the German Aerospace Center (DLR). His research focuses on high-temperature and thermochemical storage, Carnot batteries, and electric flight. He authored The Entropy Principle and teaches \"Thermodynamics of Energy Storage Systems\" and \"Culinary Thermodynamics\"—the first German course to scientifically prove homemade food's superiority.\nHe has served on the IUTAM bureau, the GAMM board, and the DFG scientific board (2008–2016), and chaired a research training group at Ilmenau University (2010–2013).\nA active science communicator, he contributes to German media and YouTube. His energy-policy books, Sieben Energiewendem?rchen? (2000) and Der Energiegipfel (2025), both reached #1 on Amazon's bestseller list.\n报告摘要\nThis presentation provides an overview of thermal energy storage (TES) in two parts.\nPart I introduces the principles of TES, emphasizing its role in enabling dispatchable renewables. It addresses the challenge of cost-effective energy storage and compares TES with batteries, pumped hydro, and compressed air. Key concepts like Carnot batteries and concentrated solar power are highlighted, showing how TES stores energy using inexpensive materials such as water, CO?, and solids.\nPart II focuses on building applications, particularly decentralized heat supply. Using a zero-energy sauna demonstrator, it illustrates how TES enables CO?-free, off-grid systems through solar energy and heat exchangers. The example highlights TES advantages over batteries, including sustainability, safety, and longevity. An ecological assessment confirms TES has low environmental impact and high resource efficiency.\nIn summary, TES is presented as a versatile, scalable, and eco-friendly technology suited for both large-scale systems and building-level applications.",
-    "lastUpdatedAt": "2026-03-19T05:36:06.185Z"
+    "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
   }
 ]

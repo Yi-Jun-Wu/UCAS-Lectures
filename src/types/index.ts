@@ -21,10 +21,17 @@ export interface MergedLecture {
 // 讲座类型枚举 (使用纯字符串而非数字)
 export type LectureCategory = 'science' | 'humanity';
 
+// 同步状态类型
+export type SyncStatus = 'idle' | 'fetching' | 'success' | 'error' | 'offline';
+
+// 地点类型
+export type CampusLocation = '雁栖湖' | '中关村' | '玉泉路' | '未知';
+
 // 扩展后的应用级讲座数据 (App.tsx 派发给子组件的数据)
 export interface AppLecture extends MergedLecture {
   type: LectureCategory;
   isStarred: boolean;
+  locations: CampusLocation[]; // 新增：计算后的地点标签
 }
 
 // 新增：GitHub Raw JSON 的顶层包裹结构
@@ -49,6 +56,13 @@ export interface UILecture extends AppLecture {
   zIndex: number;         // 基础层级，加星标的会加上特定基数
 
   overlappingIds: string[]; // 记录与当前讲座重叠的其他讲座 ID 列表, 包含它自身的 ID
+}
+
+// 4. 全局筛选器状态接口
+export interface AppFilters {
+  science: boolean;
+  humanity: boolean;
+  locations: CampusLocation[]; // 新增：当前选中的地点
 }
 
 // 拥挤度指示器的数据结构

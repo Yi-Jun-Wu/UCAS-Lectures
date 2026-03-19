@@ -1,9 +1,9 @@
 import React from 'react';
-import type { LectureCategory } from '../../types';
+import type { LectureCategory, AppFilters } from '../../types';
 
 interface HeaderProps {
   lastUpdated: string | null;
-  filters: { science: boolean; humanity: boolean };
+  filters: AppFilters;
   onToggleFilter: (type: LectureCategory) => void;
 }
 

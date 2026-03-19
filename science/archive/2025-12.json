@@ -7,7 +7,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8349/view",
     "startTimestamp": 1767147900000,
     "endTimestamp": 1767153600000,
@@ -15,7 +15,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "主要讲解从第一个生成对抗网络GAN开始，后面多种GAN的变形网络到目前的Diffusion等生成式网络的基本原理、发展变化和未来展望",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.078Z"
   },
   {
     "id": "HHPKCBED",
@@ -25,7 +25,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8348/view",
     "startTimestamp": 1767093600000,
     "endTimestamp": 1767099600000,
@@ -33,7 +33,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "主要讲解卷积神经网络的理论、发展过程、最新进展和未来展望，这也是后面几讲的基础性内容",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.078Z"
   },
   {
     "id": "IFENCFMJ",
@@ -43,7 +43,7 @@
     "department": "人文学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8353/view",
     "startTimestamp": 1767079800000,
     "endTimestamp": 1767087000000,
@@ -51,7 +51,7 @@
     "mainVenue": "玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "植物驯化与农业的兴起是人类历史与生态演进的关键转折。从地质与考古学交叉视角探究该进程，对理解人类适应与早期社会发展具有重要的学术意义。因此，作物遗存及其野生祖本的鉴别及其应用始终是植物考古学的核心研究方向，植硅体分析已成为全球相关研究中不可或缺的重要手段。本报告将系统阐述粟、黍、稻、麻等作物及其野生祖本的植硅体鉴别方法，并结合典型案例，探讨这些方法在早期植物栽培、驯化过程及古环境变迁研究中的应用。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.078Z"
   },
   {
     "id": "GLGENHGP",
@@ -61,7 +61,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "何丽娟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8280/view",
     "startTimestamp": 1767072600000,
     "endTimestamp": 1767079200000,
@@ -69,7 +69,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "何丽娟，中国科学院地质与地球物理研究所研究员，博士生导师，地球物理学会理事，地球物理学报编委，前国际热流委员会委员。毕业于北京大学固体地球物理专业。长期从事大地热流、盆地热历史、和岩石圈构造-热演化数值模拟等方面的研究。在岩石圈拉张与沉积盆地演化、岩石圈-软流圈相互作用和克拉通破坏方面获得了重要成果。发表SCI 文章50余篇。曾获高等学校科学技术奖自然科学奖一等奖，国土资源科学技术奖二等奖。多次负责/参加国家重点研发、国家自然科学基金等项目。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "GPMCPMKP",
@@ -79,7 +79,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "王爱慧",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8273/view",
     "startTimestamp": 1767072600000,
     "endTimestamp": 1767079200000,
@@ -87,7 +87,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "王爱慧，主要研究方向为陆气相互作用与气候变化，着重关注气候变化或人类活动引起的陆面水文、能量、生态过程变化以及其对气候和极端气候的反馈影响，并通过陆气耦合模式开展陆面异常变化对次季节到季节尺度气候的预测研究。已发表论文90余篇。主持国家青年科学基金项目（A类）、国家重点研发计划项目课题等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "MCMKHCAO",
@@ -97,7 +97,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "朱茂炎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8262/view",
     "startTimestamp": 1767006000000,
     "endTimestamp": 1767012600000,
@@ -105,7 +105,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "朱茂炎  中国科学院院士，中国科学院南京地质古生物研究所研究员\n中国科学院南京地质古生物研究所研究员，国际地层委员会成冰系分会主席，《Global and Planetary Change》和《地层学杂志》主编，《中国科学:地球科学》副主编。主要从事早期复杂生命和地球-生命系统演化等方面的研究，曾任“973”计划首席科学家, 主持国家科技专项项目, 联合发起并主持国际地质对比计划和国际大陆钻探计划项目等。发表论文300余篇，其中Nature/Science/PNAS及其子刊论文21篇。获中国科学院自然科学特等奖、求是杰出科技成就集体奖, 以及德国哥廷根科学院外籍院士、伦敦地质学会荣誉会士。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "ALILDGCM",
@@ -133,7 +133,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李晓南",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8258/view",
     "startTimestamp": 1766802300000,
     "endTimestamp": 1766808000000,
@@ -141,7 +141,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "电磁波动方程电磁特性反演\n电磁特性成像临床实践",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "EIOFNDKJ",
@@ -151,7 +151,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李子申",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8255/view",
     "startTimestamp": 1766745000000,
     "endTimestamp": 1766750700000,
@@ -159,7 +159,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "商业航天、低空经济是当前我国新质生产力和战略新兴产业发展的重要领域，近年来发展非常迅速。本报告将重点介绍我国商业航天发展的现状及其与国外对比、低空经济的基本概念和内涵等；在此基础上，阐述空天信息在低空经济中应用方向，展望未来发展主要趋势。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "FPHBHCBF",
@@ -169,7 +169,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8347/view",
     "startTimestamp": 1766658600000,
     "endTimestamp": 1766667600000,
@@ -177,7 +177,7 @@
     "mainVenue": "雁栖湖 - 国际会议中心报告厅",
     "parallelVenue": "",
     "introduction": "海洋，关乎国运兴衰。中华民族的航母梦，承载着向海图强的百年夙愿，贯穿了从屈辱到奋起的现代史。高学敏将军将结合亲身经历与研究，为我们生动讲述：新中国海权面临的严峻挑战与历史阵痛；海军发展关键节点的战略抉择；以及从“瓦良格”号到辽宁舰，直至实现电磁弹射技术超越的奋进征程。这场报告将揭示，中国海军如何走出一条布满荆棘却写满辉煌的自立自强之路。敬请期待，共同感受这份闪耀的奋斗精神。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.079Z"
   },
   {
     "id": "AECNHONM",
@@ -205,7 +205,7 @@
     "department": "工程科学学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8342/view",
     "startTimestamp": 1766642400000,
     "endTimestamp": 1766647800000,
@@ -213,7 +213,7 @@
     "mainVenue": "雁栖湖 - 教一楼306",
     "parallelVenue": "",
     "introduction": "在本报告中, 首先通过指出湍流数值模拟建模理论研究历史中存在的问题，给出了正确的湍流数值模拟建模理论基础和多尺度湍流模型概念；给出了湍流封闭性问题的数值解法；提出了湍流数值模拟的大中小尺度分解概念；明确了关联函数的算法及其与湍流模式的联系；指出了湍流界中验证湍流模型和湍流数值模拟结果的定量比对方法中存在的物理概念问题，给出了正确的粗粒化定量比对方法。\n在以上研究基础上,遵从周培源1940年湍流数值模拟开创性论文的建议,从第一性原理出发建立了没有人为假设的、普适的、可在网格意义下将RANS、LES、DES和DNS统一的可压缩湍流时空耦合最优低维动力系统多尺度数值模拟LMS方法, 并首次得到湍流的中尺度流场和在大涡模拟概念下的湍流近似解,加深了对湍流复杂性的认识。\n然后，对时空耦合动力系统与湍流时空复杂性进行讨论: 指出建立时空耦合动力系统理论的重要性和由此揭示湍流的产生和演化的时空复杂性的数学之源.\n通过分析发现了计算流体力学中长期被忽略的有限截断方程误差概念，并与湍流数值模拟建模理论方法的对比，明确了LMS方法可为减小计算流体力学中的有限截断方程误差提供一条可行之路和方法，并得到将湍流数值模拟与计算流体力学统一的新计算流体力学方法。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "IMJEOKOK",
@@ -223,7 +223,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "刘洪",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8279/view",
     "startTimestamp": 1766640600000,
     "endTimestamp": 1766647200000,
@@ -231,7 +231,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "刘洪，中国科学院地质与地球物理研究所研究员\n1988年12月在清华大学获得博士学位。1991年11月在中国科学院地球物理研究所任副研究员，1994年10月任研究员，1997年3月获得政府特殊津贴。1995年6月-1996年1月和2002年8月-10月曾分别赴美国德克萨斯大学达拉斯分校，加拿大阿尔伯塔大学达拉斯分校访问研究。现任中国科学院地质与地球物理研究所研究员博士生导师，曾任地球物理学报常务副主编、SEG中国指导委员会主席。2011年获得北京市科技进步三等奖(排名第一),2016年中国地球物理科学技术进步奖二等奖(排名第一)。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "BOACMEHD",
@@ -241,7 +241,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "陈活泼",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8271/view",
     "startTimestamp": 1766629800000,
     "endTimestamp": 1766636400000,
@@ -249,7 +249,7 @@
     "mainVenue": "雁栖湖 - 教二楼327",
     "parallelVenue": "",
     "introduction": "陈活泼，北京师范大学京师特聘岗位（B1）教授，博士生导师。主要从事极端气候变化研究，在极端气候变化动力学机制、检测与归因、预估及影响等方面取得了系统性的创新成果；在国际高质量期刊发表论文 120余篇，被SCI引用超过5000次，有10篇被IPCC第六次评估报告正文引用；曾荣获中国气象学会气象科学技术进步成果奖一等奖、涂长望青年气象科技奖、江苏省自然科学奖一等奖等。主持国家自然科学基金委青A项目（原国家杰出青年科学基金）、青B项目（原国家自然科学基金委优秀青年科学基金）、国际合作项目、国家重点研发计划课题等。担任《Journal of Meteorological Research》、《气象学报》、《大气科学学报》等期刊编委。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "OJNDEDAH",
@@ -277,7 +277,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "丁林",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8261/view",
     "startTimestamp": 1766543400000,
     "endTimestamp": 1766550000000,
@@ -285,7 +285,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "丁林  中国科学院院士，中国科学院青藏高原研究所研究员\n青藏高原地球系统与资源环境全国重点实验室主任。主要从事青藏高原研究，大陆碰撞与俯冲、高原隆升及环境影响、支撑国家战略工程等三方面取得了系统的创新成果，在Science， PNAS，SA，NREE，Geology等期刊发表论文300余篇论文引用33000多次，H指数93，是国际地球科学前1%的高引用科学家。曾获首届(1995)青藏高原青年科技奖，2006年获国家杰出青年科学基金，2010年获国土资源部科学技术一等奖，2012年获国土资源部“青藏高原地质理论创新与找矿重大突破先进个人”称号，2019年获“朱李月华”优秀教师奖，2020年获中国科学院杰出科技成就奖(排名第一)，2021年获全国五一劳动奖章，2022年入选美国及中国地质学会荣誉会士，2023年获国家自然科学二等奖(排名第一)。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "CPCJADJI",
@@ -295,7 +295,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马腾飞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8302/view",
     "startTimestamp": 1766543100000,
     "endTimestamp": 1766548800000,
@@ -303,7 +303,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "本讲座将介绍博弈论这一强大分析工具如何应用于电力交易。我们将回顾经典模型，并展示它们如何解析发电商的报价策略、市场力行使等核心问题。进而，探讨拍卖理论在统一出清市场中的应用，并展望博弈论在V2G、去中心化交易等新兴领域的前沿角色。讲座旨在为大家理解电力市场复杂行为、思考市场机制设计提供全新的理论视角。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "IAGAMCBE",
@@ -313,7 +313,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "殷雅侠",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8338/view",
     "startTimestamp": 1766478000000,
     "endTimestamp": 1766483400000,
@@ -321,7 +321,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "可充放钠二次电池以其显著的可持续性、经济性成为极具应用前景的电化学储能技术，层状氧化物正极材料、硬碳负极等关键材料及其界面化学特性很大程度上决定了电池的能量密度、循环稳定性及倍率性能。层状氧化物正极中存在复杂相变、倍率性能不佳和循环稳定性差的问题。此外，钠离子电池在循环过程中，首圈充电过程中电解液还原分解在负极表面形成固体电解质界面（SEI）膜会消耗活性钠，同时循环过程中SEI面临持续生长的问题，这些将大量消耗全电池中有限的活性钠离子，造成不可逆容量损失和内部阻抗增加。针对这些问题，我们通过合理的阳离子取代，构筑了系列高性能的层状氧化物正极材料。同时，开发了安全实用的正极补钠添加剂，解决了硬碳负极在形成SEI膜过程存在的首圈库伦效率低，造成全电池能量密度和循环稳定性降低的问题。提出抑制电子泄露稳定碳负极/电解质界面的设计策略，缓解了碳负极循环过程中SEI持续生长的问题，实现了电极/电解质界面的稳定化。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "KJLOEEKI",
@@ -331,7 +331,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8339/view",
     "startTimestamp": 1766467800000,
     "endTimestamp": 1766478600000,
@@ -339,7 +339,7 @@
     "mainVenue": "玉泉路 - 人文楼教一1",
     "parallelVenue": "",
     "introduction": "本讲座基于对考古发现与相关研究的梳理，将中国早期冶金的发展过程为四个阶段。第一阶段（前四千纪至前三千纪末），仰韶、马家窑及新疆早期考古学文化中已出现少量金属器物；第二阶段（前三千纪末），龙山、马厂和齐家文化的用铜遗存增多，河西走廊粟作人群开启了本土化的冶金生产；第三阶段（前二千纪早期），以西城驿—齐家冶金共同体为核心，用铜技术沿向北方及中原扩散；第四阶段（约前1700—1500年），河西走廊地区的早期冶金达到高峰，二里头遗址建立起中原特征的青铜生产模式。总体而言，中国的早期冶金经历了长期断续的发展过程，区域交流互动在其中发挥了重要作用。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "JGPKDCFC",
@@ -349,7 +349,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "孙建奇",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8269/view",
     "startTimestamp": 1766467800000,
     "endTimestamp": 1766474400000,
@@ -357,7 +357,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "孙建奇，理学博士，研究员，博士生导师。从事中高纬气候系统变化、短期气候预测及极端气候研究。获得国家自然科学二等奖、中国气象学会气象科技进步成果一等奖等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.080Z"
   },
   {
     "id": "FIBCABEN",
@@ -367,7 +367,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "高原",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8278/view",
     "startTimestamp": 1766467800000,
     "endTimestamp": 1766474400000,
@@ -375,7 +375,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "高原，中国地震局地震预测研究所研究员，1999年获得中国科学技术大学博士学位。主要研究方向：地球深部构造，壳幔地震各向异性，地震预测。1998-1999年，瑞士苏黎世理工学院国家公派留学。2000年7-10月，日本东京大学地震研究所访问教授；2007-2010年。英国爱丁堡大学地球科学学院访问教授。2011-2021年，美国密苏里科技大学地质科学与工程系客座教授。2004年获中国地球物理学会傅承义青年科技奖，2012年获国务院特殊津贴。负责完成国家自然科学基金等各类研究项目多项，在SCI检索学术期刊上发表论文80余篇。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "OEBCFKDF",
@@ -385,7 +385,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "吴福元",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8260/view",
     "startTimestamp": 1766401200000,
     "endTimestamp": 1766407800000,
@@ -393,7 +393,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "吴福元  中国科学院院士，中国科学院地质与地球物理研究所研究员\n1990年于长春地质学院获博士学位。2011年获国家自然科学二等奖和发展中国家科学院(TWAS)地球科学奖。长期从事花岗岩岩石学研究，目前的研究重点是高分异花岗岩与稀有金属成矿以及青藏高原形成演化。担任国内外10余家学术杂志主编或编委。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "JDIDHENM",
@@ -421,7 +421,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "李化毅",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8336/view",
     "startTimestamp": 1766391600000,
     "endTimestamp": 1766397000000,
@@ -429,7 +429,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "聚烯烃是用途最广泛、产量最大的合成树脂材料。聚烯烃工业制备主要采用Ziegler-Natta催化剂。聚丙烯用现代Ziegler-Natta催化剂是一类有机/无机复合的多组分多相催化剂，催化剂中有机的内外给电子体结构对催化剂性能有决定性影响。本讲座主要简介聚丙烯Ziegler-Natta催化剂内外给电子体的发展现状、作用机理以及本科组在该领域的基础研究工作和工业应用。\n李化毅，中国科学院化学研究所研究员。2001年获得西北工业大学高分子材料学士学位，2006获得中国科学院化学研究所博士学位，同年进入中科院化学所工作至今。致力于聚烯烃催化剂和聚烯烃新材料的设计、制备、结构与性能的应用探索和基础科学研究。取得多项创新成果并将其成功应用于中国石化、中国石油、国能宁煤等企业，创造了可观的经济和社会效益。承担多项国家自然科学基金项目，发表SCI论文110多篇，获得中国授权发明专利90余项。出版《配位聚合原理》、《工业聚丙烯导论》、《工业聚乙烯导论》等译著。获北京市等省部级科技奖7项。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "AKPGJDDP",
@@ -439,7 +439,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李晓南",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8257/view",
     "startTimestamp": 1766197500000,
     "endTimestamp": 1766203200000,
@@ -447,7 +447,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "磁共振信号采集解析\n激励磁场和检测磁场建模",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "NPGFPJCM",
@@ -457,7 +457,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8298/view",
     "startTimestamp": 1766111100000,
     "endTimestamp": 1766116800000,
@@ -465,7 +465,7 @@
     "mainVenue": "雁栖湖 - 教一楼214",
     "parallelVenue": "",
     "introduction": "首先介绍超导器件的制备工艺。然后讲述超导材料在电力传输、强磁场以及磁悬浮交通等方面的应用进展，以及与之相关的临界磁场、临界电流等重要物理参量。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "NOLIIPOJ",
@@ -475,7 +475,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8343/view",
     "startTimestamp": 1766109600000,
     "endTimestamp": 1766113200000,
@@ -483,7 +483,7 @@
     "mainVenue": "雁栖湖 - 教一楼114",
     "parallelVenue": "",
     "introduction": "Dr.Chuluun’s research activities address sustainability, adaptation and green development of social-ecological systems at local, national, regional and global scales. T. Chuluun studied rangeland ecosystems and pastoral social-ecological system in Mongolia extensively. Dr.Chuluun proposed the inclusion of carbon dioxide emission per capita in the Human Development Index, publishing his research in Nature (Chuluun 2011). Dr. Chuluun is one of authors of the “Review of the Sustainable Development Goals: The Science Perspective” by the ICSU and ISSC (2015).\nT.Chuluun is an initiator and leader of the “Green Development Policy”, adopted by the Parliament of Mongolia on June 13, 2014. Dr.Chuluun served as a Director General of the Department for Green Development Planning and Policy of the Ministry of Environment and Green Development (2012-2013), and Science Advisor to the Minister of Environment and Green Development (2013-2014).\nOne of lead authors of the IPBES Assessment Report on Biodiversity and Ecosystem Services for Asia and the Pacific for the Chapter 2 on “Nature’s contributions to people and quality of life\", 2016-2018 and the IPBES Assessment Report on Land Degradation and Restoration for the “Chapter 5. Land degradation and restoration associated with changes in ecosystem services and functions, and human well-being and good quality of life”, 2016-2018.",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "EAGMFMAL",
@@ -511,7 +511,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8300/view",
     "startTimestamp": 1766038800000,
     "endTimestamp": 1766045400000,
@@ -519,7 +519,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二3",
     "parallelVenue": "",
     "introduction": "首先介绍超导器件的制备工艺。然后讲述超导材料在电力传输、强磁场以及磁悬浮交通等方面的应用进展，以及与之相关的临界磁场、临界电流等重要物理参量。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "BPCMJIOB",
@@ -529,7 +529,7 @@
     "department": "生命科学学院",
     "targetAudience": "全校学生",
     "speaker": "王雯",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8335/view",
     "startTimestamp": 1766025000000,
     "endTimestamp": 1766030400000,
@@ -537,7 +537,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "大数据存储的未来:从硅基到碳基",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "LEKPBGFA",
@@ -547,7 +547,7 @@
     "department": "心理学系",
     "targetAudience": "全校学生",
     "speaker": "杜忆",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8250/view",
     "startTimestamp": 1765967400000,
     "endTimestamp": 1765974600000,
@@ -555,7 +555,7 @@
     "mainVenue": "雁栖湖 - 教一楼207",
     "parallelVenue": "",
     "introduction": "音乐，作为人们“传情达意”的重要媒介，承载着丰富的情感和认知价值。本报告将介绍如何结合先进的认知神经科学技术手段与计算建模方法，从多个角度研究人脑音乐加工及其疗愈机制，包括节奏追踪与预期、文化差异对音乐加工的影响、音乐奖赏，以及音乐训练对抗脑认知衰老的神经机制方面的研究进展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "OPOEFHMN",
@@ -583,7 +583,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8297/view",
     "startTimestamp": 1765938300000,
     "endTimestamp": 1765944000000,
@@ -591,7 +591,7 @@
     "mainVenue": "雁栖湖 - 教一楼214",
     "parallelVenue": "",
     "introduction": "主要介绍超导薄膜器件和约瑟夫森结器件，包括器件的工作原理以及应用现状和性能优势等方面的内容。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "JJBIAEKA",
@@ -601,7 +601,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马腾飞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8301/view",
     "startTimestamp": 1765938300000,
     "endTimestamp": 1765944000000,
@@ -609,7 +609,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "本讲座将解密虚拟电厂如何通过信息技术，将分散的能源资源“聚合打包”，作为整体参与电网调节与电力市场。我们将剖析其系统架构、关键技术、商业模式，并结合国内外实践案例，探讨其面临的挑战与未来趋势，为大家揭示这一构建新型电力系统关键支柱的巨大潜力。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "LOPAPLKB",
@@ -619,7 +619,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "赵国春",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8333/view",
     "startTimestamp": 1765882800000,
     "endTimestamp": 1765889400000,
@@ -627,7 +627,7 @@
     "mainVenue": "雁栖湖 - 国际会议中心报告厅",
     "parallelVenue": "",
     "introduction": "从显微镜下的矿物颗粒到跨越重洋的远古大陆，地质学家的目光如何穿透亿万年的时光迷雾?赵国春院士是重建地球早期历史的“拼图者”，他关于哥伦比亚\n(Nuna)超大陆的假说改写了教科书，为理解地球的演化提供了全新的视角。本次报告， \n       赵国春院士将以“我的科研之路”为主题，结合自身求学与科研的经历，深情讲述他是如何从微观岩石学入手，一步步走向宏观构造与超大陆研究的世界舞台。他将分享在发现华北克拉通碰撞造山带过程中的思考与挑战，以及提出超大陆假说背后的科学逻辑与创新精神。同时，赵院士还将展望前板块构造与行星地质的最新前沿，以此激励青年学子在科研道路上要敢于质疑、勇于创新，以开阔的视野和坚韧的毅力探索未知的科学疆域。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.081Z"
   },
   {
     "id": "HHBDMENN",
@@ -637,7 +637,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8299/view",
     "startTimestamp": 1765866000000,
     "endTimestamp": 1765872600000,
@@ -645,7 +645,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二3",
     "parallelVenue": "",
     "introduction": "主要介绍超导薄膜器件和约瑟夫森结器件，包括器件的工作原理以及应用现状和性能优势等方面的内容。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "HOCEGGLO",
@@ -655,7 +655,7 @@
     "department": "工程科学学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8337/view",
     "startTimestamp": 1765864800000,
     "endTimestamp": 1765870200000,
@@ -663,7 +663,7 @@
     "mainVenue": "雁栖湖 - 教三楼307",
     "parallelVenue": "",
     "introduction": "1941年，Kolmogorov提出了三维各向同性湍流惯性区的4/5定律将可测量的三阶结构函数与能量传输联系起来。惯性区理论被应用于量化自然湍流中能量传递的方向和大小。然而，由于能量注入尺度和双向能量传输的影响，这些理论的适用性存在局限。因此需要建立惯性区之外的结构函数表达式。我们推导出能解析能量注入尺度的全局表达式，用以捕捉双向能量传输现象。通过应用该表达式分析墨西哥湾的漂流浮标数据，我们为海洋湍流中的双向能量传输提供了证据。通过分析太阳风实测数据的三阶结构函数，我们揭示了太阳风中同时存在向大小尺度同时的能量传传输，其呈现能量通量的均分。我们的研究阐明了天体物理等离子体中能量双向传输的存在，确定了驱动太阳风中的磁流体动力学体系中能量源的作用尺度。这些在海洋和太阳风中的发现共同揭示了地球物理湍流中双向能量传输的普适性特征。\n\n谢金翰，北京大学工学院力学与工程科学院副教授、研究员。主要研究方向包括地球流体力学、湍流理论、波涡相互作用。在J. Fluid Mech., Phys. Rev. Fluid, Phys. Fluids, Sci. Advances等国际主流期刊发表论文40余篇。研究得到青年千人项目和国家自然基金支持。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "EBMNAMFM",
@@ -673,7 +673,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "钱紘",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8309/view",
     "startTimestamp": 1765863000000,
     "endTimestamp": 1765868700000,
@@ -681,7 +681,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "主讲人简介：\nProfessor Hong Qian is currently a Chaired Professor at Westlake University, Hangzhou. He had been an Olga Jung Wan Endowed Professor of Applied Mathematics at University of Washington, Seattle.  He received his B.A. in Astrophysics from Peking University and Ph.D. in Biochemistry from Washington University in St. Louis (with E.L. Elson), and worked as postdoctoral researcher at Univ. of Oregon (with J. A. Schellman) and Caltech (with J. J. Hopfield) on biophysical Chemistry and Mathematical Biology.  He was elected a fellow of the American Physical Society in 2010.  Professor Qian’s current research interest is the probabilistic foundation of statistical equilibrium and nonequilibrium physics and their application to complex systems that include biology and data science.  His recent, coauthored book “Stochastic Chemical Reaction Systems in Biology” was published by Springer in 2021.\n\n报告摘要：\nGeneralization through novel interpretations of the inner logic of the century-old Gibbs' statistical thermodynamics is presented: i) Identifying kB→0?as classical energetics, one directly derives a pair of thermodynamic variational formulae?that dictate all the more familiar?1/T=dS(E)/dE,?E=d{F(T)/T}/d(1/T), and?S(E)=?dF(T)/dT?in equilibrium, which is maintained by a duality symmetry with one-to-one relation between?Teq(E) that minimizes E/T?F(T)/T?and?Eeq(T) that minimizes E?TS(E). ii) In contradistinction, taking derivative of the statistical free energy w.r.t.?T, a mesoscopic energetics with fluctuations emerges: This yields two information entropy functions which historically appeared 50 years postdate Gibbs' theory. iii) Combining the above pair of inequalities yields an irreversible thermodynamic potential?ψ(T,E) ≡ {E?F(T)}/T?S(E) ≥ 0?for nonequilibrium states. The second law of thermodynamics as a universal principle reflects?ψ≥0?due to a disagreement between?E?and?T?as a dual pair. Our theory provides a new energetics of living cells which are nonequilibrium, complex entities under constant?T, pressure?p?and chemical potential?μ.?ψ?provides a ``distance'' between statistical data from a large ensemble of cells and a set of intrinsic energetic parameters that encode the information within.  This is a joint work with B. Miao and Y.-S. Wu.",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "KNKLABEA",
@@ -691,7 +691,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "余志祥",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8321/view",
     "startTimestamp": 1765786800000,
     "endTimestamp": 1765792200000,
@@ -699,7 +699,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "许多活性天然产物和药物分子中具有复杂的环系结构。如何高效构建这些环系结构往往成为合成这些分子的最大挑战之一。针对这一科学问题，余志祥课题组在过去二十多年里发展了系列新型成环反应，为化学家合成环系分子骨架提供新的合成工具；其发展一些成环反应还可用于合成自然界还没有发现(或不存在)的一些新型结构，可用于拓展药物发现的空间；他们还将[5+2+1]反应，[3+2+1]反应，[5+1]反应等应用于多个复杂天然产物的合成。在发展成环反应的同时，他们还利用计算化学为主要手段对这些反应的机理进行研究。这种“反应发展和机理研究互动”是近年来有机化学研究的一个重要范式，也是其的科研特色之一。本次报告将主要介绍课题组所发展的合成具有挑战性的七元和八元环的成环反应，以及这些反应的机理研究和应用研究、并介绍常温常压下芳环氢化反应的发现和应用。\n余志祥，北京大学博雅特聘教授。他于2008年获得国家杰出青年基金资助、2015年获聘为教育部长江学者特聘教授。余志祥教授在有机化学和计算化学领域开展工作，科研兴趣是成环反应的发展和在天然产物合成和药物发现上的应用，化学反应机理研究。余志祥教授获得的主要荣誉包括：药明康德生命化学研究奖-学者奖 （2018）、北京大学拜尔研究者奖（2018）、教育部长江学者（2015）、全国百篇优秀博士论文指导导师（2012）、中国化学会-Sci-Finder有机合成创造奖（2011）、中国化学会-巴斯夫公司青年知识创新奖（2011）、中国化学会-物理有机化学奖（2011）、国家杰出青年基金获得者（2008）等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "JBABDBOE",
@@ -709,7 +709,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "马瑾",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8327/view",
     "startTimestamp": 1765692000000,
     "endTimestamp": 1765702800000,
@@ -717,7 +717,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "土壤环境基准是制定土壤环境质量标准的科学根基，在我国土壤环境管理体系中起着基础性支撑作用。本研究系统回顾我国土壤环境基准研究五十年发展历程，将其精准划分为五个阶段：萌芽起步（20世纪70—80年代）、初步应用（90年代）、先行先试（2000—2010年）、系统研究（2011—2019年）、规范发展（2020年至今）。\n\n研究深入剖析了各阶段历史背景与国家需求，梳理关键事件及其影响，介绍代表性学者贡献，列举重要科研项目与标志性成果，客观分析问题不足，阐述成果对土壤环境管理的支撑作用。基于此，构建了中国土壤环境基准研究的历史脉络，拓展深化了其内涵外延。最后，结合生态文明建设与美丽中国战略，提出未来研究方向，为完善基准体系、提升土壤环境管理科学化精细化水平提供参考。\n\n马瑾是中国环境科学研究院研究员、博导，入选国家“万人计划”科技创新领军人才，担任环境基准标准与风险管控全国重点实验室副主任等多个重要职务，还兼任多所高校教授。她长期投身土壤环境基准与地球化学研究，主持2项国家重点研发计划项目及多项国家级项目。以第一/通讯作者在《Science》（Letter）、《ES&T》等国内外权威期刊发表170余篇论文，主编两部学术专著（科学出版社），牵头编制4项团体标准，获20余项发明专利授权。她获评2021年度生态环境部优秀共产党员，荣获2022年度环境保护科学技术二等奖（1/9）、2024年度科技创新团体奖（2/15），研究成果入选2025年度“首都前沿学术成果”。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "IGKOCLFN",
@@ -727,7 +727,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校学生",
     "speaker": "沈国震",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8316/view",
     "startTimestamp": 1765690200000,
     "endTimestamp": 1765695600000,
@@ -735,7 +735,7 @@
     "mainVenue": "玉泉路 - 教学楼211",
     "parallelVenue": "",
     "introduction": "传统的集成电路微电子器件是建立在硅等硬质基板上的，在外力作用下易破碎，无法保持其性能。而柔性电子是将电子器件制作在柔性、可延性的塑料或薄金属基板上的新兴电子技术，以其独特的柔性、延展性等赋予传统可穿戴电子以新的生命，在信息、医疗、国防等领域具有广泛应用前景。在此次报告中，将结合我们团队的工作，简要介绍该领域的一些前沿进展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "JBHCOJIC",
@@ -745,7 +745,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "魏永杰",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8326/view",
     "startTimestamp": 1765587600000,
     "endTimestamp": 1765598400000,
@@ -753,7 +753,7 @@
     "mainVenue": "雁栖湖 - 教三楼208",
     "parallelVenue": "",
     "introduction": "以国际国内典型环境污染与健康研究为案例，介绍主要的环境污染与健康的研究方法，多学科交叉，环境暴露学、流行病学、分子生物学、生物统计学等研究方法的融合应用等。通过学习，使同学们系统了解环境污染与健康的发展、环境污染与健康对于环境法制建设的促进、对国家政策、标准制定的支撑等。\n以国际国内典型环境污染与健康研究为案例，介绍主要的环境污染与健康的研究方法，多学科交叉，环境暴露学、流行病学、分子生物学、生物统计学等研究方法的融合应用等。通过学习，使同学们系统了解环境污染与健康的发展、环境污染与健康对于环境法制建设的促进、对国家政策、标准制定的支撑等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "HPLDGMGD",
@@ -763,7 +763,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校学生",
     "speaker": "窦春萌",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8324/view",
     "startTimestamp": 1765537200000,
     "endTimestamp": 1765542600000,
@@ -771,7 +771,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一2",
     "parallelVenue": "",
     "introduction": "新型非易失性存内计算技术对于满足智能处理器日益增长的高能效需求具有重大潜力。然而，该技术仍面临若干关键挑战，包括器件非理想性、周边电路的功耗与开销以及算法的多样性与适配性等问题。本次报告将介绍新型非易失性存内计算领域的发展趋势以及我们的研究进展，重点展示器件-电路-算法跨层次协同优化方案，旨在拓展新型非易失性存算一体技术设计空间，推动新一代高能效智能计算硬件的发展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "GMEEKHPM",
@@ -781,7 +781,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李子申",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8254/view",
     "startTimestamp": 1765535400000,
     "endTimestamp": 1765544400000,
@@ -789,7 +789,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "北斗导航与高分遥感是空天信息的重要组成，已成为当前数字经济发展的关键支撑。本报告将重点阐述北斗高精度导航与高分辨遥感集成、通导遥一体化信息融合以及在精准农业、海洋牧场等领域的应用实践，最后给出当前发展的重要方向和科研领域。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "LEFHMJJA",
@@ -799,7 +799,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8295/view",
     "startTimestamp": 1765506300000,
     "endTimestamp": 1765512000000,
@@ -807,7 +807,7 @@
     "mainVenue": "雁栖湖 - 教一楼214",
     "parallelVenue": "",
     "introduction": "讲述超导BCS理论的局限性和非常规超导的典型实例，并介绍室温超导材料的前沿进展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "BDNBEFLK",
@@ -817,7 +817,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "马腾飞",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8296/view",
     "startTimestamp": 1765506300000,
     "endTimestamp": 1765512000000,
@@ -825,7 +825,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "本讲座将系统解析绿电交易的概念与核心机制，阐明“物理电能量”与“绿色环境价值”如何分离与协同。我们将深入探讨中国绿电市场的最新实践、面临的省间壁垒等挑战，并聚焦电-碳市场协同、国际绿证互认等前沿热点。讲座旨在为大家勾勒出绿电交易的全景图，激发对能源市场化改革关键问题的研究兴趣。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.082Z"
   },
   {
     "id": "BCFJNAGB",
@@ -835,7 +835,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "王向",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8313/view",
     "startTimestamp": 1765441200000,
     "endTimestamp": 1765446600000,
@@ -843,7 +843,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "王向，北京科技大学材料学院特聘教授，博导，国家青年人才项目入选者，北京科技大学鼎新学者。发表论文30余篇，以第一作者、通讯作者发表15篇，包括Nature Nanotechnology (1)、Nature Materials (1)、Nature Communications (2)等。\n教育背景\n2016-2022       美国匹兹堡大学           博士\n2009-2013       南京理工大学             本科     \n工作经历\n2022.05-2024.10  美国西北太平洋国家实验室  Post-doc Research Associate\n2016.08-2022.04   匹兹堡大学                   RA/TA\n2017.01-2018.10   美国西北太平洋国家实验室   Visiting Student\n材料尺寸进入纳米尺度，其力学与摩擦行为往往表现出与宏观体系截然不同的特性，而传统实验手段难以直接实现原位观测。原位透射电子显微镜（TEM）技术为实现这一目标提供了有效的研究平台。本报告将展示如何利用该技术，直观揭示纳米晶体变形、孪生与原子摩擦的动态过程。这些工作不仅从基础层面解释了材料的反直觉表界面行为，也希望能启发学生们利用原位技术探索材料纳米尺度既微小又广阔的力学世界。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "HBJIMBHC",
@@ -853,7 +853,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8293/view",
     "startTimestamp": 1765434000000,
     "endTimestamp": 1765440600000,
@@ -861,7 +861,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二3",
     "parallelVenue": "",
     "introduction": "讲述超导BCS理论的局限性和非常规超导的典型实例，并介绍室温超导材料的前沿进展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "ONHPKDLI",
@@ -889,7 +889,7 @@
     "department": "现代产业学院",
     "targetAudience": "全校学生",
     "speaker": "王若达",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8305/view",
     "startTimestamp": 1765420200000,
     "endTimestamp": 1765425600000,
@@ -897,7 +897,7 @@
     "mainVenue": "雁栖湖 - 教二楼138",
     "parallelVenue": "玉泉路 - 教学楼阶二1",
     "introduction": "主讲人：王若达，中国电子信息产业发展研究院集成电路所研究室主任/高级工程师。主要从事电子元器件、集成电路封装测试、集成电路前沿技术等方向研究。主持参与120项省部级项目和地方课题，涵盖多项相关规划、发展政策、研究报告、研究咨询、企业调研和项目评估等工作，在《经济日报》《科技日报》等专访文章。\n讲座简介：当前，集成电路将进入后摩尔时代，新材料、新结构、新工艺将加速发展，将极大影响集成电路产业未来格局。同时，全球集成电路制造业正面临变革，晶圆制造业正迎来高度垄断发展格局。此外，逆全球化趋势抬头，全球集成电路产业链和供应链面临重大冲击。这些将对我国集成电路制造业发展模式带来深远影响。分析集成电路制造业发展现状和趋势，剖析后摩尔时代集成电路产业发展路径及演进方向，针对后摩尔时代集成电路制造业发展模式进行分析和预研，对于推动集成电路产业高质量发展具有指导意义。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "AEJMMHHK",
@@ -925,7 +925,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "林宇卿",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8319/view",
     "startTimestamp": 1765351800000,
     "endTimestamp": 1765357200000,
@@ -933,7 +933,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "报告摘要：\n经过五十年的不断发展，Cell Press已成为涵盖生命、物理、地球和健康等科学领域50余种科学期刊的出版社，我将概述我们的各种期刊，尤其是介绍物理材料相关期刊Matter和我们的一系列新刊。本报告旨在展示我们出版物的广度和深度，同时提供论文写作、文章提交和同行评审中的重要流程和注意事项的更多细节。\n\n主讲人简介：\n林宇卿，Cell Press科学编辑，博士与本科分别毕业于中佛罗里达大学和北京师范大学物理系。在加入Cell Press之前，他分别在北京理工大学和法国EDP Sciences工作。他的主要研究兴趣在纳米材料与器件、半导体物理、光学和机器人学等方向。目前，他致力于通过Matter的平台和研究人员一起努力推进物理，材料与交叉科学的影响力。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "AHJHPHND",
@@ -943,7 +943,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8294/view",
     "startTimestamp": 1765329600000,
     "endTimestamp": 1765336200000,
@@ -951,7 +951,7 @@
     "mainVenue": "雁栖湖 - 教一楼214",
     "parallelVenue": "",
     "introduction": "介绍超导材料的基础知识，包括超导材料的两大特性、超导材料的种类、磁通物理、超导微观（BCS）理论等内容。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "OKFFJCGC",
@@ -961,7 +961,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "李景",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8307/view",
     "startTimestamp": 1765268400000,
     "endTimestamp": 1765273800000,
@@ -969,7 +969,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "二维原子晶体是一类具有原子层厚度的纳米材料，其结构组成丰富、能带结构多样，在电学、光学、力学及磁学等方面展现出不同于传统三维材料的新奇物化性质。在诸多制备方法中，溶液剥离法因具备规模化制备与加工的优势而备受关注，但其制备的晶体质量通常难以保证。针对这一挑战，本报告将重点介绍我们利用电化学方法精准调控插层结构，从而实现高质量二维单层晶体及其异质结可控制备的最新研究进展。具体内容包括：（1）插层结构的调控机理与高质量单层晶体的高效剥离；（2）二维材料表面的界面化学修饰与功能化；（3）基于溶液法的大面积、有序组装策略。最后，我们将通过三个典型应用案例具体展示这些材料的潜力：柔性磁电传感薄膜、范德瓦尔斯光电器件阵列，以及电化学催化二氧化碳绿色还原。\n报告人1989年生于湖北，2016年于中国科学院化学研究所获博士学位，随后于2016至2022年期间在新加坡国立大学从事博士后研究。2021年入选国家高层次青年人才（海外）项目，并于2022年4月加入北京航空航天大学化学学院，任准聘教授、博士生导师。其研究聚焦于低维纳米材料的表界面结构，核心工作围绕以下三个方向展开：低维材料的高质量可控制备、表界面结构的原子尺度调控，以及多级纳米结构的精确组装。在此基础上，其进一步探索了这些材料在磁电传感、光电器件和电化学催化等领域的应用。至今，已在Science、Nature Materials、J. Am. Chem. Soc., 等国际期刊发表SCI论文90余篇，多项研究成果获得Nature Materials、Phys.org、News Break等知名科技媒体的专题报道。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "JAMECFBF",
@@ -979,7 +979,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "牟刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8292/view",
     "startTimestamp": 1765261200000,
     "endTimestamp": 1765267800000,
@@ -987,7 +987,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二3",
     "parallelVenue": "",
     "introduction": "介绍超导材料的基础知识，包括超导材料的两大特性、超导材料的种类、磁通物理、超导微观（BCS）理论等内容。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "ILNHOBAJ",
@@ -997,7 +997,7 @@
     "department": "工程科学学院",
     "targetAudience": "全校学生",
     "speaker": "陆夕云",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8320/view",
     "startTimestamp": 1765260000000,
     "endTimestamp": 1765265400000,
@@ -1005,7 +1005,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "鱼类等水生动物经历漫长的进化过程和自然选择过程，发展了各具特色的游动能力，其整体功能渐趋优化，为当前的仿生航行器提供了创新源泉。仿鱼类游动 (fishlike swimming) 动力学是一个以流体力学为先导的交叉领域，需要从整体上研究这些生命机器的力学原理及其理论，包括神经控制、肌肉力学、生物材料性能、生物的运动模式和控制机制、能量转换及其效率等。本报告将介绍研究团队与上述几方面相关的仿鱼类游动动力学研究的一些进展。\n\n\n陆夕云，中国科学技术大学教授，中国科学院院士。长期从事湍流、旋涡动力学、生物运动力学和界面流动等方面的研究。他是国家自然科学基金委基础科学中心、创新研究群体和教育部创新团队学术带头人，兼任中国力学学会副理事长、AMS副主编等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "NJGMLPJC",
@@ -1015,7 +1015,7 @@
     "department": "未来技术学院",
     "targetAudience": "全校学生",
     "speaker": "孙宇哲",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8247/view",
     "startTimestamp": 1765247400000,
     "endTimestamp": 1765254600000,
@@ -1023,7 +1023,7 @@
     "mainVenue": "雁栖湖 - 教一楼108",
     "parallelVenue": "",
     "introduction": "本次报告将系统介绍华大在高通量测序、单细胞与时空组学领域的技术积累，以及如何利用单细胞组学技术解析人群疾病的精准机制。报告内容包括介绍以Stereo-seq、Stereo-cell、Stereo-seqV2为代表的时空组学平台在高分辨率空间定位及多组学联用中的最新进展。随后，通过中国自然人群免疫多组学图谱、颈动脉斑块、泛器官衰老以及肿瘤演化等多个案例，展示单细胞与空间转录组在揭示免疫调控、疾病发生发展和关键分子靶点中的应用。报告的最后将介绍Unicell、DynPerturb等算法在大规模图谱构建和疾病风险预测中的潜力，展望精准诊疗与转化应用前景。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "DOPGMGFM",
@@ -1033,7 +1033,7 @@
     "department": "核科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "裴国玺",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8275/view",
     "startTimestamp": 1765191600000,
     "endTimestamp": 1765200600000,
@@ -1041,7 +1041,7 @@
     "mainVenue": "雁栖湖 - 教二楼218",
     "parallelVenue": "",
     "introduction": "本世纪人类期望解决物质基本结构、宇宙起源与演化、生命起源及其本质和大脑是如何工作的四大难题，其中前三个问题都要由粒子加速器来回答，因此希望把粒子加速器的能量再提高三个数量级。但首先我们必须知道如何及何时才能提升到如此之高呢？本讲座将从：1.为什么需要高能粒子加速器；2.怎样选择合适的粒子对撞机；3.超高能粒子对撞机的发展现状；4.未来发展计划等几个方面试图解答这些问题，并介绍粒子加速器发展过程中引导的技术创新。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "FKDFLPJK",
@@ -1051,7 +1051,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "霍群海",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8230/view",
     "startTimestamp": 1765189800000,
     "endTimestamp": 1765195500000,
@@ -1059,7 +1059,7 @@
     "mainVenue": "雁栖湖 - 教二楼205",
     "parallelVenue": "",
     "introduction": "简述综合能源系统的概念、基本结构和特点，阐述综合能源系统能流优化及安全性分析研究进展，阐述综合能源系统可靠性、韧性分析和优化。简述三网融合的概念、内涵及特点，阐述在三网融合的关键技术。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.254Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "EGHFKJIE",
@@ -1069,7 +1069,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "赵恩岳",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8312/view",
     "startTimestamp": 1765171800000,
     "endTimestamp": 1765177500000,
@@ -1077,7 +1077,7 @@
     "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
     "parallelVenue": "",
     "introduction": "主讲人简介：\n赵恩岳，中科院物理所博士（2019），美国加州大学博士后（2021），现任松山湖材料实验室中子科学-量子和能源材料团队副研究员，研究方向主要聚焦二次电池材料结构设计及多尺度中子表征；主持/完成科技部、国家自然科学基金委、广东省科技厅等多项国家级/省部级项目以及多项企业产学研项目。以第一/通讯作者身份在Angew. Chem. Int. Ed.，Advanced Materials等领域知名期刊发表学术论文60余篇，申请并获授权多项国家发明专利。\n\n报告摘要：\n以锂离子电池为代表的二次电池已经广泛应用于便携式电子设备、电动汽车、储能系统等多个领域。深入理解二次电池材料结构及其电化学反应机制对于进一步提升电池性能至关重要。不同于X射线和电子，中子的散射长度随原子序数没有明显的变化规律，在探测轻质、近邻元素方面更加灵敏和准确。同时，中子的能量和波长通常可以同时满足固体材料结构形成及激发对能量和波长范围的要求，适合于材料的动力学研究。此外，中子穿透特性较强，适合电池服役状态下的无损实时原位表征。本报告将系统介绍多模态-多尺度中子散射技术（例如衍射、对分布函数、小角散射、反射、深度剖面分析、成像）的基本原理，及其在二次电池（例如锂离子电池、钠离子电池、全固态电池）中的应用。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.083Z"
   },
   {
     "id": "EGEHIJPB",
@@ -1087,7 +1087,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8306/view",
     "startTimestamp": 1765069200000,
     "endTimestamp": 1765080000000,
@@ -1095,7 +1095,7 @@
     "mainVenue": "雁栖湖 - 教二楼201",
     "parallelVenue": "",
     "introduction": "系统介绍团队在提升该技术时间分辨率与空间分辨率方面取得的进展，并展示在该技术支撑下，团队在揭示气候变化背景下森林碳汇过程机理方面所获得的研究成果。\n        樊磊，西南大学教授，博导，国家优青，重庆市杰青。长期从事全球变化森林碳汇遥感，创新森林碳储量的被动微波遥感监测技术，揭示森林碳汇与气候变化的响应机制。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "PIFHGICN",
@@ -1105,7 +1105,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李子申",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8253/view",
     "startTimestamp": 1764930600000,
     "endTimestamp": 1764939600000,
@@ -1113,7 +1113,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "北斗是我国自主建设的全球卫星导航系统（简称“北斗系统”），本报告将简要介绍我国北斗系统发展历程及技术特征，重点讲解高精度定位技术，包括广域差分、网络RTK以及PPP-RTK等，讲解国内外主要的高精度定位技术服务系统研制和应用情况，阐述北斗高精度定位主要发展方向和应用领域。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "OJKNGOFO",
@@ -1123,7 +1123,7 @@
     "department": "人工智能学院",
     "targetAudience": "全校研究生",
     "speaker": "王硕",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8116/view",
     "startTimestamp": 1764930600000,
     "endTimestamp": 1764936300000,
@@ -1131,7 +1131,7 @@
     "mainVenue": "雁栖湖 - 教一楼109",
     "parallelVenue": "玉泉路 - 教学楼阶一1",
     "introduction": "讲座摘要：\n讲座介绍机器人操作技能学习的研究进展。首先介绍机器人操作技能学习算法的分类，并对常见的学习算法进行介绍。结合机器人典型技能的学习，介绍视触融合、虚实迁移、模仿学习、强化学习、课程学习的具体研究案例。\n讲座嘉宾：\n王硕，中国科学院自动化研究所多模态人工智能系统全国重点实验室研究员，博士生导师。长期从事水下仿生机器人、机器人操作技能学习、多机器人协作、智能机器人控制等方面的科研工作。国家重点研发计划智能机器人重点专项专项总体组专家，ISO TC299 WG1和WG6的工作组专家，中国机电一体化技术应用协会常务理事、人工智能学会智能机器人专业委员会委员、自动化学会机器人专业委员会委员、中国宇航学会机器人专业委员会委员。主持与参加科技创新2030重大项目、国家863计划课题、国家自然科学基金联合基金重点项目等20余项。获得国家和省部级奖励5项，合著图书5部，获得国家发明专利20余项，发表学术论文100余篇。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "NIFOCAJM",
@@ -1177,7 +1177,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8311/view",
     "startTimestamp": 1764837000000,
     "endTimestamp": 1764840600000,
@@ -1185,7 +1185,7 @@
     "mainVenue": "雁栖湖 - 教二楼101",
     "parallelVenue": "",
     "introduction": "The implementation and design of 2D heterogeneous photocatalysts in different disciplines such as environmental remediation had been investigated greatly in the last decade. Photocatalysts were efficiently used in depredation of organic pollutants in wastewater; in addition mitigation of air pollutants such as NOx, SOx, CO2 and CO gasses had been studied in our reports. In our work we had designed 2D Z-Scheme nanomaterials that supports confined single-atom catalyst for different catalytic applications. The controlling in the performance of the photocatalysts to be highly efficient materials can be achieved by the production of overall neutral radical as the reactive species as a result of leaving group in compound expel could lead to initiate a chemical transformation under visible light irradiation conditions. Herein, the presented results highlight that the basic concepts of photocatalysis and the applications of these catalysts practical application organic transformation and in treatment of wastewater contaminated with organic dyes or heavy metal ions.\nProf. Yasser Mahmoud is full professor in National Research Centre (NRC) in Egypt. He has led international projects in the field of sustainable developments during period (2020-2025) in (Egypt, UK, Greece and China). He is currently principal investigator in collaborating project between NRC and University of Chinese Academy of Sciences (UCAS) in China funded by CAS-ANSO (2024 till present). He is an expert in ISESCO affiliated with UNESCO from. He won young research investigator at 2019 and he has led a strategic plan in Ministry of higher education and scientific research in Egypt related to Egypt’s vision 2030 and he was acknowledged in 2021 from the president of National Research Centre due to his excellent results that was contributed in finding solution in pharmaceutical industry. He was invited by United Nations to attend the activities of COP27 in 2022 due to his pioneering work in sustainable development and climate change. He is also working an expert in linking research to the industry through scientific office in Academy of Scientific Research and Technology.",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "KDAENLGC",
@@ -1195,7 +1195,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "雷霆",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8244/view",
     "startTimestamp": 1764836400000,
     "endTimestamp": 1764841800000,
@@ -1203,7 +1203,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "当前有机半导体材料在显示、场效应晶体管和太阳能电池等中主要工作在中性或轻掺杂状态，而对重掺杂有机半导体的分子设计原理、载流子传输机制及高性能器件研究等方面仍存在明显不足。由于高分子材料主要通过弱范德华力相互作用，其重掺杂研究面临着材料种类少，稳定性差、载流子迁移率低、以及器件性能不佳等关键科学问题。本报告将系统阐述我们在重掺杂高分子半导体领域的研究进展：（1）揭示重掺杂体系的掺杂特性；（2）阐明掺杂剂与高分子半导体的相互作用机制；（3）提出创新的分子设计策略。我将重点介绍两项工作：基于化学掺杂，我们提出了\"热电橡胶\"概念，实现了具有高度柔性和贴合性的可穿戴热电发电机；基于电化学掺杂，我们提出了“半导体水凝胶”概念，为高相容性、高灵敏度生物电子器件提出了新思路。这些研究为发展新一代可穿戴电子器件提供了新的材料体系和器件基础。\n雷霆，北京大学材料科学与工程学院博雅特聘教授、副院长、国家创新群体（B）负责人、杰出青年基金获得者。于2008和2013年在北京大学化学与分子工程学院获学士和博士学位；2013-2018年在斯坦福大学化工系从事博士后研究。2018年3月加入北京大学。主要开展了有机高分子半导体材料的设计合成及其在柔性电子和生物电子中的应用研究。以通讯作者在Science、Nature及其子刊等发表论文40余篇。申请中国和国际专利14项，已获授权9项。获中国化学会青年化学奖（2023）、北京市杰出青年基金（2022）、中国化学会高分子青年学者奖（2021）和中国化学会“菁青化学新锐奖”（2020）等奖励和资助。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "BGLEDOLG",
@@ -1213,7 +1213,7 @@
     "department": "物理科学学院",
     "targetAudience": "全校学生",
     "speaker": "刘奇航",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8095/view",
     "startTimestamp": 1764757800000,
     "endTimestamp": 1764763200000,
@@ -1221,7 +1221,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "近年来，随着反铁磁自旋电子学的发展，具有多样化磁结构的磁性材料获得了广泛关注。特别令人感兴趣的是一大类“非常规磁体”，它们既展现出反铁磁的构型，又表现出类似铁磁体的物理特性。以交错磁体为代表的非常规磁体有望融合铁磁与反铁磁材料的优势，兼具高存储密度、低能耗、电控特性与超快动力学等特点。本次报告从描述磁几何结构的对称性理论——自旋群理论[1,2]出发，系统探讨不同类型非常规磁体的对称性设计方案与材料库，涵盖自旋劈裂（交错磁体）、反常霍尔效应、量子几何、多铁性以及拓扑磁振子等研究方向[3-7]。\nReferences\n[1] P. Liu, …, X. Wan* and QL*, Phys. Rev. X 12, 021016 (2022).\n[2] X. Chen, …, QL*, Phys. Rev. X 14, 031038 (2024).\n[3] X. Chen, …, QL*, Nature 640, 349 (2025).\n[4] Y. Zhu, …, S. Qiao*, QL* and C. Liu*, Nature 626, 523 (2024).\n[5] M. Gu, …, A. Stroppa* and QL*, Phys. Rev. Lett. 134, 106802 (2025).\n[6] H. Zhu, …, QL*, Nat. Commun. 16, 4882 (2025).\n[7] QL* et al. Nat. Phys. 21, 329 (2025).\n\n【主讲嘉宾】刘奇航，南方科技大学教授，本科及博士均毕业于北京大学物理学院。主要从事凝聚态物理与计算材料研究，研究兴趣聚焦于量子材料中的对称性新理论与新效应，以及相关的新材料设计筛选。发表SCI论文100余篇，包括Nature、Nat. Phys.、PRX、PRL、Natl. Sci. Rev.等，H指数48。2025年获批国自然青年基金A类项目（原杰青项目），2023年获批深圳市杰青项目，2023年获广东省青年科技创新奖。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "GGMPAFPC",
@@ -1231,7 +1231,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "张建玲",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8242/view",
     "startTimestamp": 1764750000000,
     "endTimestamp": 1764755400000,
@@ -1239,7 +1239,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "二氧化碳的高效利用与转化对可持续发展意义重大。一方面，二氧化碳可以在比较温和的条件下形成超临界流体，作为一种绿色溶剂广泛应用于材料制备、化学反应、萃取分离等许多领域中；另一方面，二氧化碳是一种储量丰富、可再生的碳资源，可用于合成各种重要的化学品和能源产品。解决二氧化碳利用与转化中的共性关键科学问题、发展二氧化碳利用与转化的新方法和新途径、揭示相关规律和机制，是具有重要理论和实际意义的研究课题。\n国家杰出青年科学基金获得者，国家WR计划科技创新领军人才，英国皇家化学会会士。长期围绕绿色溶剂及二氧化碳资源化利用开展物理化学与绿色化学的交叉研究，发表论文280余篇，承担国家重点研发项目、基金委重点项目等。获国家自然科学奖二等奖、北京市科学技术奖二等奖、中国科学院杰出科技成就奖、中国科学院卢嘉锡青年人才奖、中国科学院巾帼建功先进个人、入选科技部创新人才推进计划中青年科技创新领军人才，作为负责人的“绿色溶剂性质与应用研究团队”获第十六届中国青年女科学家奖团队奖。获评教育部课程思政教学名师、北京高等学校优秀专业课主讲教师、中国科学院大学领雁金奖等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "KLBGMHMI",
@@ -1249,7 +1249,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "董建华",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8243/view",
     "startTimestamp": 1764750000000,
     "endTimestamp": 1764755400000,
@@ -1257,7 +1257,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "高分子化学的发展为科学与技术的主要贡献在于：\n1.深入认识高分子化合物；\n2.为高分子材料的创制提供支撑。\n高分子材料在人类文明中发挥着不可替代的作用，广泛用于人们生产生活的各个领域，包括人们的衣食住行、医疗健康、信息技术、航空航天和国防工业等方面，并不断对高分子材料提出新需求。本报告概述以下几个方面的研究动态：\n1.\t高分子合成化学；\n2.\t生物医用高分子与生物大分子药物；\n3.\t环境友好高分子；\n4.\t新高分子、包括拓扑结构构筑等。\n1982 本科毕业于浙江大学化学系，1989获得中国科学院化学研究所理学博士学位。在北京大学化学系从事两年博士后研究之后，留校任教至1997.12。1998-至2019 国家自然科学基金委员会负责有机高分子领域项目管理工作（2019年6月退休）。1999年起任研究员，先后担任有机高分子材料、高分子科学、材料化学与能源化学等领域各类科学基金项目主任、科学处处长、二级研究员等。多次组织有机高分子领域学科发展与学科前沿战略研讨，重大研究课题立项与运行管理学术活动。主编三本学科前沿与进展及展望的专著；多次为相关专著撰写章节。担任中国化学会第二十六届理事，第二十八届、第二十九届理事会常务理事、曾长期担任高分子学科委员会副主任。《中国大百科全书》第三版化学卷高分子领域编委会副主编，多次组织与撰写科学词典与学科战略报告。2007年-至今  Wiley出版公司国际学术专业期刊“先进技术高分子”\"Polymers for Advanced Technologies\" 副主编（Associate Editors） 2011年-至今 “英国皇家化学会高分子化学系列丛书”编委会成员。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "GDLICFAM",
@@ -1267,7 +1267,7 @@
     "department": "心理学系",
     "targetAudience": "全校学生",
     "speaker": "韩布新",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8252/view",
     "startTimestamp": 1764671400000,
     "endTimestamp": 1764678600000,
@@ -1275,7 +1275,7 @@
     "mainVenue": "雁栖湖 - 教一楼109",
     "parallelVenue": "",
     "introduction": "青春年华好读书，读破万卷可医一俗。讲座将从读好书（天梯读书法）、好读书（从苏东坡的八面读书法到对观读书法）谈读书好（跨越时空、传承中华民族优秀文化），以早日发现天赋、形成兴趣、持之以恒、形成能力，修通与整合四重自我，实现全人成长、阖域健康。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "ALMKHMIC",
@@ -1285,7 +1285,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "刘梦溪",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8289/view",
     "startTimestamp": 1764663600000,
     "endTimestamp": 1764669000000,
@@ -1293,7 +1293,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "我们熟悉的宏观宇宙下，是由原子构成的微观世界，扫描隧道显微镜（STM）与原子力显微镜（AFM）正是探索这一微观世界的手指。本报告将介绍STM/AFM从观测原子到追踪单分子化学反应过程，通过原位识别反应中间体揭示反应机理；进一步，通过表面在位反应设计合成多种新型碳纳米结构，研究了非六元环拓扑结构对材料电子态和自旋态的调制作用，并利用针尖操纵实现了碳纳米结构电荷输运性质的原位探测，开启原子尺度化学研究的新维度。\n刘梦溪，国家纳米科学中心研究员、博导、中国科学院青促会会员、国家自然科学基金青年基金（B类）获得者。研究方向：低维碳材料的可控构筑与物性调控；高分辨扫描探针显微成像与精密谱学测量技术。\n\n教育背景\n2006-2010     本科     华南理工大学\n2010-2015     博士     北京大学\n\n工作经历\n2015-2024     国家纳米科学中心  助研、副研\n2024-至今     国家纳米科学中心  研究员",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "FLEAINCF",
@@ -1303,7 +1303,7 @@
     "department": "核科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "王九庆",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8276/view",
     "startTimestamp": 1764588000000,
     "endTimestamp": 1764594000000,
@@ -1311,7 +1311,7 @@
     "mainVenue": "雁栖湖 - 教一楼215",
     "parallelVenue": "",
     "introduction": "同步辐射光源是全世界数量最多的大科学装置，为多学科前沿基础研究和应用研究提供重要支撑。本讲座在回顾同步辐射光的发现及其广泛应用的基础上，探寻同步辐射光源作为基于加速器的先进光源从第一代发展到目前的第四代在加速器物理和技术上的发展历程以及面临的新挑战。穿插其中，介绍我国大陆已建成运行的三代同步辐射光源装置及正在建设中的新一代光源装置，包括高能同步辐射光源（HEPS）和SHINE硬X射线自由电子激光等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.084Z"
   },
   {
     "id": "EPCONOPE",
@@ -1321,7 +1321,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "霍群海",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8229/view",
     "startTimestamp": 1764585000000,
     "endTimestamp": 1764590700000,
@@ -1329,7 +1329,7 @@
     "mainVenue": "雁栖湖 - 教二楼205",
     "parallelVenue": "",
     "introduction": "当前配电网存在建设滞后、结构不合理、调控手段有限等问题，配电“网”层面可支持电网灵活调度与控制的一次装备仍相对简单和匮乏，严重制约了当前配电系统运行水平的进一步提升。本次讲座聚焦交流配电网中的各种新装备，具体包括：\n1）电力电子变压器\n2）柔性多状态开关\n3）柔性变电站",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.085Z"
   },
   {
     "id": "CNLLHJEL",
@@ -1339,7 +1339,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "Eiichi Nakamura",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8240/view",
     "startTimestamp": 1764577200000,
     "endTimestamp": 1764582600000,
@@ -1347,6 +1347,6 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "This lecture will first trace my own journey in chemistry—from my early days studying organic synthesis, through explorations in solar energy research, to the development of advanced electron microscopy. In the second part, I will introduce our most recent achievements that connect chemistry with real-time electron microscopy, revealing how molecules behave and transform at the atomic scale. The following publications are representative.\nScience, 384, 1212-1219 (2024), Science, 387, 522-527 (2025), Science, 389, 1024, (2025)\nThroughout the lecture, I will emphasize how encounters with the right people can change the direction of one’s scientific career, and how both life and science follow inherently stochastic paths. I will also discuss why the most exciting research of the future may lie in areas we cannot yet imagine.\nEiichi Nakamura\nUniversity Professor, the University of Tokyo, Department of Chemistry; Chair Professor at Nankai University, College of Chemistry\nHonorary Foreign Member of the American Academy of Arts and Sciences and Fellow of the Royal Society\nProf. Nakamura earned his B.S. and Ph.D. degrees from the Tokyo Institute of Technology. After postdoctoral research at Columbia University, he returned to his alma mater as an Assistant Professor in 1980, before moving to the University of Tokyo in 1995. He currently holds the position of University Professor in Tokyo and has opened a new research group at Nankai University since September 2025. His research spans synthetic and physical chemistry, focusing on the functions of organic and inorganic substances. In 2007, he pioneered the use of atomic resolution transmission electron microscopy to study molecular motions and reactions at the single-molecule level. His work has earned multiple awards, including Honorary Foreign Member of the American Academy of Arts and Sciences (2008), Fellow of the Royal Society (2025), the Arthur C. Cope Scholar Award (2010) from the American Chemical Society, the 55th Fujiwara Award (2014), and the Royal Society of Chemistry's Centenary Prize (2014). He has received The Medal with Purple Ribbon (2009) and The Order of the Sacred Treasure Gold Rays with Neck Ribbon from His Majesty the Emperor (2024).",
-    "lastUpdatedAt": "2026-03-18T09:18:50.631Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.085Z"
   }
 ]

@@ -7,7 +7,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8383/view",
     "startTimestamp": 1768800600000,
     "endTimestamp": 1768811400000,
@@ -15,7 +15,7 @@
     "mainVenue": "玉泉路 - 人文楼教一1",
     "parallelVenue": "",
     "introduction": "河南舞阳贾湖遗址是中国百年考古学史上最为重要的考古发现之一，展现了距今8000年前中华文明起步阶段中原地区先民灿烂的生产生活图景。本讲座结合2013年第八次发掘资料以及近年来的野外考古调查和研究结果，讲述贾湖遗址研究的最新进展。内容包括贾湖文化的来源、分布以及贾湖绿松石的工艺和产源研究等。",
-    "lastUpdatedAt": "2026-03-18T09:09:58.840Z"
+    "lastUpdatedAt": "2026-03-19T04:55:28.873Z"
   },
   {
     "id": "NCLMNOIB",
@@ -25,7 +25,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "钮凤林",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8284/view",
     "startTimestamp": 1768455000000,
     "endTimestamp": 1768461600000,
@@ -33,7 +33,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "钮凤林，男，1966年12月出生，地球和空间科学学院教授。1988年毕业于中国科学技术大学，获学士学位；1994年、1997年分别获日本东京大学地球物理硕士、博士学位。1997-2002年相继在日本东京大学地震研究所、日本国立防灾科学技术研究所和美国华盛顿卡内基研究所从事博士后研究。2002年7月至2024年10月在美国莱斯大学工作，历任助理教授、终身副教授、终身教授。2011年入选国家创新人才计划长期项目 ，2012-2024 担任中国石油大学（北京）特聘教授。2024年11月起任中国科学技术大学地球与空间科学学院杰出讲席教授。2008年荣获美国国家科学基金委杰出青年学者奖， 2023年被选为美国地球物理学会会士 （AGU fellow）。\n钮凤林教授在地球内部构造和断层应力监测领域取得了丰硕的研究成果。他在国际顶级学术期刊上发表论文180余篇，其中6篇发表于Nature、4篇发表于Nature Geoscience、1篇发表于Nature Communications、1篇发表于Geology。截至目前，论文总引用次数超过9200次，H指数为56，i10指数为127。先后主持美国自然科学基金、美国能源部、美国地质调查局、科技部国家重点研发项目，中国国家自然科学基金重点与面上项目等20多项国家级科研项目。2006-2012负责中美日国际合作项目，完成在中国东北地区布设126个宽频地震台，横跨1200x800公里，是美国地震学研究联合会至今为止最大的流动地震观测。曾担任美国国家科学基金委、美国国务院国际开发署地学基金委、加拿大自然科学与工程研究基金委等机构的会评委员，担任全球地震台网管理委员会常务委员、Journal of Geophysical Research: Solid Earth期刊主编。2008年，钮凤林教授对美国加州圣安德烈斯断层的研究引发了广泛关注，被新华社、路透社、《时代》周刊和英国BBC等150多家主流媒体报道，被称为“向地震预测迈出新的一步”。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.062Z"
   },
   {
     "id": "GCMLAOLC",
@@ -43,7 +43,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "姜大膀",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8268/view",
     "startTimestamp": 1768444200000,
     "endTimestamp": 1768450800000,
@@ -51,7 +51,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "姜大膀，研究员，基金委优青、杰青、创新群体、重大项目负责人，入选国家百千万人才工程，并被授予“有突出贡献中青年专家”荣誉称号，享受国务院政府特殊津贴；是IPCC第六次评估报告第一工作组主要作者。从事气候变化研究，发表SCI期刊论文190余篇，已培养博士毕业生23名。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "COCLNACO",
@@ -61,7 +61,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "柯贤胜",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8371/view",
     "startTimestamp": 1768378800000,
     "endTimestamp": 1768384200000,
@@ -69,7 +69,7 @@
     "mainVenue": "雁栖湖 - 教二楼121",
     "parallelVenue": "",
     "introduction": "卟啉与芳烃是两类极具代表性的π共轭功能分子，已在众多领域展现出巨大的应用潜力。碳杂卟啉（Carbaporphyrin），是一类碳原子取代了传统四吡咯卟啉中心氮原子的类卟啉大环化合物。利用芳烃结构取代吡咯单元来构筑碳杂卟啉，从而构建卟啉和芳烃的紧密连接，为创制新颖π共轭功能分子提供了良好的平台。本次讲座将主要介绍芳烃桥连的碳杂卟啉阵列和一类大尺寸芳烃——纳米石墨烯稠合的碳杂卟啉体系，重点介绍其分子设计，电子结构，芳香性和配位化学。\n柯贤胜，北京师范大学化学学院教授，博士生导师。2010年本科毕业于四川大学化学学院，2015年博士毕业于北京大学化学与分子工程学院，随后在美国得州大学奥斯汀分校Jonathan Sessler教授课题组从事博士后研究。2020年入选国家海外高层次人才青年项目，同年9月加入北京师范大学化学学院开展独立研究工作，主要从事卟啉，纳米石墨烯，π-共轭功能分子，分子碳材料和超分子化学等方面的研究。在Nat. Chem., J. Am. Chem. Soc., Nat. Commun.和CCS Chem.等期刊发表论文30余篇, 其中以第一或通讯作者发表J. Am. Chem. Soc. 12篇。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "NLPDOOKO",
@@ -79,7 +79,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "徐义刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8263/view",
     "startTimestamp": 1768302000000,
     "endTimestamp": 1768308600000,
@@ -87,7 +87,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "徐义刚  中国科学院院士，中国科学院广州地球化学研究所研究员\n美国地质学会会士、美国地球物理联合会会士、国际地球化学学会会士。曾任中国科学院广州地球化学研究所所长、同位素地球化学国家重点实验室主任。现任国际大地测量和地球物理联合会中国委员会候任主席，国家航天局第二届月球样品专家委员会主任、探月工程四期领域科学家，国家基金委重大研究计划“地球宜居性的深部驱动机制”专家组组长。主要从事深地科学、宜居地球和月球演化研究，在华北克拉通破坏、峨眉山大火成岩省、东亚大地幔楔以及嫦娥月样研究等领域取得创新认识，曾获国家自然科学奖二等奖两项、广东省科学技术突出贡献奖，入选2024年中国科学十大进展和中国十大科技进展新闻。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "MBNKFBBO",
@@ -97,7 +97,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "吴庆举",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8283/view",
     "startTimestamp": 1768282200000,
     "endTimestamp": 1768288800000,
@@ -105,7 +105,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "吴庆举，中国地震局地球物理研究所研究员\n1996年于中国地震局地球物理研究所获博士学位，赵九章优秀中青年科学奖获得者、国家人事部百千万人才工程国家级人选和有突出贡献中青年专家，中国地震局防震减灾先进个人和中国地震局新世纪优秀人才百人计划人选。承担多项国家级科研项目，在国内外学术期刊合作发表研究论文100余篇。作为项目参加人和负责人曾分别荣获中国地震局防震减灾优秀成果一等奖三次、二等奖一次。现任中国地球物理学会大陆动力学和固体地球物理学专业委员会委员、中国地震学会地震学专业委员会和地壳深部探测专业委员会委员，中国地质学会构造地质学与地球动力学专业委员会委员，《地震学报》、《地震科学进展》副主编、《CT理论与应用研究》编委。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "GLCLNKBD",
@@ -115,7 +115,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "武亮",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8270/view",
     "startTimestamp": 1768282200000,
     "endTimestamp": 1768288800000,
@@ -123,7 +123,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "武亮，博士，研究员/博导，中国科学院青年创新促进会优秀会员。主要从事台风气候学、热带大气动力学、气候变化等研究。作为负责人先后主持完成国家自然科学基金重点项目、国际地区合作重点项目等十余项国家重要科研项目。现已在国内外学术期刊发表论文五十余篇，曾获中国气象局科技成果评价优秀一等奖、中华地球科学联盟“最高被引论文奖”、“南粤科技创新优秀学术论文奖”和“学笃风正创新贡献奖”。现担任国际气象学与大气科学协会（IAMAS）中国委员会青年工作组成员，中国气象学会动力气象学委员会委员，《大气科学》副主编，《Terrestrial, Atmospheric and Oceanic Sciences》副主编，《The Innovation》和《The Innovation Geoscience》编委等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "IMGHOPLB",
@@ -133,7 +133,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "赵国春",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8265/view",
     "startTimestamp": 1768215600000,
     "endTimestamp": 1768222200000,
@@ -141,7 +141,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "赵国春  中国科学院院士，香港大学莫秀琼冠名教授、地球科学讲座教授和西北大学长江学者讲座教授\n第三世界发展中国家科学院院士、 香港科学院院士。1985和1988年在原长春地质学院分别获得学士和硕士学位，2000年在澳大利亚科廷大学获得博士学位。主要从事变质岩石学、前寒武纪地质学和超大陆研究。1998年以来发表学术论文520篇，总引78108次 (H-index=148)。在Research.com 公布的 2025年世界科学家排名榜中，赵国春名列全球地球科学家第6位，亚洲地球科学家第1位; 曾获国家自然科学二等奖(2014)、美国地质学会会士 (2014)、高被引科学家(Clarivate; 2014-2025）、第 29 届花剌子米(Khwarizmi)国际奖(一等奖; 2016)、长江学者奖励计划讲座教授(2017)、 发展中国家科学院TWAS地球、天文与空间科学奖(2018)、香港大学卓越研究成果奖(2021)。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "ONIJFHEL",
@@ -169,7 +169,7 @@
     "department": "人文学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8355/view",
     "startTimestamp": 1768195800000,
     "endTimestamp": 1768203000000,
@@ -177,7 +177,7 @@
     "mainVenue": "玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "XXX",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.063Z"
   },
   {
     "id": "MEFMOCPP",
@@ -187,7 +187,7 @@
     "department": "人文学院",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8374/view",
     "startTimestamp": 1768195800000,
     "endTimestamp": 1768206600000,
@@ -195,7 +195,7 @@
     "mainVenue": "玉泉路 - 人文楼教一1",
     "parallelVenue": "",
     "introduction": "伊和淖尔墓群位于锡林郭勒盟正镶白旗，地处浑善达克沙地南缘，是 2014 年度全国十大考古新发现及新时代百项考古新发现之一。2010-2014 年发现的 6 座墓葬中，5 座为北魏时期长斜坡墓道土洞墓，1 座为辽代墓葬，出土金器、银器、玻璃器、漆器等大量精美文物。墓群兼具鲜卑文化特色与欧亚草原、中西亚异域元素，见证了草原丝绸之路的文化交融与商贸往来。本次讲座将结合考古发掘成果，解析墓群的墓葬形制、文物价值与族属谜题，探讨其在北魏边疆历史、民族关系及东西方文明互鉴中的重要意义，呈现边疆考古视野下的草原文明图景。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "HADMFEFA",
@@ -277,7 +277,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "李晓南",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8259/view",
     "startTimestamp": 1768011900000,
     "endTimestamp": 1768017600000,
@@ -285,7 +285,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "典型图像对比度机制\nT1W、T2W和T1-mapping、T2-mapping案例",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "GEPDAJPG",
@@ -313,7 +313,7 @@
     "department": "计算机科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "杨智",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8372/view",
     "startTimestamp": 1767863100000,
     "endTimestamp": 1767868200000,
@@ -321,7 +321,7 @@
     "mainVenue": "玉泉路 - 玉泉礼堂",
     "parallelVenue": "",
     "introduction": "TileLang 是一套以Tile编程范式为核心构建的高性能AI编译生态系统，它围绕 Tile抽象提供对硬件显式调度与控制能力，支持高性能算子开发与跨平台优化。作为一个开放的编译生态，TileLang包含多个核心组件:BiBLAS 混合精度乘法库、面向Transformer 的高性能注意力算子库、支持动态形状的通用算子库、自动layout 推理与 tile 调优框架，以及支持 tile 级任务划分与通信调度的分布式编程组件。这些组件广泛覆盖 FlashAttention3、MLA、NSA 等主流大模型算法需求。TileLang 还具备良好的国产芯片适配能力，厂商可通过统一tile 抽象接口接入定制指令与硬件特性，显著降低软件栈开发成本。本报告将介绍TileLang 的语言设计、生态构成与核心能力，展示其在大模型部署中的性能优势与系统可扩展性。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "PPMAAMOJ",
@@ -349,7 +349,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "黄金莉",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8282/view",
     "startTimestamp": 1767850200000,
     "endTimestamp": 1767856800000,
@@ -357,7 +357,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "黄金莉，中国地质大学(北京)教授\n中国地质大学(北京)教授，博导。主要从事地震学研究，研究方向为地震层析成像、地球内部结构及动力学，研究涉及俯冲板块机制、地幔柱起源及大陆强震机理，对于中国大陆及重点地区地幔-岩石圈结构研究取得了一系列重要进展，中国大陆及邻区高分辨地幔速度结构模型勾画了周边板块俯冲滞留的清晰图像，为揭示东亚新生代构造成因及华北克拉通破坏的动力学机制提供了重要的深部证据，该成果发表在地球物理国际权威刊物J. Geophys. Res. (Solid Earth)上，总引1500多次，成为发表以来该刊物引用最高的中国作者论文。曾主持多项国家自然科学基金重点及面上项目，获中国地球物理学会傅承义青年科技奖，享受国务院政府特殊津贴。入选Elsevier发布的2020年以来中国高引学者榜单。以第一完成人获得2009年度中国地震局科技成果壹等奖。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "GILEPHKN",
@@ -367,7 +367,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "成里京",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8272/view",
     "startTimestamp": 1767839400000,
     "endTimestamp": 1767846000000,
@@ -375,7 +375,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "成里京，博士、中国科学院大气物理研究所研究员，主要从事海洋和气候变化观测数据集构建、海洋能量收支和水循环等方向的研究。已发表学术论文90余篇，是IPCC海洋和冰冻圈特别报告主要作者。曾获得美国气象学会“The Nicholas P. Fofonoff Award”、科学探索奖等奖项。承担国家自然科学基金委优青等项目。目前任WCRP/GCOS/GOOS海洋和气候观测委员会（OOPC）委员、国际海洋质量控制数据集计划IQuOD联合主席。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "OLLANKEE",
@@ -385,7 +385,7 @@
     "department": "现代产业学院",
     "targetAudience": "全校学生",
     "speaker": "王智杰",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8361/view",
     "startTimestamp": 1767771000000,
     "endTimestamp": 1767778200000,
@@ -393,7 +393,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一2",
     "parallelVenue": "雁栖湖 - 教二楼121",
     "introduction": "ASML（阿斯麦）是半导体行业的领先供应商，为芯片制造商提供硬件、软件和服务，以大规模生产集成电路（芯片）。本次邀请ASML团队就半导体行业的动态与走势、光刻技术、先进工艺制造等与同学们面对面交流讨论。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "OHMJPELH",
@@ -403,7 +403,7 @@
     "department": "现代产业学院",
     "targetAudience": "全校学生",
     "speaker": "刘佳琦",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8361/view",
     "startTimestamp": 1767771000000,
     "endTimestamp": 1767778200000,
@@ -411,7 +411,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一2",
     "parallelVenue": "雁栖湖 - 教二楼121",
     "introduction": "ASML（阿斯麦）是半导体行业的领先供应商，为芯片制造商提供硬件、软件和服务，以大规模生产集成电路（芯片）。本次邀请ASML团队就半导体行业的动态与走势、光刻技术、先进工艺制造等与同学们面对面交流讨论。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "KEJAMJMA",
@@ -421,7 +421,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "孙继敏",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8264/view",
     "startTimestamp": 1767753000000,
     "endTimestamp": 1767759600000,
@@ -429,7 +429,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "孙继敏  中国科学院地质与地球物理研究所研究员\n2001年获得国家杰出青年基金。现任中国青藏高原研究会理事，中国第四纪科学研究会理事。主要从事 新生代古气候和青藏高原隆升的环境效应等方面的研究，揭示多尺度重大古气候事件及其动力机制，阐 明新特提斯海水从塔里木、塔吉克盆地以及西亚的伊朗高原的退出时间与机制，论证天山山脉陆内变形 的发生时间，解析新生代以来亚洲腹地阶段性干旱化过程，推进岩石圈构造变动环境效应的研究。担任 “ Global and Planetary Change”主编 、 “Act a Geologic a  Sinica”副主编 、 “Palaeogeography Palaeoclimatology Palaeoecology”“Geosciences”“Scientific Reports”“Evoling Earth ”编委。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "NJJGNDGB",
@@ -439,7 +439,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8351/view",
     "startTimestamp": 1767752700000,
     "endTimestamp": 1767758400000,
@@ -447,7 +447,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "深度学习有很多良好优点，但其中的一朵乌云是数据标注难。数据标注需要大量人力物力财力，还要结合各专业领域，如何在利用深度学习大数据驱动优势的同时降低数据标注工作量和难度，本讲座从网络框架构建方面，怎么设计自监督、无监督、半监督的网络框架来减弱这朵乌云的影响。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "MLFIINIG",
@@ -457,7 +457,7 @@
     "department": "电子电气与通信工程学院",
     "targetAudience": "全校学生",
     "speaker": "郭擎",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8350/view",
     "startTimestamp": 1767698400000,
     "endTimestamp": 1767704400000,
@@ -465,7 +465,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "深度学习有很多良好优点，但其中的一朵乌云是数据标注难。数据标注需要大量人力物力财力，还要结合各专业领域，如何在利用深度学习大数据驱动优势的同时降低数据标注工作量和难度，本讲座从数据集构建方面，转换思维，从多个角度来减弱这朵乌云的影响。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "DIOMODEJ",
@@ -475,7 +475,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "王卓",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8357/view",
     "startTimestamp": 1767687600000,
     "endTimestamp": 1767693000000,
@@ -483,7 +483,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "光学分子探针，用于与目标分析物发生作用后，产生可被光学仪器检测的信号变化。分子探针是化学生物学学科方向的核心研究内容之一，属于交叉学科领域。用化学合成方法对分子探针的结构进行精准调控，合成具有靶向识别能力的光学分子探针，实现对目标分析物的识别和成像，解决生物成像分析中的选择性和灵敏度问题，为重大疾病的诊治提供新的分子工具。针对生物成像中的复杂生物样本的选择性分析问题，通过化学分子结构设计，实现对细胞和亚细胞结构的选择性成像，与智能分析方法结合，实现了从细胞到活体肿瘤的识别和分析。分子探针不仅可以实现对疾病的成像分析，同时通过对分子结构的调控，使其具有光动力和光热等治疗功能。\n王卓，北京化工大学化学学院，教授，博导。2006年在中国科学院化学研究所获得理学博士学位。2006年-2008年在美国Bowling Green State University的光化学中心从事博士后研究工作；2009-2015在国家纳米科学中心从事科研工作；2015-至今在北京化工大学化学学院工作。在分析化学和化学生物学交叉领域开展研究工作，主要方向为有机功能分子及复合纳米材料的设计合成。在国际重要期刊等上发表相关论文百余篇，主持国家自然科学基金委青年、面上和国际合作等多项基金， 2013年获得国家自然科学基金委优秀青年基金资助，2013获中科院卢嘉锡青年人才奖，2016年获北京市科学技术二等奖（排名第五），2020年获中英“高级牛顿学者基金”，担任《高等学校化学学报》青年编委工作。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.064Z"
   },
   {
     "id": "EDHKOKCL",
@@ -493,7 +493,7 @@
     "department": "网络空间安全学院",
     "targetAudience": "全校研究生",
     "speaker": "王小云",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8358/view",
     "startTimestamp": 1767677400000,
     "endTimestamp": 1767687000000,
@@ -501,7 +501,7 @@
     "mainVenue": "雁栖湖 - 教一楼209",
     "parallelVenue": "",
     "introduction": "随着人工智能技术应用广泛，算法的可控性与模型参数的保密性以及数据真实性等安全问题日益凸显，而密码学能够为人工智能构建可验证的数学安全边界。基于密码学视角的人工智能安全新理论和防护体系是值得思考的前沿科学问题。本报告将聚焦密码技术与人工智能安全的前沿交叉研究方向，包括大模型安全、AI for Crypto以及Crypto for AI，讨论如何基于密码分析视角构建AI安全新理论、推动智能化密码分析与设计，促进密码学与人工智能的共同发展。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
   },
   {
     "id": "PLIEFMHG",
@@ -511,7 +511,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "乐旭",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8274/view",
     "startTimestamp": 1767677400000,
     "endTimestamp": 1767684000000,
@@ -519,7 +519,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "乐旭，主要研究方向为大气环境—生态系统—气候系统相互作用，致力于研发大气环境—生态系统耦合模型，解析区域尺度大气污染物的生态效应，并量化自然源排放对气候与环境的影响。在Nature、Science及其子刊等国内外期刊发表论文180余篇，引用10000余次。主持国家青年科学基金项目(A类)，国家重点研发计划项目等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
   },
   {
     "id": "PANJNHFM",
@@ -529,7 +529,7 @@
     "department": "地球与行星科学学院",
     "targetAudience": "全校学生",
     "speaker": "宋晓东",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8281/view",
     "startTimestamp": 1767677400000,
     "endTimestamp": 1767684000000,
@@ -537,7 +537,7 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "宋晓东，北京大学讲席教授\n国家级专家，长期从事地震学和地球深部结构和动力学研究。中国科学技术大学地球物理学士学位，中国石油勘探开发院研究生，美国加州理工学院地球物理学博士学位，美国哥伦比亚大学博士后。在我国多个高校院所（南京大学、武汉大学、中国科技大学、中国石油大学、中国地震局、中国科学院大学）长期从事科研、学生指导和教学工作，并放弃美国伊利诺伊大学终身教授职位全职回国。已发表论文150多篇，包括顶刊14 篇:Nature/Science（5），Rev Geophys(1),Nature Geoscience(3),PNAS(5)（其中一作/指导学生一作/通讯12篇）。成果入选美国《科学》杂志年度十大科学突破、美国《发现》杂志二十世纪最重要的发现之一、中科院科学发展报告“中国科学代表性成果”及大英百科全书代表性成果之一。曾获国际地球物理和测地学联合会(IUGG)地球深部委员会青年科学家奖、首届中国海外杰出青年基金(B类)资助、和中国地球物理学会科学技术创新奖一等奖。曾任美国国际地震研究协会全球地震台网常委员会主席，国际华人地球科学家协会主席。现任我国Earthquake Science（EQS）总编辑、国家自然科学基金重大项目负责人和国家重点研发项目负责人、自然资源部深地实验室指导专家、中国地震学会地震学专业委员会主任、中国地震科学实验场人工智能首席科学家、中国灾害防御协会防灾减灾人工智能分会首届副理事长等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
   },
   {
     "id": "DEIDGBLB",
@@ -547,7 +547,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "裘晓辉",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8356/view",
     "startTimestamp": 1767601200000,
     "endTimestamp": 1767606600000,
@@ -555,7 +555,7 @@
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "电子的自旋是一种奇特的量子现象，它赋予了材料丰富的物理和化学性质 - 如分子自由基的自旋多重度和物质的磁学特性等。近年来，随着量子科技的发展，化学科学的研究范畴已逐渐突破传统分子结构与化学键转化的框架，转向通过精准化学合成“定制”分子的自旋特性，从而创制具有全新功能的分子量子信息材料。在本报告中，我将介绍电子自旋与磁性等基本概念，并简述化学、物理和材料科学交叉领域内分子自旋材料的前沿研究进展，展望化学研究在量子科技领域的应用前景。\n裘晓辉，国家纳米科学中心研究员。本科毕业于吉林大学化学系，在中科院化学所获得博士学位，随后赴美国加州大学、美国IBM公司中心研究部、俄亥俄州立大学从事博士后研究工作。国家杰出青年科学基金获得者，国家重大科学研究计划项目首席科学家，中科院前沿科学重大突破择优支持项目负责人，国家重大科研仪器设备研制专项负责人。研究领域是纳米测量与表征，包括基于扫描探针显微技术的微纳尺度物性测量方法，以及显微超快光谱研究等。",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
   },
   {
     "id": "OJEIAIBK",
@@ -565,7 +565,7 @@
     "department": "人文学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8354/view",
     "startTimestamp": 1767591000000,
     "endTimestamp": 1767598200000,
@@ -573,6 +573,6 @@
     "mainVenue": "玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "XXX",
-    "lastUpdatedAt": "2026-03-18T09:15:34.253Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
   }
 ]

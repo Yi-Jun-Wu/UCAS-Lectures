@@ -43,7 +43,7 @@
     "department": "核科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "张丰收",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8156/view",
     "startTimestamp": 1761820200000,
     "endTimestamp": 1761825900000,
@@ -51,7 +51,7 @@
     "mainVenue": "雁栖湖 - 教二楼229",
     "parallelVenue": "",
     "introduction": "射线对生物组织的辐照研究已有一百余年的历史，近年来人们对空间辐射、医疗和环境中的辐射、辐射导致生物新品种的产生和重离子治癌等方面的研究取得长足进展。本报告将介绍x射线、?射线、电子、中子、质子和重离子等对生物分子辐照的现状和研究进展，着重介绍了重离子与生物分子相互作用基础研究的最新进展。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "CJKMKJLI",
@@ -61,7 +61,7 @@
     "department": "化学工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘昭铁",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8128/view",
     "startTimestamp": 1761812400000,
     "endTimestamp": 1761817800000,
@@ -69,7 +69,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "大约70％以上化学化工过程使用有机溶剂，每年约2000万吨有害溶剂挥发进入环境，造成环境污染。超临界CO2是一种安全、高效、节能和低污染的绿色溶剂，具有独特的物理化学性质，在萃取、催化反应和材料合成等领域已被广泛应用。将介绍不同介质的超临界流体特性，如临界温度、压力、密度等。另外，将重点介绍无毒无害、环境友好的超临界CO2在萃取、材料合成、催化反应等领域的应用。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "NAIBNNKG",
@@ -79,7 +79,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "Mark W. Rosenberg",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8131/view",
     "startTimestamp": 1761809400000,
     "endTimestamp": 1761813000000,
@@ -87,7 +87,7 @@
     "mainVenue": "雁栖湖 - 教一楼114",
     "parallelVenue": "",
     "introduction": "主讲人简介：加拿大女王大学Mark W. Rosenberg教授\nMark W. Rosenberg, Ph.D. is Professor Emeritus at Queen’s University in Kingston, Ontario, Canada. Prior to his retirement, he was a Professor in the Department of Geography and Planning and was cross appointed as a Professor in the Department of Public Health Sciences at Queen’s University. He was also the Tier 1 Canada Research Chair in Aging, Health and Development. His research continues to be on aging, health, health care, and health and the environment with foci on access to care, vulnerable populations and inequalities in Canada, and the Canadian health care system. Professor Emeritus Rosenberg has been honored in numerous ways for his research and service in the development of health geography in Canada and internationally. In 2024, Professor Emeritus Rosenberg was elected a Fellow of the American Association of Geographers.\n\n内容简介：\nThis lecture presents an environmental health study examining whether WHO-designated age-friendly cities (AFCs) improve older residents' physical and mental health. Analyzing Canadian Community Health Survey data, we compare health outcomes between AFCs and non-designated cities, using self-reported health and psychological health metrics. The findings highlight the need for evidence-based evaluation of urban health concepts and offer crucial insights for public health policy and age-friendly city planning.",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "FDOFHNFO",
@@ -97,7 +97,7 @@
     "department": "天文与空间科学学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8167/view",
     "startTimestamp": 1761791400000,
     "endTimestamp": 1761796800000,
@@ -105,7 +105,7 @@
     "mainVenue": "雁栖湖 - 教一楼107",
     "parallelVenue": "",
     "introduction": "万物都在宇宙中运转，它们弹响时空的琴弦，荡起引力之波向远方倾诉着各自的故事。宇宙中引力波的最强音由黑洞、中子星等致密天体的剧烈形成过程和相互碰撞、以及早期宇宙中的一些基本物理过程发出，它们不仅是一些无法被电磁波探测到的极端物理过程的重要信息载体，也是揭示引力本质、宇宙演化和起源的利器。我们将简要介绍引力波的产生机制、引力波源和相关天体物理过程，概述引力波宇宙探测现状，并展望引力波宇宙未来研究的发展。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "ILIKCFMI",
@@ -115,7 +115,7 @@
     "department": "现代产业学院",
     "targetAudience": "全校学生",
     "speaker": "郭子芳",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8155/view",
     "startTimestamp": 1761784200000,
     "endTimestamp": 1761789900000,
@@ -123,7 +123,7 @@
     "mainVenue": "雁栖湖 - 教二楼123",
     "parallelVenue": "",
     "introduction": "主讲人：郭子芳，正高级工程师，博导。现任中石化北京化工研究院副院长，聚烯烃国家工程中心主任、中国石油学会科技装备专业委员会主任、中国化工学会石油化工专委会副主任、中国合成树脂协会聚烯烃分会会长等职务。长期从事聚烯烃催化技术开发工作，先后承担国家、中国石化重大及十条龙项目等10余项。获得中国石化技术发明一等奖1项、技术发明二等奖2项、技术发明三等奖1项、科技进步一等奖2项、科技进步二等奖1项，国家知识产权局专利银奖1项。授权国内外发明专利224件，发表论文55篇。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "EENOEFAD",
@@ -151,7 +151,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "Christian Karcher",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8129/view",
     "startTimestamp": 1761715800000,
     "endTimestamp": 1761721200000,
@@ -159,7 +159,7 @@
     "mainVenue": "雁栖湖 - 教三楼208",
     "parallelVenue": "",
     "introduction": "报告摘要：\n该报告聚焦于熔盐在热能存储中的应用，重点探讨了其内部的自然对流现象。报告的核心在于分析热辐射和外部磁场这两种关键因素如何与熔盐的自然对流相互作用和耦合。通过结合数值模拟与实验，研究旨在深入理解这些复杂物理过程，从而为优化熔盐储热系统的设计与性能提供科学指导。\n\n主讲人简介：\nChristian Karcher现任德国伊尔梅瑙工业大学热力学与流体力学研究所磁流体动力学与可再生能源工作组负责人。他于1991年在德国卡尔斯鲁厄理工学院获得机械工程博士学位，随后前往美国康奈尔大学化学工程学院进行博士后研究。此后四年，他任职于德国德累斯顿工业大学航空航天工程学院，后加入德国伊尔梅瑙工业大学机械工程系。在该校，他获得热力学与流体力学领域的特许任教资格，并被聘为编委教授，为本科、硕士及博士阶段开设工程热力学、高等工程热力学、应用传热学等课程，累计指导超过35名博士生，并发表100余篇期刊及会议论文，持有6项专利，于2006年荣获应用研究领域卓越贡献的“图林根研究奖”。近期在2025年，荣获伊尔梅瑙工业大学“教学奖”。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "AOMAHHCA",
@@ -187,7 +187,7 @@
     "department": "人工智能学院",
     "targetAudience": "全校研究生",
     "speaker": "赵冬斌",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8112/view",
     "startTimestamp": 1761704700000,
     "endTimestamp": 1761710400000,
@@ -195,7 +195,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一6",
     "parallelVenue": "雁栖湖 - 教一楼109",
     "introduction": "讲座摘要：\n强化学习助力了近年来人工智能领域的多项重大突破，如AlphaGo、ChatGPT、DeepSeek R1等，既涵盖以面向通用泛化为主的大模型离身智能，也包括专门实现各种实体应用的具身智能。本报告首先介绍强化学习方法的概念范畴，以及其对人工智能发展的作用。然后介绍具身智能的概念范畴，分析具身智能的发展、架构、数据、训练方法、模型评估等，强化学习的支撑作用，以及业内主要关注的研究内容和发展方向。最后分享所在团队的工作，特别是在强化学习赋能具身智能方向的近期研究工作，并给出总结和展望。\n嘉宾介绍：\n赵冬斌，博士，中国科学院自动化研究所研究员，中国科学院大学岗位教授，博士生导师，IEEE/CAA/AAIA Fellow。主要从事深度强化学习算法和理论，及在游戏博弈、智能驾驶和具身智能等领域应用的研究。负责国家自然科学基金重点项目和科技部重点研发项目课题等多项，获2022年北京自然科学二等奖等。在国际权威期刊会议上发表论文300余篇，包括IEEE TASE/TCDS/TETCI期刊年度唯一杰出论文奖、热点论文和ESI高被引论文等20余篇，得到Nature论文引用。任领域权威期刊IEEE TSMCS, TAI等编委，领域权威国际会议2022年IEEE CoG大会主席等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "BNAIAAMA",
@@ -205,7 +205,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校学生",
     "speaker": "颜丙勇",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8134/view",
     "startTimestamp": 1761649200000,
     "endTimestamp": 1761656400000,
@@ -213,7 +213,7 @@
     "mainVenue": "雁栖湖 - 教一楼304",
     "parallelVenue": "",
     "introduction": "本讲座将对工艺、器件仿真在半导体工艺和器件研发过程及不同阶段的作用、应用进行介绍，结合不同实例，介绍工艺和器件仿真在不同产品中应用的侧重点；对工艺和仿真工具----TCAD工具及发展现状进行总结；并结合Sentaurus TCAD 系列产品介绍工艺和器件仿真的基本流程；介绍工艺和器件仿真模型的校准方法学；最后，对日益重要的设计与工艺协同优化技术和流程--- DTCO (Design Technology Co-optimization)技术，将对其发展和不同应用类型的子流程进行介绍。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "NNLOEGEE",
@@ -223,7 +223,7 @@
     "department": "核科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "周小红",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8157/view",
     "startTimestamp": 1761647400000,
     "endTimestamp": 1761653100000,
@@ -231,7 +231,7 @@
     "mainVenue": "雁栖湖 - 教二楼227",
     "parallelVenue": "",
     "introduction": "合成新元素拓展元素周期表、探索原子核存在极限是核物理前沿研究领域，相关研究工作涉及的重大物理问题有：存在多少种化学元素？超重元素具有什么样的化学性质？超重元素化学性质是否符合元素周期律的外推预期？最大的核幻数是什么？是否存在稳定的或长寿命的超重核素？在极强库仑场中原子核具有哪些奇特的结构和性质？等。经过逾半个世纪的不懈努力，元素合成取得了巨大成就，已将周期表从92号扩展至118号元素，完成了周期表上第七周期元素填充。本报告将介绍利用人工核反应合成超重元素和探索理论预言的超重核稳定岛的进展、现状以及目前面临的困难，展望未来的研究工作；简介我国合成新元素、探索超重核稳定岛的研究规划和进展。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "KOMMALNF",
@@ -241,7 +241,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "张树",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8153/view",
     "startTimestamp": 1761639600000,
     "endTimestamp": 1761645000000,
@@ -249,7 +249,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "聚烯烃是产量和用量最大的高分子材料，具有优异的综合性能，应用广泛。催化剂是制备高性能聚烯烃的关键之一，研究开发用于烯烃配位聚合的具有高催化活性和优良共聚性能的先进催化剂具有重要意义。本报告将围绕新型催化剂设计、烯烃配位聚合反应及高性能烯烃基弹性体的制备，系统介绍钒配合物催化剂和茂金属催化剂的设计合成及催化性能，介绍钒配合物催化剂在合成高分子量、高不饱和度乙丙共聚弹性体方面的应用，介绍茂金属催化剂在制备高不饱和度乙丙共聚弹性体方面的应用，介绍采用这些催化剂制备的乙丙共聚弹性体的官能化及官能化乙丙共聚弹性体的性能。\n张树，北京化工大学材料科学与工程学院教授、博士生导师，2003年毕业于北京化工大学获理学学士学位，2008年毕业于中国科学院化学研究所获博士学位，2008-2010年受日本学术振兴会（JSPS）资助先后在Nara Institute of Science and Technology 和Tokyo Metropolitan University从事博士后研究。2011年加入北京化工大学材料学院。主要从事烯烃可控配位聚合与大分子工程、聚烯烃材料等方面研究，近年来主持国家自然科学基金项目2项，主持教育部博士点基金1项，主持企业合作项目4项，参与国家自然科学基金重点项目及企业合作项目10余项。在J. Am. Chem. Soc., Macromolecules，Polym. Chem., Dalton Trans.等期刊上发表论文60余篇，申请/授权发明专利20余件。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.095Z"
   },
   {
     "id": "LKGIDPFN",
@@ -259,7 +259,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校学生",
     "speaker": "宋礼",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8154/view",
     "startTimestamp": 1761638400000,
     "endTimestamp": 1761643800000,
@@ -267,7 +267,7 @@
     "mainVenue": "雁栖湖 - 教三楼204",
     "parallelVenue": "",
     "introduction": "报告摘要：\n与常规光源相比，同步辐射光具有高亮度、偏振和波长连续可调等特点，可以提供谱学、衍射、散射、成像等多种实验方法，是研究低维纳米材料和纳米结构的综合性大科学装置平台。本报告将简要汇报近年来我们依托合肥、北京和上海同步辐射光源开展的研究工作，主要介绍同步辐射多谱学在线实验装置及其分析方法，并?以电化学能量储存与转化为具体应用对象，重点讨论反应条件下纳米电催化材料构效关系的原位测量以及工作状态下纳米储能材料的性能演化机制。最后，基于正在建设的第四代同步辐射光源（合肥先进光源），进一步展望分子、电子、自旋等敏感的高空间分辨和时间分辨的实验线站和未来新技术对多个研究领域带来的机遇。\n\n主讲人简介：\n宋礼，中国科学技术大学国家同步辐射实验室和精准智能化学全国重点实验室教授、博士生导师。\n2006年于中国科学院物理研究所获凝聚态物理博士学位，师从解思深院士。随后，在德国慕尼黑大学、美国莱斯大学和日本信州大学开展科学研究，历任洪堡学者、博士后和副教授，2012 年加入中国科学技术大学国家同步辐射实验室任教授。研究领域为同步辐射技术及应用，长期围绕低维纳米材料与能源器件开展同步辐射实验新方法和新技术的研究。迄今在Nature Energy，Nature Sustainability, Nature Communications, Advanced Materials, JACS和PNAS等期刊上发表学术论文500余篇，被引用50000余次，个人H因子124，入选2019-2024年科睿唯安全球高被引科学家。曾获科技部中青年科技创新领军人才、国家基金委杰出青年基金项目等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "ODKIFKDC",
@@ -277,7 +277,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校学生",
     "speaker": "阚海东",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8151/view",
     "startTimestamp": 1761631200000,
     "endTimestamp": 1761634800000,
@@ -285,7 +285,7 @@
     "mainVenue": "雁栖湖 - 教一楼208",
     "parallelVenue": "",
     "introduction": "本报告阐述大气氧化性对人群健康的威胁，重点剖析了我国臭氧与PM?.?复合污染的严峻态势及其引发的沉重疾病负担。研究证实，无论是短期还是长期暴露于臭氧，均会显著提升人群死亡风险，并且臭氧与PM?.?之间存在协同增强的健康危害效应。通过人体暴露实验与多组学整合分析，揭示了污染物引发系统性炎症、氧化应激等关键毒性通路。将总氧化剂（Ox）这一指标引入流行病学研究，为推动空气质量评价体系从单一污染物浓度限制向复合毒性风险评估的范式转变，提供科学依据。\n复旦大学公共卫生学院教授、副院长，欧洲科学院院士，教育部长江学者特聘教授，国务院特殊津贴专家。主要从事空气污染、全球气候变化与人群健康的教学科研工作。中国医学科学院学术咨询委员会学部委员、国际环境流行病学学会会士，世界卫生组织全球空气质量准则制定专家委员会委员、国家生态环境保护专家委员会委员、国家环境与健康专家咨询委员会委员、Environmental Health Perspectives杂志副主编、International Journal of Epidemiology杂志副主编。代表性论文发表于Nature、NEJM、BMJ等期刊，全部论文被引用14万余次，H指数129，连续入选“全球高被引科学家”、“中国高被引学者”。曾获《新英格兰医学杂志》年度最佳论文奖、美国环保署科学技术成就奖、上海市科技进步一等奖（第一完成人）、复旦大学廖凯原最受欢迎老师奖等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "DHLCDDMF",
@@ -295,7 +295,7 @@
     "department": "外语系",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8130/view",
     "startTimestamp": 1761629400000,
     "endTimestamp": 1761634800000,
@@ -303,7 +303,7 @@
     "mainVenue": "雁栖湖 - 教三楼403",
     "parallelVenue": "",
     "introduction": "如今的大语言模型貌似出口成章，它们是否真的理解日常对话中的言外之意？它们又是如何习得汉语语法的？本次报告将从两个方面探究大语言模型的汉语能力。第一部分将以模型语言能力评测为主，通过建立包含成语、代词脱落、旁格结构等的汉语推理评测集，以格莱斯合作原则为理论基础的《武林外传》言外之意评测集，以及汉语歇后语评测集，探究早期预训练模型如BERT以及大语言模型如GPT, DS-R1的汉语理解能力。第二部分则以模型汉语语法习得为研究对象，通过构造包含100多种句法语义现象的汉语语法现象评测集ZhoBLiMP，以及从零训练不同参数量、数据量的汉语语言模型，探究模型汉语语法的习得顺序、习得条件、习得曲线，是否有难以习得的语法现象。在此基础上，讨论大语言模型对语言学的启示，以及未来研究方向。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "OIPBDGBK",
@@ -313,7 +313,7 @@
     "department": "核科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "王九庆",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8148/view",
     "startTimestamp": 1761564000000,
     "endTimestamp": 1761573000000,
@@ -321,7 +321,7 @@
     "mainVenue": "雁栖湖 - 教一楼306",
     "parallelVenue": "",
     "introduction": "粒子加速器和对撞机是人类探索和研究物质基本结构不可或缺的利器。能量和亮度是对撞机的特征性能指标。本讲座围绕粒子加速器和对撞机的发展历程，重点讲述在攀登亮度高峰上所取得的不断进步和高亮度正负电子对撞机前沿及未来发展其所面临的加速器物理与技术挑战。结合实际，介绍我国的正负电子对撞机的发展，包括北京正负电子对撞机（BEPC）及其重大改造工程（BEPCII）和规划中的环形正负电子对撞机（CEPC），超级陶粲装置（STCF）等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "BIICJKMH",
@@ -331,7 +331,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校学生",
     "speaker": "张凌云",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8105/view",
     "startTimestamp": 1761303600000,
     "endTimestamp": 1761310800000,
@@ -339,7 +339,7 @@
     "mainVenue": "雁栖湖 - 教二楼107",
     "parallelVenue": "",
     "introduction": "集成电路版图验证是芯片设计到生产的关键，它决定着设计能否满足工艺的要求，能否变成真正的产品，同时芯片的工艺随着应用需求的增加在不断地演进，对版图验证技术带来了更多的要求和挑战，本讲座将首先介绍集成电路的发展方向和趋势，然后探讨EDA的技术现状和未来展望，其中物理验证技术在纳米大芯片中的挑战和应对，AI在EDA中的应用，以及3DIC设计中的验证挑战和应对探讨等等",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "ICKOKFND",
@@ -349,7 +349,7 @@
     "department": "物理科学学院",
     "targetAudience": "全校学生",
     "speaker": "曹俊鹏",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8125/view",
     "startTimestamp": 1761301800000,
     "endTimestamp": 1761307200000,
@@ -357,7 +357,7 @@
     "mainVenue": "雁栖湖 - 教一楼109",
     "parallelVenue": "雁栖湖 - 教一楼123",
     "introduction": "摘要：量子可积系统不但具有优美的数学结构，而且包含丰富的物理内涵，可以为若干重要物理概念和数值方法提供基准，在现代科学研究的多个领域都有重要应用。本报告将介绍典型低维量子多体系统如伊辛模型、海森堡模型和Hubbard模型的物理性质，以及最新的研究进展，同时介绍精确求解此类系统的著名方法：Bethe ansatz。\n\n简历：曹俊鹏，男，1974年生。1997年7月毕业于西北大学物理系，2001年7月在西安西北大学现代物理研究所获理学博士学位。2001年7月至2003年6月在中国科学院物理研究所做博士后。2003年7月进入中国科学院物理研究所凝聚态理论与材料计算实验室工作。2009年8月被聘为研究员。曾在香港科技大学、香港中文大学做访问学者。主要研究方向：低维强关联系统中的电子及自旋性质；量子多体理论；量子可积系统及严格可解统计模型；高自旋冷原子系统中的新物质态理论研究。已发表SCI论文140余篇，撰写英文专著一部：《Off-Diagonal Bethe Ansatz for Exactly Solvable Models》, Springer Verlag Press, 2015。2012年获国家自然科学二等奖（第二完成人）。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "DPNJLIHC",
@@ -367,7 +367,7 @@
     "department": "化学工程学院",
     "targetAudience": "全校学生",
     "speaker": "雷志刚",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8126/view",
     "startTimestamp": 1761295200000,
     "endTimestamp": 1761300600000,
@@ -375,7 +375,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "分子热力学是化学工程的基础学科领域，其重要性被长期忽视，特别是我国学术界及工业界广泛使用的化工过程模拟及仿真软件长期受制于国外企业。大力发展分子热力学可为化工过程强化提供最底层的基础数据与理论方法支持，为解决上述“卡脖子”问题提供坚实理论基础。近几年来，作者充分考虑计算化学工程领域的国际学术前沿，创新性地构建了预测型热力学理论体系，且已被国内外学者广泛地使用。在其理论指导下提出了几种新型的化工过程强化新技术，并进行了系统的实验、模拟与理论研究，其结果已在工业上得到证实与应用。形成了“传统化工分离过程（蒸馏和吸收）与新功能材料（离子液体、结构化催化剂、金属-有机骨架MOFs 材料等）相结合”、“基础研究与理论和工业应用相结合”的鲜明特色。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "MOGHMGCF",
@@ -385,7 +385,7 @@
     "department": "化学工程学院",
     "targetAudience": "全校学生",
     "speaker": "黄延强",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8127/view",
     "startTimestamp": 1761207600000,
     "endTimestamp": 1761213000000,
@@ -393,7 +393,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "面向载人密闭空间内CO2转化技术的工程急需，以负载型金属催化剂为研究对象，通过对活性金属电子态、界面结构和协同机制等的精细调控，创制新型CO2转化高效催化剂并实现工程应用：1) 借鉴CO2均相催化转化机制，通过构筑功能化载体和单原子催化中心策略，实现了温和条件下CO2高效活化转化；2) 依据催化剂助剂调控转化选择性的作用机制，开发出高选择性合成甲醇催化剂，研制出用于水下潜器的CO2加氢液化原理样机，实现废气液化隐身排放；3) 提出“晶型相同，晶格匹配”的策略增强金属-载体相互作用，解决Ru基催化剂在高温反应条件下稳定性不足的难题，结合反应热力学和动力学分析进行反应器和系统结构优化设计，成功研制出CO2甲烷化反应器组件并工程应用，实现载人密闭空间内呼吸用氧的循环。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "PALKPKGB",
@@ -403,7 +403,7 @@
     "department": "化学工程学院",
     "targetAudience": "全校学生",
     "speaker": "王英龙",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8124/view",
     "startTimestamp": 1761122400000,
     "endTimestamp": 1761127800000,
@@ -411,7 +411,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "绿色溶剂是实现化工过程可持续发展的关键。然而，其性能预测与定向设计始终面临分子结构复杂、构效关系不明确的挑战。传统“试错式”研发模式效率低下，难以满足绿色发展需求。\n报告人探索了一条新的路径。将深度学习方法深度融入绿色溶剂的构效关系建模中。以离子液体为模型体系，创新性地采用特征压缩与结构重构策略，对其CO?/H?S溶解度及表面张力等关键热力学性质进行了高精度建模。通过提取分子SMILES字符串的多样化特征，耦合卷积自编码器（CAE）等先进算法，构建的深度学习模型在多个预测任务中测试集决定系数R2均超过0.98，实现了近乎完美的预测精度。同时利用SHAP分析解释黑箱模型背后的化学逻辑，揭示阴/阳离子贡献差异、碳链长度与双键数等关键结构特征对溶剂性能的影响规律。\n本报告将系统分享我们在“AI for Science”交叉研究中的实践与思考，为复杂溶剂体系的性能预测与定向设计提供了新思路与技术支撑。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.633Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.096Z"
   },
   {
     "id": "LJIMOKJG",
@@ -421,7 +421,7 @@
     "department": "工程科学学院",
     "targetAudience": "全校学生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8141/view",
     "startTimestamp": 1761099900000,
     "endTimestamp": 1761105600000,
@@ -429,7 +429,7 @@
     "mainVenue": "雁栖湖 - 教一楼213",
     "parallelVenue": "",
     "introduction": "This presentation begins with a brief review of the Joint Institute for High Temperatures of the Russian Academy of Sciences (JIHT RAS) activities in energetics. It then details experimental research on liquid metal magnetohydrodynamic (MHD) heat transfer, a critical field for advanced nuclear and fusion reactor design. The talk offers an overview of fundamental mixed MHD convection patterns, where thermal and magnetic forces interact. It will delve into the nature of magneto-convective fluctuations (MCF) and the characteristics of jet flows within a magnetic field. Furthermore, it will reveal early results from investigating the pulsed effects of a magnetic field on a liquid metal cavity.",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "GBGPJLCH",
@@ -439,7 +439,7 @@
     "department": "人工智能学院",
     "targetAudience": "全校研究生",
     "speaker": "余张国",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8111/view",
     "startTimestamp": 1761099900000,
     "endTimestamp": 1761105600000,
@@ -447,7 +447,7 @@
     "mainVenue": "雁栖湖 - 教一楼109",
     "parallelVenue": "玉泉路 - 教学楼阶一1",
     "introduction": "讲座内容：\n人形机器人以双足行走、双手操作，是适应以人为中心建造的生活工作环境、直接使用人类所用的工具和装备的一种理想通用机器人形态，在工业生产、社会服务、公共安全等领域有广阔应用前景。本报告回顾人形机器人发展历程，分析人形机器人发展挑战。分析人形机器人双足移动、地形自适应和拟人作业等核心能力，及其相关的理论与关键技术问题。介绍人形机器人旋转/线性驱动关节、机器人腿部和足部设计。介绍北京理工大学人形机器人团队在人形机器人快速行走、高爆发奔跑跳跃，以及基于强化学习的运动控制和移动操作方面的研究进展。\n嘉宾简介：\n余张国，1975年出生，安徽太湖县人，北京理工大学特聘教授、交叉学部委员、机器人学科方向责任教授。长期从事仿生腿足机器人系统设计、控制及应用研究，主持国家自然科学基金重点项目、基础加强重点项目等研究，参与研制北理工多代“汇童”系列仿人机器人。在IEEE T-RO、T-MECH、T-ASE等期刊和IEEE ICRA等国际会议发表学术论文100余篇，获授权国家发明专利60余项，出版学术专著1部，获国家技术发明二等奖1项、教育部技术发明一等奖2项。任Humanoid Robotics等国际期刊编委，任IEEE ARSO 2019、IEEE Humanoids 2018、CLAWAR 2025等国际会议程序委员会主席、联席主席。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "BLHDGNKN",
@@ -457,7 +457,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "韩斌",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8136/view",
     "startTimestamp": 1760835600000,
     "endTimestamp": 1760846400000,
@@ -465,7 +465,7 @@
     "mainVenue": "雁栖湖 - 教二楼106",
     "parallelVenue": "",
     "introduction": "本课程以PM?.?为核心，系统讲解空气污染对人群健康的主要影响及研究思路。内容涵盖全球与中国的健康负担格局、暴露科学的基本概念、主流流行病学研究设计（时间序列、队列、干预等）、暴露评估方法及数据来源、以及科学证据在环境政策中的应用。课程强调研究逻辑与方法认知，帮助学生理解“污染—暴露—健康—政策”链条，培养从环境视角思考公共健康问题的能力。\n韩斌，2009年12月获南开大学环境科学专业理学博士学位，现为中国环境科学研究院环境基准与风险评估国家重点实验室大气基准课题组青年科技骨干，主要从事空气污染的暴露评估及健康效应、大气颗粒物化学表征、来源解析等方面的研究。申请人从事科研工作至今，累计发表SCI文章近百篇，累计引用次数3000余次，其中以第一作者或通讯作者身份发表SCI文章近三十篇；参与多项专利设计和申请工作；主持重点研发计划课题、国家自然基金面上及青年项目、环保公益性行业专项等多个国家级课题，曾于2022-2023 年期间担任英文期刊Environmental Pollution 和中文核心期刊《地球环境学报》客座编辑，现担任Sustainable Horizon 期刊编委，中国环境诱变剂学会环境流行病学专委会委员等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "DDGHOGED",
@@ -475,7 +475,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "白璐",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8135/view",
     "startTimestamp": 1760749200000,
     "endTimestamp": 1760760000000,
@@ -483,7 +483,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "本课程主要介绍产业生态学研究中常用的手段和工具：工业代谢的基础理论、主要研究方法和应用案例。工业代谢包括使得经济系统得以运行（也即生产和消费）的所有物质和能量的转化过程。作为产业生态学的重要组成内容，工业代谢的主要研究目的是通过识别和追踪这一系列转化过程中某一研究对象（物质或能量）的变化（代谢）反映其所在工业体系的运行机制，为进一步通过机制调节和优化这种代谢关系来达到保护生态环境、实现可持续发展的目的。课程将通过工业代谢基本概念原理的引入，重点介绍其在环境管理、工业污染防治等研究工作中的应用现状和研究趋势。\n白璐，博士，研究员。长期从事工业行业污染防治研究的相关工作，特别是通过运用工业代谢的基础理论，以物质流分析和生命周期影响评价为手段，在有色冶炼、新能源电池等行业开展了大量研究。获省部级奖项6项。获国家生态环境保护专业技术青年拔尖人才，环境科学学会青年科学家奖、第二次全国污染源普查先进个人、生态环境部三八红旗手标兵、中华环保联合会杰出青年科技奖等称号。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "JEHOILIK",
@@ -511,7 +511,7 @@
     "department": "计算机科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "赵鸿冰",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8133/view",
     "startTimestamp": 1760605500000,
     "endTimestamp": 1760610300000,
@@ -519,7 +519,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一5",
     "parallelVenue": "",
     "introduction": "随着人工智能引领新一轮工业革命，大模型技术成为驱动本轮浪潮的关键支撑。对于用户而言，高效、便捷且可靠的算力服务是实现大模型训练和推理的核心需求。本报告从用户选型视角，分享基于算网服务的产业模式.",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "FNFLMLLF",
@@ -529,7 +529,7 @@
     "department": "应急管理科学与工程学院",
     "targetAudience": "全校学生",
     "speaker": "刘东",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8118/view",
     "startTimestamp": 1760592600000,
     "endTimestamp": 1760598000000,
@@ -537,7 +537,7 @@
     "mainVenue": "雁栖湖 - 教二楼123",
     "parallelVenue": "玉泉路 - 人文楼教一1",
     "introduction": "伴随着贸易发达及市场经济的成熟，保险逐渐演变为人类经济社会中的重要环节。保险学是一门应用科学，研究如何高效规范的集中风险和使用保险基金，实现损失补偿和分担。社会实践中，保险是风险管理中一种常用且重要的财务型风险转移手段，是应急管理体系的重要组成部分，通过风险减量、市场化损失补偿与损失分担等功能，在灾前灾中灾后都发挥着日益重要的作用。在碳达峰碳中和及新型电力系统建设的大背景下，通过新型电力系统保险，可为实现 “双碳” 目标和能源安全新战略提供重要支撑。讲座还将介绍保险市场，保险行业以及保险公司的经营管理。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "BLOCFDBJ",
@@ -547,7 +547,7 @@
     "department": "应急管理科学与工程学院",
     "targetAudience": "全校学生",
     "speaker": "李新",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8122/view",
     "startTimestamp": 1760524200000,
     "endTimestamp": 1760530200000,
@@ -555,7 +555,7 @@
     "mainVenue": "雁栖湖 - 教一楼213",
     "parallelVenue": "玉泉路 - 人文楼教一1",
     "introduction": "中国应急管理体系的构建是一部从被动响应到主动防控的演进史，当前正处于从“单灾种”到“全灾种、大应急”的关键转型期。面临新时代诸多因素造成的不确定性风险挑战，国家全面布局完善支撑体系与构建安全韧性城市等破解之道。为积极应对自然灾害等各类突发事件，应急管理体系加快向技术、装备、设施与管理深度融合的方向进化。未来，由技术革命性突破、生产要素创新型配置、产业深度转型升级催生的新质生产力质态，将加速驱动应急管理体系现代化。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "CJKJIONG",
@@ -565,7 +565,7 @@
     "department": "外语系",
     "targetAudience": "全校研究生",
     "speaker": "",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8100/view",
     "startTimestamp": 1760524200000,
     "endTimestamp": 1760529600000,
@@ -573,7 +573,7 @@
     "mainVenue": "玉泉路 - 教学楼505",
     "parallelVenue": "",
     "introduction": "人类互动是多模态的，互动参与者使用语言、身体视觉活动等互动资源传达和理解彼此的交际意图。语言资源包括词汇、语法、语音韵律等，身体视觉活动包括手势、面部表情、头部活动等。综合考虑语言和身体视觉活动在互动中的作用即为多模态互动（李晓婷，2019）。本研究以汉语互动中的不完整话论、评价性行为和指令性行为为例，阐述了汉语互动的多模态性，以及汉语会话中的话论和社会行为是怎样用语言、身体等多模态资源共同构建的，并在此基础上，提出汉语互动中的多模态行为模式。多模态行为模式研究成果可用于基于人工智能技术的智能机器人、智能服务等其他智能技术和应用。多模态研究在人工智能研究中有广阔的应用前景，为人工智能研究提供了新思路。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "OCCCEOIL",
@@ -583,7 +583,7 @@
     "department": "计算机科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "赵鸿冰",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8132/view",
     "startTimestamp": 1760519100000,
     "endTimestamp": 1760523900000,
@@ -591,7 +591,7 @@
     "mainVenue": "雁栖湖 - 教一楼115",
     "parallelVenue": "",
     "introduction": "随着人工智能引领新一轮工业革命，大模型技术成为驱动本轮浪潮的关键支撑。对于用户而言，高效、便捷且可靠的算力服务是实现大模型训练和推理的核心需求。本报告从用户选型视角，分享基于算网服务的产业模式，",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "ICKADLHK",
@@ -601,7 +601,7 @@
     "department": "材料科学与光电技术学院",
     "targetAudience": "全校研究生",
     "speaker": "Christian Müller",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8101/view",
     "startTimestamp": 1760508000000,
     "endTimestamp": 1760513400000,
@@ -609,7 +609,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "讲座摘要：\nOrganic mixed ionic-electronic conductors (OMIECs) are a class of semiconducting materials that are widely studied for application areas ranging from energy technology to wearable electronics and bioelectronics. Many OMIECs are based on conjugated polymers, which offer a promising combination of electrical and mechanical properties but typically require hazardous synthetic routes that are poorly scalable. This talk will explore how direct arylation polymerization can be used for the environmentally benign synthesis of p-type polymers with a state-of-the-art performance. Model thienothiophene based copolymers with oligoether side chains feature a hole mobility as high as 6 cm2 V-1 s-1 in organic electrochemical transistors (OECTs) and an elastic modulus of about 100 MPa. In-situ monitoring of the electrical and mechanical properties will be discussed, which allows to correlate changes in the nanostructure of the OMIEC during oxidation/reduction cycles with variations in mobility and elastic modulus. Overall, materials are presented that combine benign and scalable synthesis with an excellent electrical and mechanical performance.\n\n主讲人简介：\nChristian Mu?ller is a Professor in Polymer Science at the Department of Chemistry and Chemical Engineering of Chalmers University of Technology, Sweden. Prior to Chalmers, where he has been working since 2012, he completed postdoctoral stays at the Institut de Ciència de Materials de Barcelona (ICMAB-CSIC) in Barcelona, Spain (2011-2012) and Link?ping University, Sweden (2008-2010). He holds a Dr.Sc. in Materials Science from the Eidgen?ssische Technische Hochschule (ETH) Zürich, Switzerland (2004-2008) and a M.Sci. in Natural Sciences from Cambridge University, UK (2000-2004). He is a Wallenberg Scholar and was awarded an ERC Consolidator Grant in 2022. He was selected as a Future Research Leader by the Swedish Foundation for Strategic Research in 2016. His research interests include the physical chemistry of organic semiconductors, polymer blends and composites, and their use in the fields of wearable electronics and energy technology. He has co-authored more than 180 peer-reviewed papers and is a co-inventor of more than 20 patents or patent applications.",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "DNMEMJAE",
@@ -619,7 +619,7 @@
     "department": "人工智能学院",
     "targetAudience": "全校研究生",
     "speaker": "陈殿生",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8109/view",
     "startTimestamp": 1760495100000,
     "endTimestamp": 1760500800000,
@@ -627,7 +627,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一1",
     "parallelVenue": "雁栖湖 - 教一楼109",
     "introduction": "讲座内容：首先介绍我国老龄化的挑战，面向老人在生活辅助、医疗康复、精神慰藉和安全监护等方面对服务机器人的迫切需求；其次介绍床椅一体化、保姆型护理机器人、多功能浴椅、安全监护系统、康复机器人等方面的研究进展；最后对智能护理机器人的技术与产业发展思考及展望。\n嘉宾简介：陈殿生，北京航空航天大学教授，博士生导师，国家重点研发计划“智能机器人”重点专项专家。研究方向为智能护理机器人、康复机器人和机电智能控制技术方面的研究；荣获辽宁省科技进步一等奖等多项，在核心期刊和重要国际学术会议上发表论文150余篇，其中SCI/EI收录100余篇；发明专利30余项。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "JEACJFEB",
@@ -655,7 +655,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "王祥科",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8108/view",
     "startTimestamp": 1760431200000,
     "endTimestamp": 1760436600000,
@@ -663,7 +663,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "核能对碳达峰和碳中和做出了突出贡献，但是在核能利用过程中会不可避免地产生放射性核素，对环境污染和人类健康造成威胁。多孔纳米材料由于其特殊的结构和性质在放射性核素高效分离方面具有重要的应用前景，但存在选择性差等缺点。通过对多孔纳米材料的位点设计、孔径调控和功能基团精准修饰，可以实现目标放射性核素在复杂条件下的高选择性分离和提取。该报告总结了光催化、电催化和光电催化在核素高效分离中的关键问题和相关机理，通过对材料的精准构筑，实现目标核素和重金属离子的高效分离，对复杂体系中放射性核素的高效分离具有重要的参考价值和应用前景。\n王祥科，男，1973年3月4日生，教授，博士生导师，国家杰出青年基金获得者，教育部长江学者特聘教授，万人计划领军人才，中科院百人计划引进海外杰出人才。主要从事三废治理、纳米材料在废水处理、核能利用中核素高效分离、等离子体技术应用、环境污染检测和治理中的应用等方面的研究工作。在J. Am. Chem. Soc., Chem. Soc. Rev., Nature Commun., Angew. Chem. Int. Ed., Adv. Mater., Adv. Sci., Adv. Func. Mater., Chem. Sci., ACS Nano, CCS Chem., 中国科学等SCI期刊上发表论文500余篇，邀请综述50多篇。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "BIJKGPKA",
@@ -673,7 +673,7 @@
     "department": "资源与环境学院",
     "targetAudience": "全校研究生",
     "speaker": "林晨",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8103/view",
     "startTimestamp": 1760230800000,
     "endTimestamp": 1760241600000,
@@ -681,7 +681,7 @@
     "mainVenue": "雁栖湖 - 教二楼104",
     "parallelVenue": "",
     "introduction": "长三角地区水资源丰富，类型多样，时空变化剧烈，同时也面临着流域水土流失、湖泊富营养化等生态环境问题。利用多源卫星遥感和地理信息技术手段，从资源、范围、环境和流域影响等方面多角度、高精度地探测其变化特征和机理，为自然资源、生态环境部门的精准决策和管控提供依据。\n林晨。中国科学院南京地理与湖泊研究所研究员，博导，入选国家高层次青年人才计划（万人青拔），江苏省杰青，国家重点研发计划青年科学家项目首席科学家、自然资源部高层次青年科技领军人才、江苏省青年科技托举人才计划；担任江苏省遥感与地理信息系统学会副理事长、江苏省生态环境遥感监测重点实验室首届学术委员会委员、江苏省自然资源厅与江苏省土壤三普首批专家库成员；长期开展遥感和GIS技术在流域自然资源管理和监测中的应用研究，主持国家重点研发计划青年科学家项目一项、国家自然科学基金项目3项、以及重点研发计划子课题、中科院重点部署项目子课题等国家级科研项目10项、江苏省自然资源相关职能部门委托项目20余项。研究成果在Earth’s Future Water Research等期刊发表高水平期刊论文70余篇，获软件著作权10项，申请发明专利6项，出版专著3部。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "DNGNEDOM",
@@ -691,7 +691,7 @@
     "department": "化学科学学院",
     "targetAudience": "全校学生",
     "speaker": "黄伟",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8085/view",
     "startTimestamp": 1760085600000,
     "endTimestamp": 1760091000000,
@@ -699,7 +699,7 @@
     "mainVenue": "雁栖湖 - 教二楼105",
     "parallelVenue": "",
     "introduction": "科研之路总是崎岖且充满意外。不成功的合成、不工作的器件、不达标的指标貌似是科研常态，科研路途上总是充满了意外。我将分享我在晶体管方面的意外“意外”科研经历，一方面从科研思维和方法方面分享总结科研过程中应该具有的关键素养，同时将分享一种新型垂直有机电化学晶体管的发明历程。该垂直结构有效攻克了基于常规平面结构OECT在器件稳定性、较慢的开关速度、较低的集成密度和极差的N型器件性能等方面的系列瓶颈，利用垂直结构纳米限域下离子偏移增强的新机制，实现了可大规模制备的具有高度匹配P/N型性能的OECT；进一步构建了三维垂直堆叠的互补电路，提升了电路集成密度及增益。该系列研究为下一代智能传感和类脑集成等方向提供了新的设计理念。\n黄伟，电子科技大学自动化工程学院教授/博导，国家青年人才计划入选者。2010年本科毕业于南开大学物理学院，2016年博士毕业于电子科技大学光电科学与工程学院，2017-2021年在美国西北大学材料科学与工程中心先后任博士后及研究助理教授，师从美国三院院士Tobin J. Marks和美国工程院院士Antonio Facchetti。主要从事基于晶体管的传感技术和类脑集成研究，主持科技部重点研发计划国合专项、科技部重点研发课题、国家自然基金委面上项目等多个国家、省部级项目，在Nature、Nature Materials、Nature Electronics、PNAS等国际顶级SCI期刊上以一作或通讯发表论文60余篇；获中国十大新锐科技人物、四川省科学技术进步一等奖等。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "FLANCOPF",
@@ -709,7 +709,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校研究生",
     "speaker": "朱精果",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8102/view",
     "startTimestamp": 1760076000000,
     "endTimestamp": 1760081400000,
@@ -717,7 +717,7 @@
     "mainVenue": "玉泉路 - 教学楼阶二2",
     "parallelVenue": "",
     "introduction": "随着遥感测绘、自动驾驶等应用的推动，主动式激光雷达得到了快速发展。报告介绍激光雷达的国内外发展态势、器件特点、技术特征、指标体系及应用场景，梳理集成电路对激光雷达的贡献与作用，同时从系统角度，介绍团队几个典型激光雷达研发过程中的相关设计与开发实践，最后，对激光雷达技术及应用的发展趋势进行分析与展望。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "FALLDOHI",
@@ -727,7 +727,7 @@
     "department": "集成电路学院",
     "targetAudience": "全校研究生",
     "speaker": "雷霆",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8097/view",
     "startTimestamp": 1760007600000,
     "endTimestamp": 1760013000000,
@@ -735,7 +735,7 @@
     "mainVenue": "玉泉路 - 教学楼阶一4",
     "parallelVenue": "",
     "introduction": "当前有机半导体材料在显示、场效应晶体管和太阳能电池等中主要工作在中性或轻掺杂状态，而对重掺杂有机半导体的分子设计原理、载流子传输机制及高性能器件研究等方面仍存在明显不足。由于高分子材料主要通过弱范德华力相互作用，其重掺杂研究面临着材料种类少，稳定性差、载流子迁移率低、以及器件性能不佳等关键科学问题。本报告将系统阐述我们在重掺杂高分子半导体领域的最新研究进展：（1）揭示重掺杂体系的掺杂特性；（2）阐明掺杂剂与高分子半导体的相互作用机制；（3）提出创新的分子设计策略。我将重点介绍两项工作：基于化学掺杂，我们提出了\"热电橡胶\"概念，实现了具有高度柔性和贴合性的可穿戴热电发电机；基于电化学掺杂，我们提出了“半导体水凝胶”概念，为高相容性、高灵敏度生物电子器件提出了新思路。这些研究为发展新一代可穿戴电子器件提供了新的材料体系和器件基础。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   },
   {
     "id": "GJGIOFLL",
@@ -781,7 +781,7 @@
     "department": "计算机科学与技术学院",
     "targetAudience": "全校学生",
     "speaker": "杨建",
-    "isAppointmentRequired": true,
+    "isAppointmentRequired": false,
     "sourceUrl": "/subject/8104/view",
     "startTimestamp": 1760001300000,
     "endTimestamp": 1760004900000,
@@ -789,6 +789,6 @@
     "mainVenue": "玉泉路 - 教学楼阶一5",
     "parallelVenue": "雁栖湖 - 教一楼115",
     "introduction": "杨建博士以CTO视角、ML SyS、大模型视角多维度剖析deepseek的正向设计带来的巨大变革，并指出开源生态为中国人工智能发展的关键力量，接着介绍国产GPU超节点、大模型训练、分布式推理优化等多项相关技术及CCF开源生态最新进展。最后展望未来3-5年潜在的国产GPU发展方向。",
-    "lastUpdatedAt": "2026-03-18T09:18:50.634Z"
+    "lastUpdatedAt": "2026-03-19T04:57:04.097Z"
   }
 ]

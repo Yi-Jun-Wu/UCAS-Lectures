@@ -628,5 +628,23 @@
     "parallelVenue": "",
     "introduction": "蒸汽机出现是第一次工业革命的标志，瓦特离心式调速器在蒸汽机转速控制上得到普遍应用，出现了研究控制理论的需求，1868年，英国物理学家麦克斯韦在论文《论调节器》中首先解释了瓦特速度控制系统中出现的不稳定问题；通过线性常微分方程的建立和分析，指出速度控制系统出现的振荡现象与由系统导出的代数方程根的分布密切相关；开辟了用数学方法研究控制系统的先河……",
     "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
+  },
+  {
+    "id": "BLPCPAOB",
+    "seriesName": "物理学前沿",
+    "title": "AI4Physics",
+    "creditHours": "2",
+    "department": "物理科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "王磊",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8466/view",
+    "startTimestamp": 1777026600000,
+    "endTimestamp": 1777032000000,
+    "rawTimeStr": "2026-04-24 18:30-20:00",
+    "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
+    "parallelVenue": "",
+    "introduction": "详见海报",
+    "lastUpdatedAt": "2026-03-20T01:13:44.345Z"
   }
 ]

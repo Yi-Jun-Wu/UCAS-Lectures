@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-19T05:44:08.005Z",
-  "total": 22,
+  "generatedAt": "2026-03-20T01:13:46.620Z",
+  "total": 23,
   "lectures": [
     {
       "id": "BELNFMCE",
@@ -396,6 +396,24 @@
       "mainVenue": "雁栖湖 - 教三楼308（报告厅）",
       "parallelVenue": "",
       "introduction": "蒸汽机出现是第一次工业革命的标志，瓦特离心式调速器在蒸汽机转速控制上得到普遍应用，出现了研究控制理论的需求，1868年，英国物理学家麦克斯韦在论文《论调节器》中首先解释了瓦特速度控制系统中出现的不稳定问题；通过线性常微分方程的建立和分析，指出速度控制系统出现的振荡现象与由系统导出的代数方程根的分布密切相关；开辟了用数学方法研究控制系统的先河……",
+      "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
+    },
+    {
+      "id": "EFMMMABF",
+      "seriesName": "先进电磁制造与电磁轨道发射",
+      "title": "电磁轨道发射技术发展趋势",
+      "creditHours": "2",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "袁伟群",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8425/view",
+      "startTimestamp": 1775110800000,
+      "endTimestamp": 1775117400000,
+      "rawTimeStr": "2026-04-02 14:20-16:10",
+      "mainVenue": "雁栖湖 - 教三楼304",
+      "parallelVenue": "",
+      "introduction": "结合国内外研究现状，分析电磁轨道发射技术的发展方向，探讨其在先进发射系统中的潜在应用前景。",
       "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
     }
   ]

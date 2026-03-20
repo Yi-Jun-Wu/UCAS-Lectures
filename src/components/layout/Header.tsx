@@ -1,5 +1,6 @@
 // components/layout/Header.tsx
 import React from 'react';
+import { version } from '../../../package.json';
 import type { LectureCategory, AppFilters, CampusLocation, SyncStatus } from '../../types';
 
 interface HeaderProps {
@@ -52,12 +53,47 @@ export const Header: React.FC<HeaderProps> = ({
     <header className="sticky left-0 top-0 w-max min-w-full px-8 py-3 bg-white/95 backdrop-blur-md border-b border-slate-200 z-50 flex gap-10 justify-between items-center shadow-sm">
 
       {/* ================= 1. 左侧：品牌与标识 ================= */}
-      <div className="flex flex-col shrink-0">
-        <div className="flex items-baseline gap-2">
-          <h1 className="text-xl font-extrabold text-slate-800 tracking-tight">UCAS 讲座周历</h1>
-          <span className="text-xs font-bold text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded">{new Date().getFullYear()}</span>
+      <div className="flex items-center gap-3 shrink-0">
+        
+        {/* 文字列 (上下两行) */}
+        <div className="flex flex-col gap-1 justify-center">
+          
+          {/* 第一行：标题 + 年份 */}
+          <div className="flex items-center gap-2">
+            <h1 className="text-xl font-extrabold text-slate-800 tracking-tight">UCAS 讲座周历</h1>
+            <span className="text-[10px] font-bold text-slate-500 bg-slate-100 px-1.5 py-0.5 rounded border border-slate-200">
+              {new Date().getFullYear()}
+            </span>
+          </div>
+          
+          {/* 第二行：副标题 + 版本号 */}
+          <div className="flex items-center gap-2 mt-0.5">
+            <p className="text-[10px] text-slate-500 tracking-wide">校园讲座动态时空速览</p>
+            {/* 颜色优化：使用柔和的淡蓝色，字号调至 9px，融入副标题的视觉层级 */}
+            <span className="text-[9px] font-bold text-blue-400/80 bg-blue-50/60 px-1.5 py-[1px] rounded border border-blue-100/50 font-mono tracking-wider">
+              v{version}
+            </span>
+          </div>
+          
         </div>
-        <p className="text-[10px] text-slate-500 mt-0.5 tracking-wide">校园讲座动态时空速览</p>
+
+        {/* 右侧：GitHub 图标 (利用外层 flex items-center 自动跨两行垂直居中) */}
+        <div className="flex items-center pl-1 border-l border-slate-100/80">
+          <a
+            href="https://github.com/Yi-Jun-Wu/UCAS-Lectures"
+            target="_blank"
+            rel="noopener noreferrer"
+            // 默认颜色调浅，hover 时加深，提供良好的交互反馈
+            className="text-slate-300 hover:text-slate-600 transition-colors"
+            title="View source on GitHub"
+          >
+            {/* 图标稍微放大一点(18px)，以压住左侧两行文字的阵脚 */}
+            <svg className="w-[40px] h-[40px]" fill="currentColor" viewBox="0 0 24 24">
+              <path fillRule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clipRule="evenodd" />
+            </svg>
+          </a>
+        </div>
+
       </div>
 
       {/* ================= 2. 中间：全局同步状态 ================= */}

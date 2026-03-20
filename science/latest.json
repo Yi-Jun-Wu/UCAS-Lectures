@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T01:13:46.620Z",
-  "total": 23,
+  "generatedAt": "2026-03-20T03:13:52.522Z",
+  "total": 25,
   "lectures": [
     {
       "id": "BELNFMCE",
@@ -253,6 +253,42 @@
       "parallelVenue": "",
       "introduction": "主讲人简介\nAndré Thess is a Professor of Energy Storage at the University of Stuttgart and Director at the German Aerospace Center (DLR). His research focuses on high-temperature and thermochemical storage, Carnot batteries, and electric flight. He authored The Entropy Principle and teaches \"Thermodynamics of Energy Storage Systems\" and \"Culinary Thermodynamics\"—the first German course to scientifically prove homemade food's superiority.\nHe has served on the IUTAM bureau, the GAMM board, and the DFG scientific board (2008–2016), and chaired a research training group at Ilmenau University (2010–2013).\nA active science communicator, he contributes to German media and YouTube. His energy-policy books, Sieben Energiewendem?rchen? (2000) and Der Energiegipfel (2025), both reached #1 on Amazon's bestseller list.\n报告摘要\nThis presentation provides an overview of thermal energy storage (TES) in two parts.\nPart I introduces the principles of TES, emphasizing its role in enabling dispatchable renewables. It addresses the challenge of cost-effective energy storage and compares TES with batteries, pumped hydro, and compressed air. Key concepts like Carnot batteries and concentrated solar power are highlighted, showing how TES stores energy using inexpensive materials such as water, CO?, and solids.\nPart II focuses on building applications, particularly decentralized heat supply. Using a zero-energy sauna demonstrator, it illustrates how TES enables CO?-free, off-grid systems through solar energy and heat exchangers. The example highlights TES advantages over batteries, including sustainability, safety, and longevity. An ecological assessment confirms TES has low environmental impact and high resource efficiency.\nIn summary, TES is presented as a versatile, scalable, and eco-friendly technology suited for both large-scale systems and building-level applications.",
       "lastUpdatedAt": "2026-03-19T05:44:08.004Z"
+    },
+    {
+      "id": "DIJGBFEG",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——生物制造分论坛",
+      "title": "基于生物制造的未来药物：智能药物、纳米机器人和新一代疫苗",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "聂广军",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8467/view",
+      "startTimestamp": 1774423500000,
+      "endTimestamp": 1774429200000,
+      "rawTimeStr": "2026-03-25 15:25-17:00",
+      "mainVenue": "雁栖湖 - 教一楼413",
+      "parallelVenue": "",
+      "introduction": "药物递送载体开启了有别于分子药物的载体药物的时代，是核酸药物和多肽药物为代表新药创制的底层技术，是未来新药研发的共性和颠覆性技术。以LNP和GalNc为代表的非病毒载体在应对重大慢病和突发新发疾病中，率先突破成药性瓶颈，展现出巨大的科学价值和应用潜力，是国际学界高度关注的前沿交叉方向。\n目前药物载体领域面临几大挑战，包括针对不同病灶和疾病的靶向递送、疾病微环境识别和响应性递送，以及以满足不同临床应用的多种给药方式。结合化学和生物学两条新物质创制的优势，载体化学生物学是解决诸多共性挑战的解题关键，从物质创制的源头为解决药学、临床医学和生命科学，提供底层物质和技术基础。\n本报告将以国内外最新进展为依据，集中讨论载体设计和创制的设计原则、策略和技术方案，特别以纳米机器人在免疫调控、血管和基质调控等方面，如何赋予其智能化特征，以应对药物体内生物屏障通过、疾病病灶识别和微环境稳态平衡等方面提供发展动力和解决方案。",
+      "lastUpdatedAt": "2026-03-20T03:13:47.440Z"
+    },
+    {
+      "id": "EPHFNMBJ",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "灵长类跨尺度脑连接图谱与类脑智能探索",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "刘赐融",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8468/view",
+      "startTimestamp": 1774491900000,
+      "endTimestamp": 1774497600000,
+      "rawTimeStr": "2026-03-26 10:25-12:00",
+      "mainVenue": "雁栖湖 - 教二楼207",
+      "parallelVenue": "",
+      "introduction": "人工神经网络能否作为数字孪生脑的载体，生物脑规律能否实质启发类脑设计，取决于二者底层原理的异同。然而，当前缺乏全脑尺度的系统比较，难以明确生物脑计算优势及二者信息加工的契合度。为此，本报告分两部分探讨如何跨越这一鸿沟。第一部分聚焦灵长类跨尺度脑连接图谱构建和规律解析。通过整合超高清磁共振、空间转录组与介观光学成像，实现从宏观脑区到单神经元尺度的跨越，绘制精细的结构与功能连接蓝图，筑牢数据基座，解析脑连接的规律。第二部分探讨脑图谱启发的类脑研究。引入比较神经科学视角，系统解析生物脑网络与人工神经网络的本质异同，识别通用智能原理并转化为可计算的网络设计策略，启发数字孪生脑与下一代类脑网络设计。",
+      "lastUpdatedAt": "2026-03-20T03:13:47.440Z"
     },
     {
       "id": "FKEOPJFF",

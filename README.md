@@ -4,6 +4,8 @@
 
 🌐 **在线访问**: [https://yi-jun-wu.github.io/UCAS-Lectures/](https://yi-jun-wu.github.io/UCAS-Lectures/)
 
+> 📡 **订阅数据更新**: 请访问自动化扫描脚本的评论区 [Github Discussions](https://github.com/Yi-Jun-Wu/Scheduled-Tasks-Public/discussions/1) 接受讲座更新微信提醒.
+
 
 ## 📖 项目简介
 

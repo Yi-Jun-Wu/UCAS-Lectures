@@ -62,7 +62,7 @@ export const TimeIndicator: React.FC<TimeIndicatorProps> = ({ days }) => {
             <div key={index} className="flex-1 relative flex items-center h-[1.5px]">
               {/* 这里只有实线 */}
               <div 
-                className="absolute w-full h-px bg-red-500 top-[0.5px]"
+                className="absolute w-full h-[1.5px] bg-red-500 top-[0.5px]"
                 style={{ opacity: opacityValue }}
               ></div>
             </div>
@@ -85,19 +85,19 @@ export const TimeIndicator: React.FC<TimeIndicatorProps> = ({ days }) => {
           if (diffDays === 0) return (
               <div key={index} className="flex-1 relative flex items-center">
                 {/* 今天: 完整的红线与红点。因为今天是 z-20，如果这条线也被遮了，你需要把这部分移到顶层 */}
-                <div className="w-full h-[2px] bg-red-500 shadow-[0_0_6px_rgba(239,68,68,0.6)]"></div>
+                <div className="w-full h-[2.5px] bg-red-500 shadow-[0_0_6px_rgba(239,68,68,0.6)]"></div>
                 {!position.outOfBounds && (
                   <div className="w-2.5 h-2.5 rounded-full bg-red-500 absolute -left-[5px] shadow-[0_0_6px_rgba(239,68,68,0.8)]"></div>
                 )}
               </div>
             );
 
-          const opacityValue = Math.max(0.1, 1 - Math.abs(diffDays) * 0.15);
+          const opacityValue = Math.max(0.1, 1 - Math.abs(diffDays) * 0.15)  * 0.6;
           return (
             <div key={index} className="flex-1 relative flex items-center h-[2px]">
               {/* 这里只有点线 */}
               <div 
-                className="absolute w-full h-px border-1 border-t border-dotted border-red-500 top-[0.5px]"
+                className="absolute w-full h-px border-t-[1.5px] border-dotted border-red-500 top-[0.5px]"
                 style={{ opacity: opacityValue }}
               ></div>
             </div>

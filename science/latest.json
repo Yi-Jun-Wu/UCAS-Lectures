@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T02:14:24.499Z",
-  "total": 29,
+  "generatedAt": "2026-03-23T04:13:46.691Z",
+  "total": 30,
   "lectures": [
     {
       "id": "FFHBIHKL",
@@ -325,6 +325,24 @@
       "parallelVenue": "",
       "introduction": "11",
       "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+    },
+    {
+      "id": "GDFNKDMK",
+      "seriesName": "工程科学学院科学前沿讲座",
+      "title": "Flows and forces induced by the translation of a particle in a rotating or linearly stratified flow",
+      "creditHours": "2",
+      "department": "工程科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8475/view",
+      "startTimestamp": 1774684800000,
+      "endTimestamp": 1774690200000,
+      "rawTimeStr": "2026-03-28 16:00-17:30",
+      "mainVenue": "雁栖湖 - 教三楼207",
+      "parallelVenue": "",
+      "introduction": "报告人简介：\nJacques Magnaudet is a Senior Researcher at CNRS, working at IMFT in Toulouse, France. His research focuses on several aspects of hydrodynamics and turbulence in two-phase flows and inhomogeneous fluids. He has long been fascinated by the complex motion of rigid and deformable objects in fluids, be they particles, drops, bubbles or living organisms. Using or developing asymptotic models, numerical codes and simple experiments, he has contributed at a better understanding of the hydrodynamic loads acting on these bodies when they move in non-uniform or time-dependent flows, and at elucidating the entangled mechanisms leading to their path instability when their motion is gravity- or buoyancy-driven. He is an associate editor of the Journal of Fluid Mechanics and currently serves as President of IUTAM (International Union of Theoretical and Applied Mechanics).",
+      "lastUpdatedAt": "2026-03-23T04:13:44.426Z"
     },
     {
       "id": "NEPHGLKP",

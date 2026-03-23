@@ -646,5 +646,41 @@
     "parallelVenue": "",
     "introduction": "详见海报",
     "lastUpdatedAt": "2026-03-20T01:13:44.345Z"
+  },
+  {
+    "id": "CKKPADKO",
+    "seriesName": "新型半导体器件及前沿应用",
+    "title": "FROM ALICE TO ALITA：AI时代的科研与生存",
+    "creditHours": "14",
+    "department": "集成电路学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8474/view",
+    "startTimestamp": 1775629800000,
+    "endTimestamp": 1775635200000,
+    "rawTimeStr": "2026-04-08 14:30-16:00",
+    "mainVenue": "玉泉路 - 教学楼阶一2",
+    "parallelVenue": "",
+    "introduction": "以人工智能为代表的新兴科技已经来到我们身边，社会即将发生巨变，作为科研工作者，我们应该如何适应和引领这场社会技术底座的变革？在本讲座中，张海霞教授将首先介绍自己在科研中如何通过软件和硬件的融合来助推AI的发展，然后介绍自己在工作中如何积极调整全力拥抱AI，最后探讨AI将给社会发展带来的机遇和挑战，助力大家成为即将到来的人工智能时代的弄潮儿，一起开拓创新、创造未来。",
+    "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+  },
+  {
+    "id": "JMKIGGEH",
+    "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+    "title": "AI驱动的集成电路封装基板材料研究",
+    "creditHours": "2",
+    "department": "前沿交叉科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "刘志甫",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8470/view",
+    "startTimestamp": 1775146200000,
+    "endTimestamp": 1775146320000,
+    "rawTimeStr": "2026-04-03 00:10-00:12",
+    "mainVenue": "雁栖湖 - 教二楼125",
+    "parallelVenue": "",
+    "introduction": "高性能计算（HPC）和人工智能（AI）的快速发展对集成电路封装技术和封装材料带来了新的挑战。最新一代的AI GPU系统热流密度已达近1000W/cm2，这对封装材料与芯片的热匹配、系统散热、多场耦合下的系统可靠性提出了更高的要求。玻璃陶瓷基板材料有优良的电性能、可调的热膨胀匹配性、高的刚度、良好的散热性能，被认为是高性能集成电路封装的新一代基板材料。本报告将介绍HPC和AI系统对高性能封装材料的需求、发展趋势，并汇报本团队在AI驱动的新一代玻璃陶瓷基板电-热-力性能多目标协同优化、设计与制备等进展。",
+    "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
   }
 ]

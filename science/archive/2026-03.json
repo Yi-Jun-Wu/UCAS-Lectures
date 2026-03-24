@@ -556,5 +556,23 @@
     "parallelVenue": "",
     "introduction": "报告人简介：\nJacques Magnaudet is a Senior Researcher at CNRS, working at IMFT in Toulouse, France. His research focuses on several aspects of hydrodynamics and turbulence in two-phase flows and inhomogeneous fluids. He has long been fascinated by the complex motion of rigid and deformable objects in fluids, be they particles, drops, bubbles or living organisms. Using or developing asymptotic models, numerical codes and simple experiments, he has contributed at a better understanding of the hydrodynamic loads acting on these bodies when they move in non-uniform or time-dependent flows, and at elucidating the entangled mechanisms leading to their path instability when their motion is gravity- or buoyancy-driven. He is an associate editor of the Journal of Fluid Mechanics and currently serves as President of IUTAM (International Union of Theoretical and Applied Mechanics).",
     "lastUpdatedAt": "2026-03-23T04:13:44.426Z"
+  },
+  {
+    "id": "JJDKCNGL",
+    "seriesName": "工程科学学院科学前沿讲座",
+    "title": "文献检索与追踪实战技巧",
+    "creditHours": "2",
+    "department": "工程科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8476/view",
+    "startTimestamp": 1774917000000,
+    "endTimestamp": 1774922700000,
+    "rawTimeStr": "2026-03-31 08:30-10:05",
+    "mainVenue": "雁栖湖 - 教一楼108",
+    "parallelVenue": "",
+    "introduction": "嘉宾简介：\n吕泽，工学博士，中国科学院大学工程科学学院讲师。他于2012年、2015年先后在华北电力大学获得工学学士和硕士学位，2019年在德国伊尔梅瑙工业大学获工学博士学位。学成归国后，他加入中国科学院大学从事博士后研究并留校任教。吕泽博士长期致力于磁流体力学的实验与理论研究，主持了国家重大科技任务及国家自然科学基金等多个科研项目。目前，其相关研究成果已在 Journal of Fluid Mechanics (JFM)、Experiments in Fluids (EiF)、Physics of Fluids (PoF)、Fusion Engineering and Design (FED) 等国际知名期刊发表科研论文20余篇。\n\n报告摘要：\n\n科研起步，文献先行。本讲座专为研究生的实际科研需求量身定制，旨在系统梳理文献检索与管理的逻辑与实操技巧。介绍文献检索的核心方法，演示借助软件工具建立检索与管理工作流，构建专属知识库，探讨如何从文献笔记自然过渡至论文写作，探讨人工智能时代文献获取与处理的全新范式。希望通过本次分享，助力各位在科研道路上事半功倍。欢迎踊跃报名交流！",
+    "lastUpdatedAt": "2026-03-24T02:13:56.683Z"
   }
 ]

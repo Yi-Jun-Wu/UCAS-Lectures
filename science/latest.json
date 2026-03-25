@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-24T09:13:39.935Z",
-  "total": 34,
+  "generatedAt": "2026-03-25T05:13:39.867Z",
+  "total": 36,
   "lectures": [
     {
       "id": "FFHBIHKL",
@@ -192,13 +192,13 @@
       "speaker": "魏平",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8469/view",
-      "startTimestamp": 1774368780000,
-      "endTimestamp": 1774368900000,
-      "rawTimeStr": "2026-03-25 00:13-00:15",
+      "startTimestamp": 1774416600000,
+      "endTimestamp": 1774422300000,
+      "rawTimeStr": "2026-03-25 13:30-15:05",
       "mainVenue": "雁栖湖 - 教一楼413",
       "parallelVenue": "",
       "introduction": "CAR-T细胞疗法虽在血液肿瘤治疗中取得突破，但仍面临持久性不足、T细胞耗竭及实体瘤疗效有限等挑战。当前CAR设计主要依赖源自天然4-1BB及CD28的信号模块。然而，包括各类白细胞介素细胞因子信号在内的诸多辅助性免疫受体信号，在调控T细胞增殖、分化与功能中发挥关键作用。其信号模块的整合有望为新一代CAR的设计提供丰富的设计空间。本研究通过构建包含细胞因子、共刺激及其他免疫信号受体信号模块，建立了高通量筛选策略，系统性研究了不同模块组合对CAR-T体外功能指标与体内长期生存之间的定量关系，发现了模块排列位置对其功能发挥具有显著影响。本研究为人工设计优化CAR-T细胞功能提供了新策略，也为包括TCR-T等在内的设计提供了理论和依据。",
-      "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+      "lastUpdatedAt": "2026-03-25T05:13:39.865Z"
     },
     {
       "id": "DIJGBFEG",
@@ -516,13 +516,13 @@
       "speaker": "刘志甫",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8470/view",
-      "startTimestamp": 1775146200000,
-      "endTimestamp": 1775146320000,
-      "rawTimeStr": "2026-04-03 00:10-00:12",
+      "startTimestamp": 1775183100000,
+      "endTimestamp": 1775188800000,
+      "rawTimeStr": "2026-04-03 10:25-12:00",
       "mainVenue": "雁栖湖 - 教二楼125",
       "parallelVenue": "",
       "introduction": "高性能计算（HPC）和人工智能（AI）的快速发展对集成电路封装技术和封装材料带来了新的挑战。最新一代的AI GPU系统热流密度已达近1000W/cm2，这对封装材料与芯片的热匹配、系统散热、多场耦合下的系统可靠性提出了更高的要求。玻璃陶瓷基板材料有优良的电性能、可调的热膨胀匹配性、高的刚度、良好的散热性能，被认为是高性能集成电路封装的新一代基板材料。本报告将介绍HPC和AI系统对高性能封装材料的需求、发展趋势，并汇报本团队在AI驱动的新一代玻璃陶瓷基板电-热-力性能多目标协同优化、设计与制备等进展。",
-      "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+      "lastUpdatedAt": "2026-03-25T05:13:39.864Z"
     },
     {
       "id": "GMKJGMPG",
@@ -613,6 +613,42 @@
       "parallelVenue": "",
       "introduction": "太阳辐照资源的长期和短期预报，太阳能槽式电站的优化运行，太阳能塔式电站的聚光能流密度的动态优化，技术趋势；前沿的控制和调度技术。",
       "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
+    },
+    {
+      "id": "EFNNMGEO",
+      "seriesName": "清洁能源革命与碳中和实施路径",
+      "title": "新型电力系统形态及其发展趋势",
+      "creditHours": "3",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "肖立业",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8427/view",
+      "startTimestamp": 1775556000000,
+      "endTimestamp": 1775566800000,
+      "rawTimeStr": "2026-04-07 18:00-21:00",
+      "mainVenue": "雁栖湖 - 教一楼406",
+      "parallelVenue": "",
+      "introduction": "重点介绍在清洁低碳能源革命的背景下，新型电力系统的发展趋势—发电能源多样化、智能化、直流化或交直流共存、大电网与微电网共存，以及新型电力系统的构造及其关键技术。",
+      "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
+    },
+    {
+      "id": "MBPJGJJH",
+      "seriesName": "超导材料科学与技术",
+      "title": "超导材料应用基础-磁通钉扎和临界电流",
+      "creditHours": "2",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "马衍伟",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8436/view",
+      "startTimestamp": 1775557800000,
+      "endTimestamp": 1775565000000,
+      "rawTimeStr": "2026-04-07 18:30-20:30",
+      "mainVenue": "雁栖湖 - 教二楼207",
+      "parallelVenue": "",
+      "introduction": "根据实际应用对超导材料的要求，分析超导材料几个重要的应用参数，着重介绍超导材料的磁通钉扎机制及临界电流特性。",
+      "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
     }
   ]
 }

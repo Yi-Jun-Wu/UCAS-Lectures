@@ -675,13 +675,13 @@
     "speaker": "刘志甫",
     "isAppointmentRequired": false,
     "sourceUrl": "/subject/8470/view",
-    "startTimestamp": 1775146200000,
-    "endTimestamp": 1775146320000,
-    "rawTimeStr": "2026-04-03 00:10-00:12",
+    "startTimestamp": 1775183100000,
+    "endTimestamp": 1775188800000,
+    "rawTimeStr": "2026-04-03 10:25-12:00",
     "mainVenue": "雁栖湖 - 教二楼125",
     "parallelVenue": "",
     "introduction": "高性能计算（HPC）和人工智能（AI）的快速发展对集成电路封装技术和封装材料带来了新的挑战。最新一代的AI GPU系统热流密度已达近1000W/cm2，这对封装材料与芯片的热匹配、系统散热、多场耦合下的系统可靠性提出了更高的要求。玻璃陶瓷基板材料有优良的电性能、可调的热膨胀匹配性、高的刚度、良好的散热性能，被认为是高性能集成电路封装的新一代基板材料。本报告将介绍HPC和AI系统对高性能封装材料的需求、发展趋势，并汇报本团队在AI驱动的新一代玻璃陶瓷基板电-热-力性能多目标协同优化、设计与制备等进展。",
-    "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+    "lastUpdatedAt": "2026-03-25T05:13:39.864Z"
   },
   {
     "id": "KOGBALMH",

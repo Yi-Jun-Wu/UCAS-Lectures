@@ -8,7 +8,7 @@ import { useLocalStorage } from './hooks/useLocalStorage';
 import { extractLocations } from './utils/lectureHelpers';
 import type { AppLecture, LectureCategory, CampusLocation, AppFilters, MergedLecture } from './types';
 import { STORAGE_KEYS } from './constants/config';
-import { getGridDays, groupLecturesByDay, isSameDay } from './utils/dateHelpers';
+import { getGridDays, isSameDay } from './utils/dateHelpers';
 
 export default function App() {
   // 1. 挂载强化后的状态机数据引擎

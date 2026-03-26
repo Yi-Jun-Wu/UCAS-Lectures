@@ -4,10 +4,11 @@ import { Sidebar } from './components/layout/Sidebar';
 import { CalendarGrid } from './components/calendar/CalendarGrid';
 import { useLecturesData } from './hooks/useLecturesData';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { getWeekWindow } from './utils/dateHelpers';
+// import { getWeekWindow } from './utils/dateHelpers';
 import { extractLocations } from './utils/lectureHelpers';
-import type { AppLecture, LectureCategory, CampusLocation, AppFilters } from './types';
+import type { AppLecture, LectureCategory, CampusLocation, AppFilters, MergedLecture } from './types';
 import { STORAGE_KEYS } from './constants/config';
+import { getGridDays, groupLecturesByDay, isSameDay } from './utils/dateHelpers';
 
 export default function App() {
   // 1. 挂载强化后的状态机数据引擎
@@ -16,6 +17,9 @@ export default function App() {
   // 2. 本地持久化状态 (星标 & 缩放比例)
   const [starredIds, setStarredIds] = useLocalStorage<string[]>(STORAGE_KEYS.STARRED_LECTURES, []);
   const [uiScale, setUiScale] = useLocalStorage<number>(STORAGE_KEYS.UI_SCALE, 1);
+  const [calendarMode, setCalendarMode] = useLocalStorage<'rolling'|'complete'>(STORAGE_KEYS.CALENDAR_MODE, 'rolling');
+
+  const [offset, setOffset] = useState(0);
 
   // 3. UI 交互状态
   const [selectedLectureIds, setSelectedLectureIds] = useState<string[]>([]);
@@ -33,15 +37,18 @@ export default function App() {
   const visibleLectures = useMemo(() => {
     if (!data) return [];
 
-    const now = new Date();
-    const { start: windowStart, end: windowEnd } = getWeekWindow(now);
+    // const now = new Date();
+    const dates = getGridDays(calendarMode, offset);
+    // const { start: windowStart, end: windowEnd } = groupLecturesByDay(now);
     const combined: AppLecture[] = [];
 
     // 辅助函数：处理单个维度的数组流
-    const processCategory = (rawLectures: any[], categoryType: LectureCategory) => {
+    const processCategory = (rawLectures: MergedLecture[], categoryType: LectureCategory) => {
       rawLectures.forEach(lecture => {
         // A. 时间窗口过滤
-        if (lecture.startTimestamp >= windowStart && lecture.startTimestamp <= windowEnd) {
+        const date = new Date(lecture.startTimestamp);
+        if(dates.some(d=>isSameDay(date, d))){
+        // if (lecture.startTimestamp >= windowStart && lecture.startTimestamp <= windowEnd) {
 
           // B. 提取计算地点标签
           const lectureLocations = extractLocations(lecture);
@@ -150,6 +157,8 @@ export default function App() {
           ) : (
             <CalendarGrid
               lectures={visibleLectures}
+              mode={calendarMode}
+              offset={offset}
               onLectureClick={setSelectedLectureIds}
             />
           )}

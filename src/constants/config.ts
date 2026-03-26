@@ -7,6 +7,7 @@ export const API_ENDPOINTS = {
 
 export const STORAGE_KEYS = {
   STARRED_LECTURES: 'ucas_starred_lectures_v_one',
+  CALENDAR_MODE: 'ucas_calendar_mode_v_one',
   CACHED_LECTURES_DATA: 'ucas_lectures_raw_cache_data', // 存储完整数据的键
   LECTURE_FILTERS: 'ucas_lectures_filters',
   UI_SCALE: 'ucas_lectures_ui_scale',

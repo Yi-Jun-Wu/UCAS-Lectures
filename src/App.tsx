@@ -17,7 +17,7 @@ export default function App() {
   // 2. 本地持久化状态 (星标 & 缩放比例)
   const [starredIds, setStarredIds] = useLocalStorage<string[]>(STORAGE_KEYS.STARRED_LECTURES, []);
   const [uiScale, setUiScale] = useLocalStorage<number>(STORAGE_KEYS.UI_SCALE, 1);
-  const [calendarMode, setCalendarMode] = useLocalStorage<'rolling'|'complete'>(STORAGE_KEYS.CALENDAR_MODE, 'rolling');
+  const [calendarMode, setCalendarMode] = useLocalStorage<'rolling' | 'complete'>(STORAGE_KEYS.CALENDAR_MODE, 'rolling');
 
   const [offset, setOffset] = useState(0);
 
@@ -47,8 +47,8 @@ export default function App() {
       rawLectures.forEach(lecture => {
         // A. 时间窗口过滤
         const date = new Date(lecture.startTimestamp);
-        if(dates.some(d=>isSameDay(date, d))){
-        // if (lecture.startTimestamp >= windowStart && lecture.startTimestamp <= windowEnd) {
+        if (dates.some(d => isSameDay(date, d))) {
+          // if (lecture.startTimestamp >= windowStart && lecture.startTimestamp <= windowEnd) {
 
           // B. 提取计算地点标签
           const lectureLocations = extractLocations(lecture);
@@ -73,7 +73,7 @@ export default function App() {
     if (filters.humanity && data.humanity) processCategory(data.humanity, 'humanity');
 
     return combined;
-  }, [data, filters, starredIds]);
+  }, [data, filters, starredIds, calendarMode, offset]);
 
   // ==========================================
   // 交互处理器
@@ -159,6 +159,8 @@ export default function App() {
               lectures={visibleLectures}
               mode={calendarMode}
               offset={offset}
+              setMode={setCalendarMode}
+              setOffset={setOffset}
               onLectureClick={setSelectedLectureIds}
             />
           )}

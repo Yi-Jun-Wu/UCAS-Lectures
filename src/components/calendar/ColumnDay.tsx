@@ -6,6 +6,7 @@ import { LectureBlock } from './LectureBlock'; // 下方提供的简易子组件
 interface ColumnDayProps {
   date: Date;
   lectures: AppLecture[];
+  isRollingMode: boolean;
   isToday: boolean;
   onLectureClick: (ids: string[]) => void;
   onHoverEnter: (ids: string[], x: number, y: number) => void;
@@ -14,7 +15,7 @@ interface ColumnDayProps {
 }
 
 export const ColumnDay: React.FC<ColumnDayProps> = (
-  { date: _data, lectures, isToday, onLectureClick, onHoverEnter, onHoverMove, onHoverLeave }
+  { date: _data, lectures, isToday, isRollingMode, onLectureClick, onHoverEnter, onHoverMove, onHoverLeave }
 ) => {
   // 1. 通过排版引擎计算每个讲座的绝对坐标
   const uiLectures = useMemo(() => calculateDayLayout(lectures), [lectures]);
@@ -25,7 +26,7 @@ export const ColumnDay: React.FC<ColumnDayProps> = (
   return (
     <div 
       className={`flex-1 relative border-r border-slate-100 min-h-full ${
-        isToday ? 
+        (isToday && isRollingMode) ? 
           // 今天：提高层级(z-20)，加粗蓝边，并向左投射白色渐变阴影(-25px的偏移)
           'border-l-4 border-l-blue-500 bg-blue-50/10 z-20 shadow-[-25px_0_20px_-5px_rgba(255,255,255,0.85)] ring-1 ring-blue-500/10' 
           // 其他天：普通右边框，基础层级(z-10)

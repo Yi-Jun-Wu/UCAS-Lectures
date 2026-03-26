@@ -19,7 +19,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
   // ==========================================
   // 状态机跃迁控制矩阵
   // ==========================================
-  
+
   const handlePrev = () => {
     if (mode === 'rolling') {
       if (offset === 1) setOffset(0);
@@ -114,9 +114,9 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
     >
       {/* 1. 紧凑型导航控制区 (Sub-header) */}
       <div className="flex items-center justify-between px-4 py-2 border-b border-slate-200 bg-slate-50/80 select-none">
-        
+
         {/* 左侧向左按钮 */}
-        <button 
+        <button
           onClick={(e) => { e.stopPropagation(); handlePrev(); }}
           className="p-1.5 rounded-md hover:bg-slate-200 text-slate-500 hover:text-slate-800 transition-colors"
           title="向过去追溯"
@@ -127,7 +127,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
         </button>
 
         {/* 中央模式切换与文本标识 */}
-        <div 
+        <div
           className="flex items-center gap-3 px-3 py-1 rounded-full hover:bg-slate-200/50 cursor-pointer transition-colors"
           onClick={(e) => { e.stopPropagation(); handleToggleMode(); }}
           title="点击切换：循环模式 / 完整自然周"
@@ -135,7 +135,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
           <span className={`text-xs font-bold w-16 text-right transition-colors ${mode === 'complete' ? 'text-blue-600' : 'text-slate-400'}`}>
             {mode === 'complete' ? getNavText() : '完整周'}
           </span>
-          
+
           {/* iOS 风格微型 Switch 开关 */}
           <div className={`relative w-9 h-5 rounded-full transition-colors duration-300 ${mode === 'rolling' ? 'bg-indigo-500' : 'bg-slate-300'}`}>
             <div className={`absolute top-0.5 left-0.5 bg-white w-4 h-4 rounded-full shadow-sm transition-transform duration-300 ${mode === 'rolling' ? 'translate-x-4' : 'translate-x-0'}`}></div>
@@ -147,7 +147,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
         </div>
 
         {/* 右侧向右按钮 */}
-        <button 
+        <button
           onClick={(e) => { e.stopPropagation(); handleNext(); }}
           className="p-1.5 rounded-md hover:bg-slate-200 text-slate-500 hover:text-slate-800 transition-colors"
           title="向未来前瞻"
@@ -162,16 +162,20 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
       <div className="flex border-b border-slate-200 bg-slate-50 z-10">
         <div className="w-16 shrink-0 border-r border-slate-200">
           {/* 这里可以放一个小日历 Icon 点缀 */}
-          <div className="h-full w-full flex items-center justify-center opacity-30">
+          <div className="h-full w-full flex items-center justify-center opacity-20">
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
           </div>
         </div>
         {daysArray.map((date, index) => {
           const isToday = isSameDay(date, todayDate);
+          const isPastDays = date.getTime() < todayDate.getTime();
           return (
             <div
               key={index}
-              className={`flex-1 py-3 text-center font-medium text-sm ${isToday ? 'text-blue-600 bg-blue-50/50' : 'text-slate-600'}`}
+              className={`flex-1 py-3 text-center text-sm font-semibold ${isToday ?
+                 'text-blue-600 bg-blue-50/50 font-bold' :
+                  isPastDays ? 'text-slate-400 font-thin' : 'text-slate-600 '
+                }`}
             >
               {formatDayHeader(date)}
             </div>
@@ -225,7 +229,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
           <TimeIndicator days={daysArray} mode={mode} offset={offset} />
         </div>
       </div>
-      
+
       {/* 挂载悬浮窗 */}
       <HoverTooltip
         lectures={hoveredLectures}

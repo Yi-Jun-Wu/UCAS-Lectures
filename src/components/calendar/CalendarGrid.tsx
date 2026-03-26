@@ -180,7 +180,7 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
               key={index}
               className={`flex-1 py-3 text-center text-sm font-semibold ${isToday ?
                 'text-blue-600 bg-blue-50/50 font-bold' :
-                isPastDays ? 'text-slate-400 font-thin' : 'text-slate-600 '
+                isPastDays ? 'text-slate-400 font-light' : 'text-slate-600 '
                 } ${isHighlightLeft ? "border-l-4 border-l-blue-500 bg-blue-50/10 z-20 shadow-[-25px_0_20px_-5px_rgba(255,255,255,0.85)] ring-1 ring-blue-500/10" : ""}`}
             >
               {formatDayHeader(date)}

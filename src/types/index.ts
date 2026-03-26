@@ -8,6 +8,7 @@ export interface MergedLecture {
   targetAudience: string;
   speaker: string;
   isAppointmentRequired: boolean;
+  appointmentInfo?: string;
   sourceUrl: string;
   startTimestamp: number;
   endTimestamp: number;

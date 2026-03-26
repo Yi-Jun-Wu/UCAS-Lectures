@@ -27,14 +27,14 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
 
   return (
     <aside className="w-96 h-full bg-white shadow-[-10px_0_30px_-15px_rgba(0,0,0,0.1)] flex flex-col shrink-0 z-40 border-l border-slate-200">
-      
+
       {/* 侧边栏头部 (固定) */}
       <div className="p-4 flex justify-between items-center border-b border-slate-200 bg-slate-50 sticky top-0">
         <h2 className="text-lg font-bold text-slate-800">
           {lectures.length > 1 ? `⚠️ 该时段有 ${lectures.length} 场讲座` : '讲座详情'}
         </h2>
-        <button 
-          onClick={onClose} 
+        <button
+          onClick={onClose}
           className="w-8 h-8 flex items-center justify-center rounded-full bg-slate-200 text-slate-500 hover:bg-slate-300 hover:text-slate-800 transition-colors"
           title="关闭"
         >
@@ -48,14 +48,13 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
           const isExpanded = lectures.length === 1 || expandedId === lecture.id;
 
           return (
-            <div 
-              key={lecture.id} 
-              className={`bg-white rounded-xl border shrink-0 transition-all duration-200 overflow-hidden ${
-                isExpanded ? 'border-blue-200 shadow-md' : 'border-slate-200 shadow-sm hover:border-blue-300 hover:shadow cursor-pointer'
-              }`}
+            <div
+              key={lecture.id}
+              className={`bg-white rounded-xl border shrink-0 transition-all duration-200 overflow-hidden ${isExpanded ? 'border-blue-200 shadow-md' : 'border-slate-200 shadow-sm hover:border-blue-300 hover:shadow cursor-pointer'
+                }`}
             >
               {/* --- 卡片头部 (始终可见，点击切换展开状态) --- */}
-              <div 
+              <div
                 className={`p-4 ${isExpanded ? 'bg-blue-50/30 border-b border-slate-100' : ''}`}
                 onClick={() => setExpandedId(lecture.id)}
               >
@@ -64,12 +63,12 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
                     {lecture.title}
                   </h3>
                   {/* 星标按钮 (阻止冒泡，以免触发卡片的折叠/展开) */}
-                  <button 
+                  <button
                     onClick={(e) => { e.stopPropagation(); onToggleStar(lecture.id); }}
                     className="p-1 -mt-1 -mr-1 shrink-0 transition-transform active:scale-75"
                     title={lecture.isStarred ? "取消星标" : "标为重要"}
                   >
-                    <svg 
+                    <svg
                       // className={`w-7 h-7 ${lecture.isStarred ? 'text-orange-400 fill-orange-400' : 'text-slate-300 fill-transparent hover:text-orange-300'}`} 
                       className={`w-7 h-7 ${lecture.isStarred ? 'text-amber-400 fill-amber-400' : 'text-slate-300 fill-transparent hover:text-amber-300'}`}
                       viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5"
@@ -98,13 +97,18 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
               {/* --- 卡片详情区 (仅在展开时可见) --- */}
               {isExpanded && (
                 <div className="p-4 flex flex-col gap-4 text-sm">
-                  
+
                   {/* 核心信息网格排布 (两列，高度压缩) */}
                   <div className="grid grid-cols-2 gap-y-3 gap-x-4 bg-slate-50 p-3 rounded-lg border border-slate-100">
                     <div className="col-span-2">
                       <span className="text-slate-400 block text-xs mb-0.5">时间</span>
                       <span className="font-medium text-slate-700">{lecture.rawTimeStr}</span>
                     </div>
+                    {lecture.appointmentInfo && lecture.appointmentInfo.trim().length > 0 &&
+                      (<div className="col-span-2">
+                        <span className="text-orange-500 block text-xs mb-0.5">预约时间</span>
+                        <span className="font-medium text-slate-700">{lecture.appointmentInfo}</span>
+                      </div>)}
                     <div className="col-span-2">
                       <span className="text-slate-400 block text-xs mb-0.5">主会场</span>
                       <span className="font-medium text-slate-700">{lecture.mainVenue || '待定'}</span>
@@ -146,9 +150,9 @@ export const Sidebar: React.FC<SidebarProps> = ({ lectures, onClose, onToggleSta
 
                   {/* 底部操作区 */}
                   <div className="pt-3 border-t border-slate-100 mt-2">
-                    <a 
-                      href={`https://sep.ucas.ac.cn${lecture.sourceUrl}`} 
-                      target="_blank" 
+                    <a
+                      href={`https://sep.ucas.ac.cn${lecture.sourceUrl}`}
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center w-full py-2 bg-slate-800 text-white rounded-lg hover:bg-blue-600 transition-colors text-sm font-medium shadow-sm"
                     >

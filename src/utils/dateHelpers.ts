@@ -98,6 +98,10 @@ export function isSameDay(d1: Date, d2: Date): boolean {
          d1.getDate() === d2.getDate();
 }
 
+export function isSameWeekday(d1: Date, d2: Date): boolean {
+  return d1.getDay() === d2.getDay();
+}
+
 /**
  * 核心引擎：根据视图模式和时间偏移量，生成物理排布为周一至周日的 7 天数组
  * @param mode 'complete' (完整自然周) | 'rolling' (循环流)

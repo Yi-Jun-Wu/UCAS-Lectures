@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { type AppLecture, type TooltipState } from '../../types';
 import { CALENDAR_CONFIG } from '../../constants/config';
-import { formatDayHeader, getGridDays, groupLecturesByDay, isSameDay } from '../../utils/dateHelpers';
+import { formatDayHeader, getGridDays, groupLecturesByDay, isSameDay, isSameWeekday } from '../../utils/dateHelpers';
 import { ColumnDay } from './ColumnDay';
 import { TimeIndicator } from './TimeIndicator';
 import { HoverTooltip } from '../ui/HoverTooltip';
@@ -13,6 +13,17 @@ interface CalendarGridProps {
   setMode: (mode: 'complete' | 'rolling') => void;
   setOffset: (offset: number) => void;
   onLectureClick: (ids: string[]) => void;
+}
+
+function mapping_offset(offset: number, from: 'rolling' | 'complete', to: 'rolling' | 'complete'): number {
+  if (from === to)
+    return offset;
+  switch (from) {
+    case 'rolling':
+      return offset;
+    case 'complete':
+      return Math.min(Math.max(offset, -1), 1);
+  }
 }
 
 export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offset, setMode, setOffset, onLectureClick }) => {
@@ -46,31 +57,25 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
     }
   };
 
-  const handleToggleMode = () => {
-    if (mode === 'rolling') {
-      // Rolling -> Complete: 平移继承 offset
-      setMode('complete');
-    } else {
-      // Complete -> Rolling: 空间折叠与就近钳制 (Clamping)
-      setMode('rolling');
-      if (offset >= 1) setOffset(1);
-      else if (offset === 0) setOffset(0);
-      else if (offset <= -1) setOffset(-1);
-    }
+  const handleToggleMode = (_mode: 'rolling' | 'complete') => {
+    setMode(_mode);
+    setOffset(mapping_offset(offset, mode, _mode));
   };
 
+
   // 获取当前状态的提示文本
-  const getNavText = () => {
-    if (mode === 'rolling') {
-      if (offset === -1) return '过去 7 天';
-      if (offset === 0) return '近期 7 天';
-      if (offset === 1) return '未来 7 天';
+  const getNavText = (_mode = mode) => {
+    const _offset = mapping_offset(offset, mode, _mode);
+    if (_mode === 'rolling') {
+      if (_offset === -1) return '过去 7 天';
+      if (_offset === 0) return '近期 7 天';
+      if (_offset === 1) return '未来 7 天';
     } else {
-      if (offset === -1) return '上一周';
-      if (offset === 0) return '本周';
-      if (offset === 1) return '下一周';
-      if (offset < -1) return `${Math.abs(offset)} 周前`;
-      if (offset > 1) return `${offset} 周后`;
+      if (_offset === -1) return '上一周';
+      if (_offset === 0) return '本周';
+      if (_offset === 1) return '下一周';
+      if (_offset < -1) return `${Math.abs(offset)} 周前`;
+      if (_offset > 1) return `${offset} 周后`;
     }
     return '';
   };
@@ -129,11 +134,11 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
         {/* 中央模式切换与文本标识 */}
         <div
           className="flex items-center gap-3 px-3 py-1 rounded-full hover:bg-slate-200/50 cursor-pointer transition-colors"
-          onClick={(e) => { e.stopPropagation(); handleToggleMode(); }}
+          onClick={(e) => { e.stopPropagation(); handleToggleMode(mode === 'rolling' ? 'complete' : 'rolling'); }}
           title="点击切换：循环模式 / 完整自然周"
         >
-          <span className={`text-xs font-bold w-16 text-right transition-colors ${mode === 'complete' ? 'text-blue-600' : 'text-slate-400'}`}>
-            {mode === 'complete' ? getNavText() : '完整周'}
+          <span title='完整周' className={`text-xs font-bold w-16 text-right transition-colors ${mode === 'complete' ? 'text-blue-600' : 'text-slate-400'}`}>
+            {getNavText('complete')}
           </span>
 
           {/* iOS 风格微型 Switch 开关 */}
@@ -141,8 +146,8 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
             <div className={`absolute top-0.5 left-0.5 bg-white w-4 h-4 rounded-full shadow-sm transition-transform duration-300 ${mode === 'rolling' ? 'translate-x-4' : 'translate-x-0'}`}></div>
           </div>
 
-          <span className={`text-xs font-bold w-16 text-left transition-colors ${mode === 'rolling' ? 'text-indigo-600' : 'text-slate-400'}`}>
-            {mode === 'rolling' ? getNavText() : '循环模式'}
+          <span title='循环模式' className={`text-xs font-bold w-16 text-left transition-colors ${mode === 'rolling' ? 'text-indigo-600' : 'text-slate-400'}`}>
+            {getNavText('rolling')}
           </span>
         </div>
 
@@ -168,14 +173,15 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
         </div>
         {daysArray.map((date, index) => {
           const isToday = isSameDay(date, todayDate);
+          const isHighlightLeft = mode === 'rolling' && isSameWeekday(date, todayDate);
           const isPastDays = date.getTime() < todayDate.getTime();
           return (
             <div
               key={index}
               className={`flex-1 py-3 text-center text-sm font-semibold ${isToday ?
-                 'text-blue-600 bg-blue-50/50 font-bold' :
-                  isPastDays ? 'text-slate-400 font-thin' : 'text-slate-600 '
-                }`}
+                'text-blue-600 bg-blue-50/50 font-bold' :
+                isPastDays ? 'text-slate-400 font-thin' : 'text-slate-600 '
+                } ${isHighlightLeft ? "border-l-4 border-l-blue-500 bg-blue-50/10 z-20 shadow-[-25px_0_20px_-5px_rgba(255,255,255,0.85)] ring-1 ring-blue-500/10" : ""}`}
             >
               {formatDayHeader(date)}
             </div>
@@ -212,11 +218,10 @@ export const CalendarGrid: React.FC<CalendarGridProps> = ({ lectures, mode, offs
             <ColumnDay
               key={index}
               date={date}
-              isToday={isSameDay(date, todayDate)}
               // 关键修复：计算是否处于循环断层，只在 rolling 模式且这一天不连续时渲染蓝线
               // 简化的逻辑是让 ColumnDay 知道整个 App 的 mode 是什么，或者在里面判断。
               // 为了解耦，这里可以通过判定 mode === 'rolling' 来让 ColumnDay 去画阴影
-              isRollingMode={mode === 'rolling'}
+              isHighlightLeft={mode === 'rolling' && isSameWeekday(date, todayDate)}
               lectures={groupedLectures[index] || []}
               onLectureClick={onLectureClick}
               onHoverEnter={(ids, x, y) => setTooltipState({ ids, x, y })}

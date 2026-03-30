@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-30T03:13:47.024Z",
-  "total": 84,
+  "generatedAt": "2026-03-30T07:13:45.476Z",
+  "total": 85,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -793,6 +793,24 @@
       "parallelVenue": "",
       "introduction": "太阳辐照资源的长期和短期预报，太阳能槽式电站的优化运行，太阳能塔式电站的聚光能流密度的动态优化，技术趋势；前沿的控制和调度技术。",
       "lastUpdatedAt": "2026-03-19T05:44:08.003Z"
+    },
+    {
+      "id": "KBKPCKGG",
+      "seriesName": "前沿交叉与未来技术系列讲座",
+      "title": "高性能计算技术介绍",
+      "creditHours": "2",
+      "department": "未来技术学院",
+      "targetAudience": "全校学生",
+      "speaker": "谭光明",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8497/view",
+      "startTimestamp": 1775539800000,
+      "endTimestamp": 1775545200000,
+      "rawTimeStr": "2026-04-07 13:30-15:00",
+      "mainVenue": "雁栖湖 - 教一楼304",
+      "parallelVenue": "",
+      "introduction": "高性能计算技术介绍\n谭光明，研究员、博导、中国科学院大学岗位教授、中国科学院计算技术研究所高性能计算机研究中心主任，国家杰出青年基金获得者。参与了曙光系列高性能计算机包括曙光4000/5000/6000/7000/8000系统研制，发表了100余篇学术论文，包括CCF A类期刊/会议和Nature Biotechnology、Nature Cell Biology，曾任IEEE TPDS编委和多个国际会议的程序委员，担任中国计算机学会高性能计算专委秘书长。曾获得国家科技进步奖二等奖、北京市科技进步奖一等奖、卢嘉锡青年人才奖和全国向上向善好青年、中国科学院院先进工作者荣誉称号。",
+      "lastUpdatedAt": "2026-03-30T07:13:43.280Z"
     },
     {
       "id": "EFNNMGEO",

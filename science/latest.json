@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-30T07:13:45.476Z",
-  "total": 85,
+  "generatedAt": "2026-03-31T01:15:00.519Z",
+  "total": 86,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -973,6 +973,24 @@
       "parallelVenue": "",
       "introduction": "2001年发现的MgB2超导材料因为具有简单的结构、较高的临界转变温度而受到关注，被认为是适用于中温低场的超导材料。本文将介绍MgB2基本特性、影响性能的关键因素、实用化研究历程及最新进展。",
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
+    },
+    {
+      "id": "BKCBIPPH",
+      "seriesName": "科学前沿进展名家系列讲座Ⅲ",
+      "title": "多模态大模型：核心技术和创新逻辑",
+      "creditHours": "2",
+      "department": "本科部",
+      "targetAudience": "全校学生",
+      "speaker": "向世明",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/8491/view",
+      "startTimestamp": 1775799000000,
+      "endTimestamp": 1775804700000,
+      "rawTimeStr": "2026-04-10 13:30-15:05",
+      "mainVenue": "雁栖湖 - 教三楼107",
+      "parallelVenue": "",
+      "introduction": "多模态是实现通用人工智能的必经之路。当前，多模态大模型及其应用取得重要进展。本报告分析多模态大模型的发展历程，解析多模态大模型的主要核心技术和创新逻辑；随后，报告课题组几个相关工作；最后，给出未来发展趋势。\n主讲人：向世明，中国科学院自动化研究所多模态人工智能系统全国重点实验室研究员，中国科学院大学人工智能学院岗位教授，博士生导师，研究方向为模式识别、机器学习、计算机视觉。迄今已在高水平国际期刊或主流会议上发表论文200余篇，部分工作发表在IEEE T-PAMI、IJCV、IEEE T-IP、IEEE T-NNLS、IEEE T-KDE、IEEE T-SMC-B、IEEE T-MM、IEEE T-CSVT、IEEE T-GRS、IEEE T-AES、ISPRS-JPRS等国际杂志和NeurIPS、ICLR、SIGKDD、ICML、ICCV、CVPR、IJCAI、AAAI、ACM MM、ECCV、EMNLP等国际主流会议上。其中，IEEE Trans论文40余篇（含IEEE T-PAMI 10篇），IJCV论文2篇。论文Google Scholar 总引次数达到20000+次，h指数67，i10指数184。出版图书三部。获得发明专利20项。主持完成一项国家自然科学基金重大研究计划重点支持项目和一项科技部国家重点研发计划“新一代人工智能（2030）”专项项目中的课题。",
+      "lastUpdatedAt": "2026-03-31T01:14:58.260Z"
     },
     {
       "id": "OGFALCJC",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T01:13:45.669Z",
+  "generatedAt": "2026-04-01T02:13:44.248Z",
   "total": 93,
   "lectures": [
     {
@@ -1173,6 +1173,24 @@
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
     },
     {
+      "id": "KOGBALMH",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "集成电路硅锗Finfet 及GAA晶体管研究",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "伍绍腾",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8477/view",
+      "startTimestamp": 1776168900000,
+      "endTimestamp": 1776174600000,
+      "rawTimeStr": "2026-04-14 20:15-21:50",
+      "mainVenue": "雁栖湖 - 教二楼127",
+      "parallelVenue": "",
+      "introduction": "本报告主要介绍先进制程Finfet及GAA晶体管研究背景及国家重大需求，进一步将介绍半导体所-半导体芯片物理与技术全国重点实验室在该方向工艺及器件制作的最新研究进展！报告将重点介绍相关工艺及配套加工设备。",
+      "lastUpdatedAt": "2026-04-01T02:13:44.245Z"
+    },
+    {
       "id": "BFNGHNHD",
       "seriesName": "冰冻圈遥感监测进展与展望、微波光子雷达/光量子雷达技术",
       "title": "冰冻圈遥感监测原理",
@@ -1351,24 +1369,6 @@
       "parallelVenue": "",
       "introduction": "通过介绍对客观世界的多维感知，引入广义成像与合成孔径关系原理。进一步结合微波频段特性，阐述其感知世界的优势和特性。宇宙空间浩瀚深邃，合成孔径雷达全天时全天候工作的特点特别有利于对空间物质探测，本讲结合我国月球探测方面的进展讲述合成孔径雷达在推动深空探测方面的作用和前景。\n本章重在从宏观层面讲解，使同学们可以从传统成像角度理解微波成像，并进一步理解合成孔径雷达概念。",
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
-    },
-    {
-      "id": "KOGBALMH",
-      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
-      "title": "集成电路硅锗Finfet 及GAA晶体管研究",
-      "creditHours": "2",
-      "department": "前沿交叉科学学院",
-      "targetAudience": "全校学生",
-      "speaker": "伍绍腾",
-      "isAppointmentRequired": false,
-      "sourceUrl": "/subject/8477/view",
-      "startTimestamp": 1776317400000,
-      "endTimestamp": 1776323100000,
-      "rawTimeStr": "2026-04-16 13:30-15:05",
-      "mainVenue": "雁栖湖 - 教二楼127",
-      "parallelVenue": "",
-      "introduction": "本报告主要介绍先进制程Finfet及GAA晶体管研究背景及国家重大需求，进一步将介绍半导体所-半导体芯片物理与技术全国重点实验室在该方向工艺及器件制作的最新研究进展！报告将重点介绍相关工艺及配套加工设备。",
-      "lastUpdatedAt": "2026-03-24T09:13:39.932Z"
     },
     {
       "id": "CIOJFMFC",

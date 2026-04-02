@@ -574,5 +574,23 @@
     "parallelVenue": "",
     "introduction": "XXX",
     "lastUpdatedAt": "2026-03-19T04:57:04.065Z"
+  },
+  {
+    "id": "BNCGJENI",
+    "seriesName": "学术论文写作与发表",
+    "title": "科技写作",
+    "creditHours": "3",
+    "department": "人居科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "康健",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8514/view",
+    "startTimestamp": 1768215600000,
+    "endTimestamp": 1768224600000,
+    "rawTimeStr": "2026-01-12 19:00-21:30",
+    "mainVenue": "中关村 - 教学楼N308",
+    "parallelVenue": "",
+    "introduction": "科技写作",
+    "lastUpdatedAt": "2026-04-02T02:13:46.443Z"
   }
 ]

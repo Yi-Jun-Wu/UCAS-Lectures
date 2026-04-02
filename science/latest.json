@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T07:13:55.033Z",
+  "generatedAt": "2026-04-02T08:13:48.156Z",
   "total": 123,
   "lectures": [
     {
@@ -1377,7 +1377,7 @@
       "creditHours": "2",
       "department": "本科部",
       "targetAudience": "全校学生",
-      "speaker": "",
+      "speaker": "黄洁",
       "isAppointmentRequired": true,
       "sourceUrl": "/subject/8393/view",
       "startTimestamp": 1775799000000,
@@ -1386,7 +1386,7 @@
       "mainVenue": "雁栖湖 - 教三楼103",
       "parallelVenue": "",
       "introduction": "综合利用时空大数据能够更精准地解析出行行为特征，进而理解出行行为与地理空间之间的复杂关系，揭示其交互作用机制，对智慧城市建设与交通可持续发展具有重要意义。报告从“以人为本”视角出发，介绍近期时空大数据驱动下的出行行为与地理空间交互机制研究，并以通勤、老年等群体为例，探讨不同社会群体的出行时空规律与适应机制。\n主讲人：黄洁，中国科学院地理科学与资源研究所研究员，博士生导师，经济地理与区域发展研究室主任，中国科学院大学岗位教授。博士毕业于英国利兹大学，长期致力于时空大数据与城市交通研究，国家优秀青年基金获得者。在PNAS、Transportation Research Part A、Cities等国际期刊上发表SCI/SSCI论文70余篇，获北京市自然科学奖二等奖(排名第6)、中国交通运输学会科技进步奖二等奖(排名第3)。兼任中国地理学会行为地理专委会副主任委员、城市地理专委会委员，Asian Geographer、Journal of Transport Geography、地理科学等多个期刊副主编和编委。",
-      "lastUpdatedAt": "2026-04-02T07:13:50.416Z"
+      "lastUpdatedAt": "2026-04-02T08:13:48.152Z"
     },
     {
       "id": "BDFFHKAJ",

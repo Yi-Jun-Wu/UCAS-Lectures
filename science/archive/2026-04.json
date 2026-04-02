@@ -1222,5 +1222,23 @@
     "parallelVenue": "雁栖湖 - 教一楼213",
     "introduction": "讲座摘要：\n脑机接口技术在人脑和外部世界之间建立直接的沟通桥梁，是研究脑、认识脑的有力工具，也是神经系统疾病诊疗的有效手段，同时脑机接口的研究有利于推动人工智能的发展，通过脑机融合形成新的智能形式。脑机接口技术本身涉及材料、信息、生物医学工程，神经科学等众多的科学与工程分支，是典型的高度交叉的研究方向。本次讲座将结合脑机接口的发展趋势与最新进展，介绍这一领域的基本科学问题、核心技术和未来应用，并探讨领域目前面临的机遇与挑战。\n嘉宾介绍：\n余山，中国科学院自动化研究所研究员，博士生导师，脑图谱与类脑智能实验室主任。于2000年、2005年在中国科学技术大学分别获生物学学士与博士学位。2005年至2014年在德国马克斯普朗克脑研究所、美国国立精神卫生研究所进行博士后研究。2014年9月加入中科院自动化研究所，结合实验神经科学与计算建模方法，致力于理解大脑皮层信息处理的网络机制，研究脑启发的人工智能算法，并探索新型脑机接口及其应用。目前在Nature Machine Intelligence, Journal of Neuroscience, Cerebral Cortex, Neural Networks, eLife, IEEE TIP\\MM\\TCSV, AAAI, CVPR等刊物和会议发表文章60余篇。现任北京市脑网络组与类脑智能学会副理事长，中国认知科学学会监事，中国神经科学学会、自动化学会、图形图像学会专业委员，BMC Neuroscience、Neuroelectronics 编委。",
     "lastUpdatedAt": "2026-04-01T09:13:46.164Z"
+  },
+  {
+    "id": "DLEABFJF",
+    "seriesName": "纳米科学与工程",
+    "title": "Biomimetic Lipid-Based Lubrication for Therapeutic Solution in Osteoarthritis （用于骨关节炎治疗方案的仿生脂质润滑研究）",
+    "creditHours": "2",
+    "department": "纳米科学与技术学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8515/view",
+    "startTimestamp": 1775636400000,
+    "endTimestamp": 1775641800000,
+    "rawTimeStr": "2026-04-08 16:20-17:50",
+    "mainVenue": "雁栖湖 - 教二楼107",
+    "parallelVenue": "",
+    "introduction": "利用表面力仪在埃米级精度和纳牛级力分辨率下进行的测量表明，以单组分脂质双层膜形式存在的磷脂具有极为优异的生物润滑性能。研究滑膜液中最常见脂质在混合脂质膜中的作用，并将其存在与整体层面观察到的协同行为——尤其是在水合润滑和半融合等动态膜过程中——联系起来，将能够更好地解读演化塑造的设计原则，并指导开发人工的、生物相容性的脂质膜，实现更优的润滑治疗方案，还可应用于改善基于脂质的纳米载体囊泡的药物递送效果。",
+    "lastUpdatedAt": "2026-04-02T01:13:44.104Z"
   }
 ]

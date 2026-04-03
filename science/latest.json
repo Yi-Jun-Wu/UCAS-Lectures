@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-03T02:13:42.476Z",
-  "total": 128,
+  "generatedAt": "2026-04-03T03:13:46.428Z",
+  "total": 129,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -1081,6 +1081,24 @@
       "parallelVenue": "",
       "introduction": "以人工智能为代表的新兴科技已经来到我们身边，社会即将发生巨变，作为科研工作者，我们应该如何适应和引领这场社会技术底座的变革？在本讲座中，张海霞教授将首先介绍自己在科研中如何通过软件和硬件的融合来助推AI的发展，然后介绍自己在工作中如何积极调整全力拥抱AI，最后探讨AI将给社会发展带来的机遇和挑战，助力大家成为即将到来的人工智能时代的弄潮儿，一起开拓创新、创造未来。",
       "lastUpdatedAt": "2026-03-23T02:14:09.452Z"
+    },
+    {
+      "id": "MIMHNHIF",
+      "seriesName": "国产算力技术与应用前沿",
+      "title": "处理器芯片发展新趋势: RISC-V与开源芯片",
+      "creditHours": "2",
+      "department": "计算机科学与技术学院",
+      "targetAudience": "全校学生",
+      "speaker": "包云岗",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8533/view",
+      "startTimestamp": 1775635200000,
+      "endTimestamp": 1775640600000,
+      "rawTimeStr": "2026-04-08 16:00-17:30",
+      "mainVenue": "玉泉路 - 人文楼报告厅",
+      "parallelVenue": "雁栖湖 - 教三楼219",
+      "introduction": "新一轮处理器芯片技术与产业变革浪潮正到来，芯片设计正走向开源开放，开源指令集RISC-V因而被入选《麻省理工科技评论》2023年度十大突破性技术。如今，世界各国正在围绕RISC-V构建通用处理器新生态与AI算力新生态。本报告将介绍RISC-V与开源处理器生态的发展现状，并分析RISC-V对AI算力生态的影响。",
+      "lastUpdatedAt": "2026-04-03T03:13:44.123Z"
     },
     {
       "id": "DLEABFJF",

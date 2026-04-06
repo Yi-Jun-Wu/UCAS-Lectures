@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-04T08:22:54.615Z",
-  "total": 135,
+  "generatedAt": "2026-04-06T06:13:54.359Z",
+  "total": 138,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -1839,6 +1839,24 @@
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
     },
     {
+      "id": "AIAFAJLI",
+      "seriesName": "学术论文写作与发表",
+      "title": "Writing and reviewing papers",
+      "creditHours": "4",
+      "department": "人居科学学院",
+      "targetAudience": "全校研究生",
+      "speaker": "康健",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8539/view",
+      "startTimestamp": 1776249000000,
+      "endTimestamp": 1776261000000,
+      "rawTimeStr": "2026-04-15 18:30-21:50",
+      "mainVenue": "中关村 - 教学楼N306",
+      "parallelVenue": "",
+      "introduction": "Writing and reviewing papers",
+      "lastUpdatedAt": "2026-04-06T06:13:48.455Z"
+    },
+    {
       "id": "PDHPFHPP",
       "seriesName": "高灵敏可穿戴传感器及人工智能深度学习的新进展",
       "title": "柔性水凝胶基生物电子器件",
@@ -1945,6 +1963,42 @@
       "parallelVenue": "",
       "introduction": "主要讲解从第一个生成对抗网络GAN开始，后面多种GAN的变形网络到目前的Diffusion等生成式网络的基本原理、发展变化和未来展望。",
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
+    },
+    {
+      "id": "CEPJLKID",
+      "seriesName": "学术论文写作与发表",
+      "title": "Finding research topics & writing research proposals",
+      "creditHours": "4",
+      "department": "人居科学学院",
+      "targetAudience": "全校研究生",
+      "speaker": "康健",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8540/view",
+      "startTimestamp": 1776335400000,
+      "endTimestamp": 1776347400000,
+      "rawTimeStr": "2026-04-16 18:30-21:50",
+      "mainVenue": "中关村 - 教学楼N306",
+      "parallelVenue": "",
+      "introduction": "Finding research topics & writing research proposals",
+      "lastUpdatedAt": "2026-04-06T06:13:48.454Z"
+    },
+    {
+      "id": "BOCKENJD",
+      "seriesName": "学术论文写作与发表",
+      "title": "Presentation skills",
+      "creditHours": "3",
+      "department": "人居科学学院",
+      "targetAudience": "全校研究生",
+      "speaker": "康健",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8541/view",
+      "startTimestamp": 1776403800000,
+      "endTimestamp": 1776413400000,
+      "rawTimeStr": "2026-04-17 13:30-16:10",
+      "mainVenue": "中关村 - 教学楼N306",
+      "parallelVenue": "",
+      "introduction": "Presentation skills",
+      "lastUpdatedAt": "2026-04-06T06:13:48.454Z"
     },
     {
       "id": "LFCEINHM",

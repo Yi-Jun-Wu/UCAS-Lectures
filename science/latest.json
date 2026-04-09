@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T06:14:09.292Z",
-  "total": 164,
+  "generatedAt": "2026-04-09T07:13:58.923Z",
+  "total": 167,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -1821,6 +1821,24 @@
       "lastUpdatedAt": "2026-04-09T01:13:51.402Z"
     },
     {
+      "id": "CKPHDPEK",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "宽禁带半导体：从半导体发光到人机交互界面",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "刘志强",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8570/view",
+      "startTimestamp": 1776065100000,
+      "endTimestamp": 1776070800000,
+      "rawTimeStr": "2026-04-13 15:25-17:00",
+      "mainVenue": "雁栖湖 - 教二楼227",
+      "parallelVenue": "",
+      "introduction": "宽禁带半导体是国家战略性电子材料，也是中美科技竞争的核心焦点。经过十余年发展，该类材料已在半导体发光、电力电器件领域实现大规模产业化应用，成为支撑现代电子信息产业的关键基础。\n \n当前，宽禁带半导体正迎来新一轮应用爆发期，其凭借优异的光电性能，可广泛应用于超高清大屏、AR/VR近眼显示等场景，并与空间计算深度融合，构建新一代人机交互界面。\n\n这一技术方向与人工智能、智能终端等前沿领域高度关联，既是显示技术的迭代升级，也是未来智能交互体系的重要载体。加快宽禁带半导体在Micro-LED及人机交互界面的技术突破与产业布局，对提升我国在下一代信息产业中的核心竞争力具有重要战略价值。",
+      "lastUpdatedAt": "2026-04-09T07:13:52.406Z"
+    },
+    {
       "id": "ABMCLKGL",
       "seriesName": "超导材料科学与技术",
       "title": "铁基超导材料",
@@ -2017,6 +2035,42 @@
       "parallelVenue": "",
       "introduction": "为了支撑可再生能源的大规模消纳与利用，需要发展先进大规模储能技术，本章重点介绍各种储能技术特别是大规模物理储能、混合储能、储热等关键技术及研究方向。",
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
+    },
+    {
+      "id": "DNPLBOMO",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "芯粒集成与近数据计算",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "王颖",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8571/view",
+      "startTimestamp": 1776162600000,
+      "endTimestamp": 1776168000000,
+      "rawTimeStr": "2026-04-14 18:30-20:00",
+      "mainVenue": "雁栖湖 - 教二楼206",
+      "parallelVenue": "",
+      "introduction": "随着groq LPU被逐渐引入英伟达的算力解决方案，近数据空间加速架构也进入到了人们的视野当中，广义的讲，空间加速架构一直活跃于算力芯片乃至数据中心当中，它的引入解决了哪些高效率数据中心推理任务的痛点，以及可能对硬件互连，集成方式以及软件栈带来的改变与机会，报告中进行介绍与探讨。",
+      "lastUpdatedAt": "2026-04-09T07:13:52.406Z"
+    },
+    {
+      "id": "GDNJOIHI",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "芯粒集成与近数据计算",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "包云岗",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8571/view",
+      "startTimestamp": 1776162600000,
+      "endTimestamp": 1776168000000,
+      "rawTimeStr": "2026-04-14 18:30-20:00",
+      "mainVenue": "雁栖湖 - 教二楼206",
+      "parallelVenue": "",
+      "introduction": "随着groq LPU被逐渐引入英伟达的算力解决方案，近数据空间加速架构也进入到了人们的视野当中，广义的讲，空间加速架构一直活跃于算力芯片乃至数据中心当中，它的引入解决了哪些高效率数据中心推理任务的痛点，以及可能对硬件互连，集成方式以及软件栈带来的改变与机会，报告中进行介绍与探讨。",
+      "lastUpdatedAt": "2026-04-09T07:13:52.406Z"
     },
     {
       "id": "KOGBALMH",

@@ -2176,5 +2176,23 @@
     "parallelVenue": "",
     "introduction": "在通用人工智能（AGI）迈向物理世界的进程中，构建具有几何真实性的数字底座并实现其协同推演，是具身智能、工业仿真及深空探测等“急需紧缺领域”的核心共性难题。\n本次报告将首先梳理几何表征从离散到连续、从静态到动态的发展规律，重点介绍计算所团队基于自主国产框架构建的计图高斯库，及其在大尺度非刚性变形、复杂材质解耦与物理重光照方面的最新研究进展。进一步，针对物理世界建模中的稀疏观测难题，报告将探讨如何融合3D几何先验与视频扩散模型，利用显式代理约束的高斯优化方法，实现几何一致且高真实感的可视媒体生成，填补从“视觉逼真”到“物理真实”的鸿沟。最后，报告将展示几何驱动下的可视媒体交互与演化推演，包括基于线稿交互的实时高斯人头驱动、视角可控的多轨迹视频生成等前沿技术，并结合自动驾驶落地场景，讨论“几何真实数字世界”在跨学科交叉应用中的落地潜力，为相关领域的博士生选题提供兼具学术前沿与应用价值的研究方向。",
     "lastUpdatedAt": "2026-04-09T02:14:21.602Z"
+  },
+  {
+    "id": "LNBFKCCO",
+    "seriesName": "新型半导体器件及前沿应用",
+    "title": "Bioinspired In-Sensor Computing for Artificial Vision",
+    "creditHours": "2",
+    "department": "集成电路学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8550/view",
+    "startTimestamp": 1775872800000,
+    "endTimestamp": 1775878200000,
+    "rawTimeStr": "2026-04-11 10:00-11:30",
+    "mainVenue": "玉泉路 - 人文楼教一1",
+    "parallelVenue": "",
+    "introduction": "Abstract- The demand for accurate perception of the physical world leads to a dramatic increase in sensory nodes. However, the transmission of massive and unstructured sensory data from sensors to computing units poses great challenges in terms of power‐efficiency, transmission bandwidth, data storage, time latency, and security. To efficiently process massive sensory data, it is crucial to achieve data compression and structuring at the sensory terminals. In‐sensor computing integrates perception, memory, and processing functions within sensors, enabling sensory terminals to perform data compression and data structuring. We will overview optoelectronic intelligence for bioinspired in-sensor computing in artificial vision. We will examine optoelectronic devices that can compress and structure multidimensional vision information, and demonstrate a few vision sensors for different scenarios, including visual adaptation, motion perception, as well as event-driven vision sensors for spiking neural network.",
+    "lastUpdatedAt": "2026-04-09T03:13:49.224Z"
   }
 ]

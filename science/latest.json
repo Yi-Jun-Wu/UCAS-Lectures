@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T02:14:36.027Z",
-  "total": 159,
+  "generatedAt": "2026-04-09T03:13:51.347Z",
+  "total": 160,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -1549,6 +1549,24 @@
       "parallelVenue": "",
       "introduction": "自然保护地在实现生物多样性保护目标的同时，在推动自然保护地内及周边区域可持续发展方面也发挥了重要作用。本讲座结合自然保护地的发展历程以及我国以国家公园为主体的自然保护地体系改革进程，系统梳理自然保护地生物多样性保护与可持续性发展的相关研究进展，引导学生就自然保护地领域的研究热点、理论技术和管理需求进行深入思考。\n王伟，博士，博士生导师，中国环境科学研究院研究员，同济大学兼职教授。主要研究方向为自然保护地可持续生态学，研究自然保护地生物多样性、生态系统服务和区域可持续发展之间的相互作用及其影响因素，提出有效的可持续发展对策。主持国家重点研发计划课题、国家自然科学基金以及生态环境部、中国科学院等各类项目20余项。共发表论著120余篇。担任中国人与生物圈国家委员会专家咨询委员会委员、IUCN世界自然保护地委员会（IUCN-WCPA）委员等。",
       "lastUpdatedAt": "2026-04-07T03:13:46.623Z"
+    },
+    {
+      "id": "LNBFKCCO",
+      "seriesName": "新型半导体器件及前沿应用",
+      "title": "Bioinspired In-Sensor Computing for Artificial Vision",
+      "creditHours": "2",
+      "department": "集成电路学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8550/view",
+      "startTimestamp": 1775872800000,
+      "endTimestamp": 1775878200000,
+      "rawTimeStr": "2026-04-11 10:00-11:30",
+      "mainVenue": "玉泉路 - 人文楼教一1",
+      "parallelVenue": "",
+      "introduction": "Abstract- The demand for accurate perception of the physical world leads to a dramatic increase in sensory nodes. However, the transmission of massive and unstructured sensory data from sensors to computing units poses great challenges in terms of power‐efficiency, transmission bandwidth, data storage, time latency, and security. To efficiently process massive sensory data, it is crucial to achieve data compression and structuring at the sensory terminals. In‐sensor computing integrates perception, memory, and processing functions within sensors, enabling sensory terminals to perform data compression and data structuring. We will overview optoelectronic intelligence for bioinspired in-sensor computing in artificial vision. We will examine optoelectronic devices that can compress and structure multidimensional vision information, and demonstrate a few vision sensors for different scenarios, including visual adaptation, motion perception, as well as event-driven vision sensors for spiking neural network.",
+      "lastUpdatedAt": "2026-04-09T03:13:49.224Z"
     },
     {
       "id": "CECIEPEM",

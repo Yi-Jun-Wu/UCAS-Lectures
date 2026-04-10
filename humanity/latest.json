@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T06:13:54.090Z",
-  "total": 64,
+  "generatedAt": "2026-04-10T02:13:46.686Z",
+  "total": 66,
   "lectures": [
     {
       "id": "FBAHLKLH",
@@ -994,6 +994,42 @@
       "parallelVenue": "",
       "introduction": "何为近代启蒙运动？近代启蒙运动与法国科学存在什么关联？基于法国近代科技史，通过考察具有代表性的历史叙事框架，讨论法国自然科学与启蒙运动的开启、发展、终结之间的关联，从不同视角理解近代启蒙运动的内涵，展现18世纪科学与国家现代化之间的复杂互动。",
       "lastUpdatedAt": "2026-04-09T06:13:41.723Z"
+    },
+    {
+      "id": "NPEDDEBO",
+      "seriesName": "社会系列",
+      "title": "M1139雁栖湖主会场：能慧两仪，万象归一——大压缩时代的科学文化观察",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/7030/humanityView",
+      "startTimestamp": 1776337200000,
+      "endTimestamp": 1776344400000,
+      "rawTimeStr": "2026-04-16 19:00-21:00",
+      "mainVenue": "雁栖湖 - 教一楼101",
+      "parallelVenue": "",
+      "introduction": "人工智能牵引的科技产业变革浪潮，驱动经济社会深刻转型，冲击出巨大的偶然性和不确定性。经历工业化信息化的充分发展，人类社会生产力跃迁，快速向智能社会迈进。变革重构时空，连接塑造新的社会网络，为大压缩时代的人类文明形态提供了多样化路径。重新思考科学的边界、人类的主体性，为观察方兴未艾的科学文化发展提供多元视角。",
+      "lastUpdatedAt": "2026-04-10T02:13:42.417Z"
+    },
+    {
+      "id": "HKPKOPJF",
+      "seriesName": "社会系列",
+      "title": "M1139玉泉路分会场：能慧两仪，万象归一——大压缩时代的科学文化观察",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/7031/humanityView",
+      "startTimestamp": 1776337200000,
+      "endTimestamp": 1776344400000,
+      "rawTimeStr": "2026-04-16 19:00-21:00",
+      "mainVenue": "玉泉路 - 人文楼报告厅",
+      "parallelVenue": "",
+      "introduction": "人工智能牵引的科技产业变革浪潮，驱动经济社会深刻转型，冲击出巨大的偶然性和不确定性。经历工业化信息化的充分发展，人类社会生产力跃迁，快速向智能社会迈进。变革重构时空，连接塑造新的社会网络，为大压缩时代的人类文明形态提供了多样化路径。重新思考科学的边界、人类的主体性，为观察方兴未艾的科学文化发展提供多元视角。",
+      "lastUpdatedAt": "2026-04-10T02:13:42.417Z"
     },
     {
       "id": "BJGOAKBA",

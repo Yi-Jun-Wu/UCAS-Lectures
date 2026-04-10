@@ -2346,7 +2346,7 @@
     "creditHours": "2",
     "department": "前沿交叉科学学院",
     "targetAudience": "全校学生",
-    "speaker": "",
+    "speaker": "杨超",
     "isAppointmentRequired": false,
     "sourceUrl": "/subject/8573/view",
     "startTimestamp": 1776392700000,
@@ -2355,7 +2355,7 @@
     "mainVenue": "雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "新能源、电子化学品和国防推进剂等工业制造装备和工艺，依赖数字化放大和智能调控，给化工、材料等学科和工业生产带来挑战。我们创建了“理论建模装备创制工程应用”的数字化智能化放大设计平台及技术体系，应用于锂电正极材料、湿电子化学品、航天固体动力材料等工业生产中，实现从理论模型到高端化工产品工业低碳和智能制造，服务国家战略和国防安全需求。本报告还将分享科研选题等感悟，并简要介绍急需紧缺领域博士选题和相关导师情况。",
-    "lastUpdatedAt": "2026-04-10T01:13:55.529Z"
+    "lastUpdatedAt": "2026-04-10T02:14:05.585Z"
   },
   {
     "id": "DBPAPIFB",
@@ -2364,7 +2364,7 @@
     "creditHours": "2",
     "department": "前沿交叉科学学院",
     "targetAudience": "全校学生",
-    "speaker": "",
+    "speaker": "李志成",
     "isAppointmentRequired": false,
     "sourceUrl": "/subject/8572/view",
     "startTimestamp": 1776324300000,
@@ -2373,6 +2373,60 @@
     "mainVenue": "雁栖湖 - 教二楼127",
     "parallelVenue": "",
     "introduction": "人工智能正以前所未有的方式重塑医学与疾病诊疗：从辅助筛查到精准预后，智能算法与成像技术的深度融合正在改写临床决策的边界。然而，通往下一代智慧医疗的路上仍充满挑战：如何摆脱液氦依赖，实现低成本、高性能的多参数成像？如何在毫秒级时间内捕捉动态代谢过程？又如何将影像、病理、分子信息跨越尺度鸿沟，融合为可解释的诊疗模型？本团队聚焦这些前沿问题：研发无液氦超导磁共振系统，突破结构、功能与代谢成像的极限；发展快速成像技术，平衡速度与质量；构建影像智能诊疗模型，并探索人工智能在跨模态（影像-病理-分子）融合中的创新方法，最终打造医学影像诊疗大模型。欢迎有志于攻克核心难题、推动下一代磁共振和智能医学革命的学生加入我们。",
-    "lastUpdatedAt": "2026-04-10T01:13:55.529Z"
+    "lastUpdatedAt": "2026-04-10T02:14:05.585Z"
+  },
+  {
+    "id": "ALKNADBN",
+    "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+    "title": "人工智能药物研发与临床转化",
+    "creditHours": "2",
+    "department": "前沿交叉科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "张亮",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8574/view",
+    "startTimestamp": 1776410700000,
+    "endTimestamp": 1776416400000,
+    "rawTimeStr": "2026-04-17 15:25-17:00",
+    "mainVenue": "雁栖湖 - 教二楼125",
+    "parallelVenue": "",
+    "introduction": "本报告聚焦人工智能驱动的药物研发与临床转化前沿，围绕大语言模型、生成式人工智能、空间智能等技术，探讨其在生命健康领域中的应用潜力。报告将结合核酸药物、mRNA药物、传染病、罕见病、肿瘤新抗原药物等方向，介绍人工智能如何从分子设计、序列优化和机制解析，进一步拓展到对药物递送、疾病演化及体内生命过程的动态分析，推动创新药物研发由经验驱动迈向智能驱动。结合代表性研究与转化案例，展望大交叉学科背景下生命科学与人工智能深度融合的发展趋势。",
+    "lastUpdatedAt": "2026-04-10T02:14:03.252Z"
+  },
+  {
+    "id": "HIBKLPDD",
+    "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+    "title": "EUV激光等离子体光源技术与学科建设规划",
+    "creditHours": "2",
+    "department": "前沿交叉科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "丁程远",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8575/view",
+    "startTimestamp": 1776219900000,
+    "endTimestamp": 1776225600000,
+    "rawTimeStr": "2026-04-15 10:25-12:00",
+    "mainVenue": "雁栖湖 - 教一楼114",
+    "parallelVenue": "",
+    "introduction": "极紫外光刻机是量产7nm以下集成电路工艺节点的最关键设备。相对于DUV光刻机，EUV光刻光源是整机中最大的创新点;  集西方全产业链30余年的研发努力，才达到量产指标，使半导体行业进入EUV时代。本报告通过对极紫外光源原理及工程实现的讲解，带同学理解EUV光源的科学原理和工程难点。同时通过对国产极紫外光源的历史回顾，使同学们熟悉院内前辈科学家们的努力，以及现在上海光机所关于此方向上的学科建设规划。",
+    "lastUpdatedAt": "2026-04-10T02:14:03.252Z"
+  },
+  {
+    "id": "CBPFFGNO",
+    "seriesName": "再生医学科学前沿讲座",
+    "title": "再生医学进展与挑战",
+    "creditHours": "2",
+    "department": "医学院",
+    "targetAudience": "全校学生",
+    "speaker": "胡宝洋",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8576/view",
+    "startTimestamp": 1776154500000,
+    "endTimestamp": 1776160200000,
+    "rawTimeStr": "2026-04-14 16:15-17:50",
+    "mainVenue": "雁栖湖 - 教二楼123",
+    "parallelVenue": "",
+    "introduction": "再生医学进展与挑战",
+    "lastUpdatedAt": "2026-04-10T02:14:03.252Z"
   }
 ]

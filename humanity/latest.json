@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-10T02:13:46.686Z",
-  "total": 66,
+  "generatedAt": "2026-04-10T03:13:51.203Z",
+  "total": 70,
   "lectures": [
     {
       "id": "FBAHLKLH",
@@ -1032,6 +1032,24 @@
       "lastUpdatedAt": "2026-04-10T02:13:42.417Z"
     },
     {
+      "id": "AKFCPMJL",
+      "seriesName": "社会系列",
+      "title": "M1139中关村分会场：能慧两仪，万象归一——大压缩时代的科学文化观察",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/7032/humanityView",
+      "startTimestamp": 1776337200000,
+      "endTimestamp": 1776344400000,
+      "rawTimeStr": "2026-04-16 19:00-21:00",
+      "mainVenue": "中关村 - 教学楼N301",
+      "parallelVenue": "",
+      "introduction": "人工智能牵引的科技产业变革浪潮，驱动经济社会深刻转型，冲击出巨大的偶然性和不确定性。经历工业化信息化的充分发展，人类社会生产力跃迁，快速向智能社会迈进。变革重构时空，连接塑造新的社会网络，为大压缩时代的人类文明形态提供了多样化路径。重新思考科学的边界、人类的主体性，为观察方兴未艾的科学文化发展提供多元视角。",
+      "lastUpdatedAt": "2026-04-10T03:13:40.072Z"
+    },
+    {
       "id": "BJGOAKBA",
       "seriesName": "历史系列",
       "title": "M1136玉泉路分会场：《堕落之海》与20世纪的地中海生态史研究",
@@ -1192,6 +1210,63 @@
       "parallelVenue": "",
       "introduction": "中华民族交往交流交融史研究，以史学研究为基础，采用多学科交叉方法，通过政治、经济、社会和文化等四个专题领域，挖掘、整理和研究中华民族内部及其之间的交往交流交融的基本史实。利用科学技术史研究的理论、方法，包括科技考古在内的多学科交叉研究，转换观点视角，可揭示出中华各民族在政治不断凝聚共识、文化上兼收并蓄、经济上相互依存、情感上相互亲近，最终交融汇聚成多元一体的历史。",
       "lastUpdatedAt": "2026-04-09T06:13:41.734Z"
+    },
+    {
+      "id": "GMIFEAKG",
+      "seriesName": "艺术系列",
+      "title": "M1140雁栖湖主会场：敬惜字纸：纸及文字为艺术的媒介",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "appointmentInfo": "2026-04-17 00:00~2026-04-24 18:00",
+      "sourceUrl": "/subject/7033/humanityView",
+      "startTimestamp": 1777028400000,
+      "endTimestamp": 1777035600000,
+      "rawTimeStr": "2026-04-24 19:00-21:00",
+      "mainVenue": "雁栖湖 - 教三楼208",
+      "parallelVenue": "",
+      "introduction": "上、当代纸艺术创作\n    1.纸艺术概念；2.纸艺术现象；3.材料的属性；4.解纸的技术\n下、纸艺术个案赏析\n    1.纸艺术教学案例；2.王雷纸艺术创作",
+      "lastUpdatedAt": "2026-04-10T03:13:40.072Z"
+    },
+    {
+      "id": "JDGMBHDG",
+      "seriesName": "艺术系列",
+      "title": "M1140玉泉路分会场：敬惜字纸：纸及文字为艺术的媒介",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "appointmentInfo": "2026-04-17 00:00~2026-04-24 18:00",
+      "sourceUrl": "/subject/7034/humanityView",
+      "startTimestamp": 1777028400000,
+      "endTimestamp": 1777035600000,
+      "rawTimeStr": "2026-04-24 19:00-21:00",
+      "mainVenue": "玉泉路 - 人文楼报告厅",
+      "parallelVenue": "",
+      "introduction": "上、当代纸艺术创作\n    1.纸艺术概念；2.纸艺术现象；3.材料的属性；4.解纸的技术\n下、纸艺术个案赏析\n    1.纸艺术教学案例；2.王雷纸艺术创作",
+      "lastUpdatedAt": "2026-04-10T03:13:40.072Z"
+    },
+    {
+      "id": "DJNOMPOB",
+      "seriesName": "艺术系列",
+      "title": "M1140中关村分会场：敬惜字纸：纸及文字为艺术的媒介",
+      "creditHours": "2",
+      "department": "明德讲堂",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": true,
+      "appointmentInfo": "2026-04-17 00:00~2026-04-24 18:00",
+      "sourceUrl": "/subject/7035/humanityView",
+      "startTimestamp": 1777028400000,
+      "endTimestamp": 1777035600000,
+      "rawTimeStr": "2026-04-24 19:00-21:00",
+      "mainVenue": "中关村 - 教学楼N208",
+      "parallelVenue": "",
+      "introduction": "上、当代纸艺术创作\n    1.纸艺术概念；2.纸艺术现象；3.材料的属性；4.解纸的技术\n下、纸艺术个案赏析\n    1.纸艺术教学案例；2.王雷纸艺术创作",
+      "lastUpdatedAt": "2026-04-10T03:13:40.072Z"
     }
   ]
 }

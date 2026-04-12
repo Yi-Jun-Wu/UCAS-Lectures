@@ -2518,5 +2518,23 @@
     "parallelVenue": "",
     "introduction": "本报告将介绍三方面的内容:1)计算数学与集成电路交叉研究的一些研究课题和背景;2)半导体器件仿真、芯片封装的多物理仿真、集成电路参数提取等涉及的数学模型、计算方法以及程序实现方面的内容。重点讨论不同应用场景下选取的宏观或微观数学模型、数学模型的研究概况、计算方法设计面临的困难和挑战、数学理论在这些交叉课题中发挥的重要作用等。3)数学与集成电路交叉研究课题相关的一些研究方向、研究生课程等。",
     "lastUpdatedAt": "2026-04-12T06:13:53.778Z"
+  },
+  {
+    "id": "FDBFEMDO",
+    "seriesName": "环境科学与工程进展与前沿",
+    "title": "Air quality, climate change, and health",
+    "creditHours": "2",
+    "department": "资源与环境学院",
+    "targetAudience": "全校研究生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8582/view",
+    "startTimestamp": 1776132000000,
+    "endTimestamp": 1776137400000,
+    "rawTimeStr": "2026-04-14 10:00-11:30",
+    "mainVenue": "雁栖湖 - 教二楼201",
+    "parallelVenue": "",
+    "introduction": "Air pollution, mainly caused by fossil fuel use and industrial activities, includes particulate matter and oxidant gases that pose serious health risks. Short-term exposure can irritate the respiratory system and worsen asthma, while long-term exposure is linked to chronic conditions like cardiovascular disease, COPD, and lung cancer. Globally, air pollution leads to millions of early deaths each year. Measures such as setting air quality standards, expanding renewable energy, reducing greenhouse gas emissions, and promoting electric transportation improve air quality and extend life expectancy. It may seem a dilemma: particulate matter can cool the climate by scattering sunlight and brightening clouds, and reducing it to improve air quality can accelerate warming in the short term. However, cleaner air is crucial for human and planetary health, providing co-benefits for public well-being and long-term climate stability.\nJos Lelieveld holds a PhD in atmospheric physics from the University of Utrecht in the Netherlands (1990). From 2000 to 2025, he served as the director of the Max Planck Institute for Chemistry in Mainz, Germany, also a professor at Mainz University and holds several international honorary professorships. He has contributed fundamental knowledge about the chemistry of atmospheric change and its effects on air quality and climate. He has (co)authored about 650 peer reviewed publications, is recognized as a highly cited researcher, is a member of international science academies, and has received numerous international distinctions. His studies address the self-cleaning (oxidizing) capacity and atmospheric composition. He develops methods to trace air pollution from both natural and anthropogenic sources and collaborates with medical and public health scientists to evaluate health outcomes, improve air quality, and develop intervention strategies.",
+    "lastUpdatedAt": "2026-04-12T09:13:56.318Z"
   }
 ]

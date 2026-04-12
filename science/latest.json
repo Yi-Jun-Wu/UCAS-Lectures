@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-12T06:13:56.316Z",
-  "total": 178,
+  "generatedAt": "2026-04-12T09:13:58.663Z",
+  "total": 179,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -1891,6 +1891,24 @@
       "parallelVenue": "",
       "introduction": "完全的无序是不可能的。近百年来，Ramsey理论的这一核心思想，深刻影响了数论、几何、集合论、遍历论、逻辑学、信息论及理论计算机科学等多个领域，其揭示了一个深刻的数学真理：混沌之中，秩序终将涌现。本报告讲介绍Ramsey理论的基础知识、核心内容、重要而广泛的应用及可供探索的一些问题。欢迎有兴趣的同学参加。\n主讲人：闫桂英，中国科学院数学与系统科学研究院研究员，中国科学院国家数学与交叉科学中心副主任，中国科学院大学教授。分别于1989年、1992年和1995年在山东大学获得理学学士、硕士和博士学位。1997年在中国科学院应用数学研究所博士后出站。之后，在中国科学院数学与系统科学研究院工作至今，主要从事运筹学理论与应用研究与教学工作。主持国家自然科学基金重点项目和国家重点研发计划，获得国务院特殊政府津贴，获“全国优秀科技工作者”荣誉称号等。",
       "lastUpdatedAt": "2026-04-03T08:13:41.834Z"
+    },
+    {
+      "id": "FDBFEMDO",
+      "seriesName": "环境科学与工程进展与前沿",
+      "title": "Air quality, climate change, and health",
+      "creditHours": "2",
+      "department": "资源与环境学院",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8582/view",
+      "startTimestamp": 1776132000000,
+      "endTimestamp": 1776137400000,
+      "rawTimeStr": "2026-04-14 10:00-11:30",
+      "mainVenue": "雁栖湖 - 教二楼201",
+      "parallelVenue": "",
+      "introduction": "Air pollution, mainly caused by fossil fuel use and industrial activities, includes particulate matter and oxidant gases that pose serious health risks. Short-term exposure can irritate the respiratory system and worsen asthma, while long-term exposure is linked to chronic conditions like cardiovascular disease, COPD, and lung cancer. Globally, air pollution leads to millions of early deaths each year. Measures such as setting air quality standards, expanding renewable energy, reducing greenhouse gas emissions, and promoting electric transportation improve air quality and extend life expectancy. It may seem a dilemma: particulate matter can cool the climate by scattering sunlight and brightening clouds, and reducing it to improve air quality can accelerate warming in the short term. However, cleaner air is crucial for human and planetary health, providing co-benefits for public well-being and long-term climate stability.\nJos Lelieveld holds a PhD in atmospheric physics from the University of Utrecht in the Netherlands (1990). From 2000 to 2025, he served as the director of the Max Planck Institute for Chemistry in Mainz, Germany, also a professor at Mainz University and holds several international honorary professorships. He has contributed fundamental knowledge about the chemistry of atmospheric change and its effects on air quality and climate. He has (co)authored about 650 peer reviewed publications, is recognized as a highly cited researcher, is a member of international science academies, and has received numerous international distinctions. His studies address the self-cleaning (oxidizing) capacity and atmospheric composition. He develops methods to trace air pollution from both natural and anthropogenic sources and collaborates with medical and public health scientists to evaluate health outcomes, improve air quality, and develop intervention strategies.",
+      "lastUpdatedAt": "2026-04-12T09:13:56.318Z"
     },
     {
       "id": "GAFIHAGL",

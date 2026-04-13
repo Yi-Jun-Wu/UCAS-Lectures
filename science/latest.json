@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T01:13:56.165Z",
-  "total": 181,
+  "generatedAt": "2026-04-13T06:13:58.384Z",
+  "total": 182,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -2292,7 +2292,7 @@
       "id": "AIAFAJLI",
       "seriesName": "学术论文写作与发表",
       "title": "Writing and reviewing papers",
-      "creditHours": "4",
+      "creditHours": "3",
       "department": "人居科学学院",
       "targetAudience": "全校研究生",
       "speaker": "康健",
@@ -2304,7 +2304,7 @@
       "mainVenue": "中关村 - 教学楼N306",
       "parallelVenue": "",
       "introduction": "Writing and reviewing papers",
-      "lastUpdatedAt": "2026-04-06T06:13:48.455Z"
+      "lastUpdatedAt": "2026-04-13T06:13:58.380Z"
     },
     {
       "id": "PDHPFHPP",
@@ -2397,6 +2397,24 @@
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
     },
     {
+      "id": "AIDCNDMI",
+      "seriesName": "天体物理前沿讲座",
+      "title": "FAST和中性氢探测",
+      "creditHours": "2",
+      "department": "天文与空间科学学院",
+      "targetAudience": "全校研究生",
+      "speaker": "王杰",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8588/view",
+      "startTimestamp": 1776317400000,
+      "endTimestamp": 1776324000000,
+      "rawTimeStr": "2026-04-16 13:30-15:20",
+      "mainVenue": "雁栖湖 - 教一楼114",
+      "parallelVenue": "",
+      "introduction": "中国天眼望远镜（FAST）是我国重大科学设施之一，是世界上最大的单口径射电望远镜，有望帮助我们了解我们的宇宙做出重要贡献。而对于宇宙中存在最为丰富的氢元素，对宇宙中的中性氢进行探测则是FAST的最重要的科学目标之一。我将介绍我们正在进行的几个中性氢深度巡天项目，以及这些巡天如何帮助我们在恒星形成，星系形成，宇宙学等各个领域揭示宇宙中的奥秘。",
+      "lastUpdatedAt": "2026-04-13T06:13:55.870Z"
+    },
+    {
       "id": "DBPAPIFB",
       "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
       "title": "医学影像人工智能",
@@ -2436,7 +2454,7 @@
       "id": "CEPJLKID",
       "seriesName": "学术论文写作与发表",
       "title": "Finding research topics & writing research proposals",
-      "creditHours": "4",
+      "creditHours": "3",
       "department": "人居科学学院",
       "targetAudience": "全校研究生",
       "speaker": "康健",
@@ -2448,7 +2466,7 @@
       "mainVenue": "中关村 - 教学楼N306",
       "parallelVenue": "",
       "introduction": "Finding research topics & writing research proposals",
-      "lastUpdatedAt": "2026-04-06T06:13:48.454Z"
+      "lastUpdatedAt": "2026-04-13T06:13:55.873Z"
     },
     {
       "id": "MOOBJOBL",

@@ -1839,7 +1839,7 @@
     "id": "CEPJLKID",
     "seriesName": "学术论文写作与发表",
     "title": "Finding research topics & writing research proposals",
-    "creditHours": "4",
+    "creditHours": "3",
     "department": "人居科学学院",
     "targetAudience": "全校研究生",
     "speaker": "康健",
@@ -1851,13 +1851,13 @@
     "mainVenue": "中关村 - 教学楼N306",
     "parallelVenue": "",
     "introduction": "Finding research topics & writing research proposals",
-    "lastUpdatedAt": "2026-04-06T06:13:48.454Z"
+    "lastUpdatedAt": "2026-04-13T06:13:55.873Z"
   },
   {
     "id": "AIAFAJLI",
     "seriesName": "学术论文写作与发表",
     "title": "Writing and reviewing papers",
-    "creditHours": "4",
+    "creditHours": "3",
     "department": "人居科学学院",
     "targetAudience": "全校研究生",
     "speaker": "康健",
@@ -1869,7 +1869,7 @@
     "mainVenue": "中关村 - 教学楼N306",
     "parallelVenue": "",
     "introduction": "Writing and reviewing papers",
-    "lastUpdatedAt": "2026-04-06T06:13:48.455Z"
+    "lastUpdatedAt": "2026-04-13T06:13:58.380Z"
   },
   {
     "id": "NJFPIEEA",
@@ -2572,5 +2572,23 @@
     "parallelVenue": "",
     "introduction": "固体废物的工业窑炉协同处理可以提高固体废物无害化处置水平和资源化利用率，同时减少温室气体的排放，提高应对突发事件的能力，是目前我国固体废物处置利用行业的新兴技术，具有广阔的市场应用场景。本报告主要包括以下内容：水泥窑协同处理固体废物技术原理和关键技术，水泥窑协同处理固体废物技术发展应用现状，其他工业窑炉协同处理固体废物发展应用现状，工业窑炉协同处理固体废物政策和标准等。\n闫大海，博士，硕士生导师，中国环境科学研究院三级研究员，国家环境保护专业技术青年拔尖人才、中国环境科学学会青年科学家，担任国家环境保护标准专家委员会委员、工信部工业节能行业标准化总体组委员、中华环保联合会燃煤锅炉协同处理固体废物专家委员会委员、《环境科学研究》编委等。研究领域为固体废物热处理及灰渣利用技术，重点为高温工业窑炉协同处理固体废物技术、生活垃圾焚烧飞灰利用处置技术和农村生活垃圾小型热处理技术等。主持编制国家标准2项、环境行业标准3项，参加编制国家标准3项和环境行业标准1项。发表论文60余篇，获发明专利授权20项，实用新型专利12项，参加专著编写5部，获中国包装总公司科学技术奖（部级）一等奖1项，环境保护部科学技术奖一等奖1项，二等奖4项，湖北省科学技术奖技术进步一等奖1项，中国有色金属工业科学技术奖（部级）一等奖1项。",
     "lastUpdatedAt": "2026-04-13T01:13:52.026Z"
+  },
+  {
+    "id": "AIDCNDMI",
+    "seriesName": "天体物理前沿讲座",
+    "title": "FAST和中性氢探测",
+    "creditHours": "2",
+    "department": "天文与空间科学学院",
+    "targetAudience": "全校研究生",
+    "speaker": "王杰",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8588/view",
+    "startTimestamp": 1776317400000,
+    "endTimestamp": 1776324000000,
+    "rawTimeStr": "2026-04-16 13:30-15:20",
+    "mainVenue": "雁栖湖 - 教一楼114",
+    "parallelVenue": "",
+    "introduction": "中国天眼望远镜（FAST）是我国重大科学设施之一，是世界上最大的单口径射电望远镜，有望帮助我们了解我们的宇宙做出重要贡献。而对于宇宙中存在最为丰富的氢元素，对宇宙中的中性氢进行探测则是FAST的最重要的科学目标之一。我将介绍我们正在进行的几个中性氢深度巡天项目，以及这些巡天如何帮助我们在恒星形成，星系形成，宇宙学等各个领域揭示宇宙中的奥秘。",
+    "lastUpdatedAt": "2026-04-13T06:13:55.870Z"
   }
 ]

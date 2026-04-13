@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T06:13:58.384Z",
-  "total": 182,
+  "generatedAt": "2026-04-13T07:13:51.616Z",
+  "total": 183,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3043,6 +3043,24 @@
       "parallelVenue": "",
       "introduction": "\"本报告中将主要汇报半导体界面中的激子物理，我们基于多能带 k*p 理论和类BCS 的多体理论，从理论上证明了二维 (2D) 半导体界面系统中拓扑激子绝缘相的存在。 我们考虑两种系统：InAs/GaSb 量子阱和 2D 范德华异质结构。 在InAs/GaSb量子阱，我们从理论上证明，当考虑电子和空穴之间的库仑相互作用时，系统的基态是拓扑激子绝缘体[4]。对于二维VdH系统，由于激子结合能大，我们在吸氢石墨烯体系中提出自旋三重态的激子绝缘体相，还在新型二维材料体系中发现平带诱导的拓扑激子绝缘体密度波[1]。在二维层状系统中发现通过磁场调控可调谐的roton-like激子态[2,3]。\n[1] S. Dong, Y. -D Chen, H. W. Qu, W.-K. Lou, and Kai Chang, Phys. Rev. Lett. 134, 066602 (2025)\n[2] Y. D. Chen, W.-K. Lou, and Kai Chang, Phys. Rev. B, B 112, 195304 (2025) [Editor’s suggestions]\n[3] D. Wang, Y. Chen, Z.-C. Niu, W.-K. Lou and Kai Chang, Chin. Phys. Lett. 41(8),087101 (2024)\n[4] L.J. Du, X.W. Li, W.-K. Lou, G. Sullivan, Kai Chang*, Junichiro Kono* & Rui-Rui Du*, Nature Commun. 8, 1971 (2017)",
       "lastUpdatedAt": "2026-04-03T01:13:49.359Z"
+    },
+    {
+      "id": "IALDCCDH",
+      "seriesName": "科技考古前沿讲座",
+      "title": "花粉分析的基础与应用研究、推广与教学思考",
+      "creditHours": "3",
+      "department": "人文学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8593/view",
+      "startTimestamp": 1777008600000,
+      "endTimestamp": 1777019400000,
+      "rawTimeStr": "2026-04-24 13:30-16:30",
+      "mainVenue": "玉泉路 - 人文楼教一2",
+      "parallelVenue": "",
+      "introduction": "花粉分析历经百年有余，仍然是陆地古环境研究的支撑方法。第四纪孢粉数据的获取依据经典形态学来鉴定与归类，陆续有新方法与新技术探索（如光谱分析、DNA、AI识别等）。本讲座将从花粉分析的学科史入手，回顾花粉分析理论与方法的发展历程、应用研究的拓展（包括环境考古应用）；梳理花粉分析目前面临的问题与技术瓶颈，包括基础研究的不足、新方法与新技术的推广与应用局限。同时，思考花粉分析的教学现状、讨论未来花粉分析的机遇与挑战。",
+      "lastUpdatedAt": "2026-04-13T07:13:49.420Z"
     },
     {
       "id": "AGFDOFFC",

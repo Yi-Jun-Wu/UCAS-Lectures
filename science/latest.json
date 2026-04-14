@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-14T03:14:19.537Z",
-  "total": 206,
+  "generatedAt": "2026-04-14T04:13:56.182Z",
+  "total": 207,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3621,24 +3621,6 @@
       "lastUpdatedAt": "2026-04-13T08:13:53.488Z"
     },
     {
-      "id": "KHHLNEJD",
-      "seriesName": "第四纪地质学前沿进展",
-      "title": "地球深部-表层碳循环与古气候变化",
-      "creditHours": "2",
-      "department": "地球与行星科学学院",
-      "targetAudience": "全校学生",
-      "speaker": "",
-      "isAppointmentRequired": false,
-      "sourceUrl": "/subject/8552/view",
-      "startTimestamp": 1778736600000,
-      "endTimestamp": 1778743200000,
-      "rawTimeStr": "2026-05-14 13:30-15:20",
-      "mainVenue": "雁栖湖 - 教二楼127",
-      "parallelVenue": "",
-      "introduction": "吴海斌，中国科学院地质与地球物理研究所研究员，杰青，曾获刘东生青年地球科学家奖、中国科学院青年科学家奖。主要从事古气候与碳循环研究，长期致力于全新世土壤有机和无机碳库变化及人类活动的影响、陆地和水生生态系统碳循环、植被反演模型研制及古气候参数定量化等方面的研究。在Nature Communications、PNAS、Global Change Biology等期刊发表论文40余篇，论文被SCI引用1400余次。",
-      "lastUpdatedAt": "2026-04-08T08:13:50.214Z"
-    },
-    {
       "id": "JPLLDAHI",
       "seriesName": "高灵敏可穿戴传感器及人工智能深度学习的新进展",
       "title": "佩戴式电刺激系统系统",
@@ -3655,6 +3637,24 @@
       "parallelVenue": "",
       "introduction": "电刺激技术是治疗运动障碍和神经精神疾病的一种方法，在多种疾病治疗领域具备重大潜力。电刺激包括：离子电渗技术、无创电刺激、植入式电刺激，从原理-器件-系统进行介绍。",
       "lastUpdatedAt": "2026-03-19T05:44:08.001Z"
+    },
+    {
+      "id": "KHHLNEJD",
+      "seriesName": "第四纪地质学前沿进展",
+      "title": "地球深部-表层碳循环与古气候变化",
+      "creditHours": "2",
+      "department": "地球与行星科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "吴海斌",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8552/view",
+      "startTimestamp": 1779168600000,
+      "endTimestamp": 1779175200000,
+      "rawTimeStr": "2026-05-19 13:30-15:20",
+      "mainVenue": "雁栖湖 - 教二楼127",
+      "parallelVenue": "",
+      "introduction": "吴海斌，中国科学院地质与地球物理研究所研究员，杰青，曾获刘东生青年地球科学家奖、中国科学院青年科学家奖。主要从事古气候与碳循环研究，长期致力于全新世土壤有机和无机碳库变化及人类活动的影响、陆地和水生生态系统碳循环、植被反演模型研制及古气候参数定量化等方面的研究。在Nature Communications、PNAS、Global Change Biology等期刊发表论文40余篇，论文被SCI引用1400余次。",
+      "lastUpdatedAt": "2026-04-14T04:13:56.178Z"
     },
     {
       "id": "LKLPOACJ",
@@ -3681,7 +3681,7 @@
       "creditHours": "2",
       "department": "地球与行星科学学院",
       "targetAudience": "全校学生",
-      "speaker": "",
+      "speaker": "史锋",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8553/view",
       "startTimestamp": 1779341400000,
@@ -3690,7 +3690,7 @@
       "mainVenue": "雁栖湖 - 教二楼127",
       "parallelVenue": "",
       "introduction": "史锋，中国科学院地质与地球物理研究所研究员。主要从事古气候诊断与模拟研究，聚焦树轮气候学、数据同化及多年代际气候变化重建。创新提出最优信号提取法，主导重建了北半球千年温度序列等气候演变图谱，相关成果被IPCC第五、第六次评估报告引用。在Nature Geoscience、Geophysical Research Letters、Global and Planetary Change等期刊发表论文50余篇。现任中国第四纪研究会历史时期气候变化专委会委员，中国地理学会树木年轮研究分会委员会委员，兼任Nature等国际期刊审稿人。",
-      "lastUpdatedAt": "2026-04-08T08:13:50.214Z"
+      "lastUpdatedAt": "2026-04-14T04:13:56.178Z"
     },
     {
       "id": "EOEKFGDB",
@@ -3699,16 +3699,34 @@
       "creditHours": "2",
       "department": "地球与行星科学学院",
       "targetAudience": "全校学生",
-      "speaker": "",
+      "speaker": "周新郢",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8554/view",
-      "startTimestamp": 1779946200000,
-      "endTimestamp": 1779952800000,
-      "rawTimeStr": "2026-05-28 13:30-15:20",
+      "startTimestamp": 1779773400000,
+      "endTimestamp": 1779780000000,
+      "rawTimeStr": "2026-05-26 13:30-15:20",
       "mainVenue": "雁栖湖 - 教二楼127",
       "parallelVenue": "",
       "introduction": "周新郢，中国科学院古脊椎动物与古人类研究所研究员，兼任古环境演化研究室主任及学术委员会委员。主要从事晚更新世人类活动与环境过程的跨学科研究，聚焦农业起源、植被演替与气候变化等领域。以第一或通讯作者在Nature Plants、Science Bulletin、Journal of Genetics and Genomics等期刊发表论文30余篇。现为中国科学院青年促进会优秀会员、中国第四纪研究会生态系统演变专业委员会委员、科技考古研究会委员。",
-      "lastUpdatedAt": "2026-04-08T08:13:50.214Z"
+      "lastUpdatedAt": "2026-04-14T04:13:56.178Z"
+    },
+    {
+      "id": "CLBKBMNK",
+      "seriesName": "第四纪地质学前沿进展",
+      "title": "古增温事件的典型范例：PETM 的成因、影响与启示",
+      "creditHours": "2",
+      "department": "地球与行星科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "陈祚伶",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8555/view",
+      "startTimestamp": 1779946200000,
+      "endTimestamp": 1779952800000,
+      "rawTimeStr": "2026-05-28 13:30-15:20",
+      "mainVenue": "雁栖湖 - 教二楼118",
+      "parallelVenue": "",
+      "introduction": "陈祚伶，中国科学院地质与地球物理研究所研究员。主要从事新生代重大古气候事件与碳循环研究，聚焦古新世-始新世极热事件（PETM）的碳循环、气候响应及大陆硅酸盐风化作用。主持国家自然科学基金面上项目、青年基金、国家重点研发计划课题及中科院先导专项B类课题等国家级项目4项，参与国家重点研发计划、中科院先导专项A/B类等部委级项目3项。以第一作者或通讯作者在Communications Earth & Environment、Geology、Geophysical Research Letters等期刊发表论文20余篇，研究成果揭示PETM时期碳循环、气候变化与风化作用的千年尺度耦合关系。",
+      "lastUpdatedAt": "2026-04-14T04:13:52.187Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-14T04:13:56.182Z",
-  "total": 207,
+  "generatedAt": "2026-04-14T07:14:00.879Z",
+  "total": 211,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -2451,6 +2451,24 @@
       "lastUpdatedAt": "2026-04-14T02:13:53.836Z"
     },
     {
+      "id": "DLDOIBBH",
+      "seriesName": "再生医学科学前沿讲座",
+      "title": "再生与衰老的代谢调控",
+      "creditHours": "2",
+      "department": "医学院",
+      "targetAudience": "全校学生",
+      "speaker": "黄仕强",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8613/view",
+      "startTimestamp": 1776327300000,
+      "endTimestamp": 1776329400000,
+      "rawTimeStr": "2026-04-16 16:15-16:50",
+      "mainVenue": "雁栖湖 - 教二楼223",
+      "parallelVenue": "",
+      "introduction": "妊娠引起女性代谢的剧烈变化。然而，人们对这种复杂的代谢重编程仍然知之甚少，尤其是在灵长类动物中的胸腺萎缩及胎盘介导的免疫耐受。我们利用食蟹猴构建了一个全面的多组织代谢组图谱，分析了23个妊娠期母体组织的273个样本。我们发现，随着妊娠的进展，组织之间的代谢耦合会下降。在灵长类动物怀孕期间，核心代谢通路会重新连接，包括类固醇生成、脂肪酸代谢、以及花生四烯酸代谢。我们的图谱显示23种组织的91种妊娠适应性代谢产物持续变化，我们在人体细胞模型和患者样本中验证了其作用。皮质酮和棕榈酰肉碱分别调节胎盘成熟和母体组织祖细胞，与母体先兆子痫、糖尿病、心肌肥大以及肌肉和肝脏再生有关。此外，我们发现皮质酮缺乏会导致先兆子痫等疾病，因此图谱具有一定的临床价值。综上所述，我们的多组织代谢组图谱可以帮助阐明代谢调节在女性孕期健康中作用。",
+      "lastUpdatedAt": "2026-04-14T07:13:52.540Z"
+    },
+    {
       "id": "CIOJFMFC",
       "seriesName": "高灵敏可穿戴传感器及人工智能深度学习的新进展",
       "title": "生成式网络最新进展及未来展望",
@@ -2629,6 +2647,24 @@
       "parallelVenue": "",
       "introduction": "本报告围绕类脑视觉成像芯片的研发与突破展开，团队采用异质集成核心技术，成功研制出高灵敏度、小像素尺寸的TFT与CMOS架构光电阵列芯片，有效解决了传统成像芯片灵敏度与像素密度难以兼顾的技术痛点。基于非平衡载流子调控机制，团队进一步开发出可模拟神经突触行为的光电突触器件，依托该器件构建出大规模类脑视觉成像640×512阵列芯片。团队实现了国际首创的“感存算一体”单帧运动矢量成像功能，无需多帧图像叠加，仅凭单帧图像即可快速提取目标的轨迹、速度、加速度等完整运动参数，核心性能指标表现优异，数据压缩比达到300:1，运动识别准确率达到100%，大幅超越传统成像芯片的处理效率。该类脑视觉成像芯片技术有望推动自动驾驶、无人机导航、具身智能、视觉脑机接口等领域的视觉动态图像处理技术实现革命性突破。",
       "lastUpdatedAt": "2026-04-10T07:13:49.525Z"
+    },
+    {
+      "id": "BCNNLEBI",
+      "seriesName": "生命科学前沿讲座",
+      "title": "下丘脑发育、功能和疾病",
+      "creditHours": "3",
+      "department": "生命科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "吴青峰",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8607/view",
+      "startTimestamp": 1776403800000,
+      "endTimestamp": 1776412800000,
+      "rawTimeStr": "2026-04-17 13:30-16:00",
+      "mainVenue": "雁栖湖 - 教二楼123",
+      "parallelVenue": "",
+      "introduction": "细胞科学前沿",
+      "lastUpdatedAt": "2026-04-14T07:13:52.540Z"
     },
     {
       "id": "LFCEINHM",
@@ -2991,6 +3027,24 @@
       "lastUpdatedAt": "2026-03-19T05:44:08.002Z"
     },
     {
+      "id": "KFNDLBKJ",
+      "seriesName": "再生医学科学前沿讲座",
+      "title": "发育与再生的原理",
+      "creditHours": "2",
+      "department": "医学院",
+      "targetAudience": "全校学生",
+      "speaker": "刘长梅",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8615/view",
+      "startTimestamp": 1776759300000,
+      "endTimestamp": 1776765000000,
+      "rawTimeStr": "2026-04-21 16:15-17:50",
+      "mainVenue": "雁栖湖 - 教二楼123",
+      "parallelVenue": "",
+      "introduction": "发育与再生的原理",
+      "lastUpdatedAt": "2026-04-14T07:13:52.540Z"
+    },
+    {
       "id": "IJEGFLPJ",
       "seriesName": "合成孔径雷达理论、应用与进展",
       "title": "合成孔径雷达原理",
@@ -3277,6 +3331,24 @@
       "parallelVenue": "",
       "introduction": "本讲座系统讲解我国农牧业发展的重大战略与历史沿革，重点分析18亿亩耕地红线、耕地占补平衡、生态保护红线、草场承包到户等核心政策的实施背景与发展脉络。课程深入探讨战略落地特征及影响，为理解中国农牧业可持续发展提供专业视角。",
       "lastUpdatedAt": "2026-03-26T03:13:45.287Z"
+    },
+    {
+      "id": "KDIBACPN",
+      "seriesName": "再生医学科学前沿讲座",
+      "title": "基因编辑技术",
+      "creditHours": "2",
+      "department": "医学院",
+      "targetAudience": "全校学生",
+      "speaker": "王皓毅",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8616/view",
+      "startTimestamp": 1776932100000,
+      "endTimestamp": 1776937800000,
+      "rawTimeStr": "2026-04-23 16:15-17:50",
+      "mainVenue": "雁栖湖 - 教二楼121",
+      "parallelVenue": "",
+      "introduction": "基因编辑技术",
+      "lastUpdatedAt": "2026-04-14T07:13:52.540Z"
     },
     {
       "id": "GACJABIJ",

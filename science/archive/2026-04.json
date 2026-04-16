@@ -3040,5 +3040,23 @@
     "parallelVenue": "玉泉路 - 教学楼阶一2",
     "introduction": "讲座摘要：医疗机器人正在从早期缓慢被医生和患者接受认可、到目前逐渐加快进入我们的生活空间，发展潜力巨大。但医疗机器人的普及应用仍然面临诸多挑战，例如，高效、可靠、安全的人工智能交互与控制是阻碍其发展的一个重要挑战。结合多模态生物信号的获取、处理和脑机接口、人机安全，阐述医疗机器人在相关领域应用的挑战，及对未来发展的思考与展望。 \n\n嘉宾简介：中国科学院自动化研究所研究员，博士生导师，IEEE/CAA Fellow。担任中国自动化学会副理事长、CCF智能机器人专业委员会主任、中国康复医学会智能康复专业委员会副主任等，是亚太神经网络学会(APNNS)副理事长，还担任《IEEE Transactions on Neural Networks and Learning Systems》、《IEEE Transactions on Cybernetics》等期刊编委。获国家自然科学二等奖、北京市自然科学一等奖、杨家墀科技奖等，还获得国际神经网络学会(INNS)丹尼斯·甘伯奖等。",
     "lastUpdatedAt": "2026-04-15T02:13:53.422Z"
+  },
+  {
+    "id": "MGOODBEN",
+    "seriesName": "工程科学学院科学前沿讲座",
+    "title": "Shallow and Deep Neural Network Approximations",
+    "creditHours": "2",
+    "department": "工程科学学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8618/view",
+    "startTimestamp": 1776844800000,
+    "endTimestamp": 1776850200000,
+    "rawTimeStr": "2026-04-22 16:00-17:30",
+    "mainVenue": "雁栖湖 - 教三楼307",
+    "parallelVenue": "",
+    "introduction": "报告人简介：\nN. Sukumar is a professor at the University of California, Davis, in the U.S. Sukumar has published 105 peer-reviewed articles in major international journals with 17650 citations, leading to an h-index of 53 (Source: Google Scholar). His research foci over the past decade has been on novel discretization methods (such as virtual element methods) on polytopal meshes, smooth maximum entropy approximation schemes, construction of high-order cubature rules over polytopes and curved geometries, and new methods development to solve the Kohn-Sham equations of density functional theory. A recent emphasis is on applying deep learning to solve partial differential equations over complex geometries.\n\n报告内容：\nIn scientific machine learning (SciML), physics-informed neural networks has become a powerful and emerging construct to solve systems of ordinary and partial differential equations. Underlying SciML are neural networks, which are nonlinear approximations.  In this lecture, I will introduce the essential concepts that underlie the building blocks of neural networks. To solve differential equations with PINNs, the use of shallow and deep neural networks (fully-connected feedforward multilayer perceptron, MLP) will be discussed.",
+    "lastUpdatedAt": "2026-04-16T01:13:55.374Z"
   }
 ]

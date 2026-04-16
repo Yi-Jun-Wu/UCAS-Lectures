@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-15T02:13:55.699Z",
-  "total": 212,
+  "generatedAt": "2026-04-16T01:13:57.733Z",
+  "total": 213,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3259,6 +3259,24 @@
       "parallelVenue": "",
       "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
       "lastUpdatedAt": "2026-04-14T03:13:55.311Z"
+    },
+    {
+      "id": "MGOODBEN",
+      "seriesName": "工程科学学院科学前沿讲座",
+      "title": "Shallow and Deep Neural Network Approximations",
+      "creditHours": "2",
+      "department": "工程科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8618/view",
+      "startTimestamp": 1776844800000,
+      "endTimestamp": 1776850200000,
+      "rawTimeStr": "2026-04-22 16:00-17:30",
+      "mainVenue": "雁栖湖 - 教三楼307",
+      "parallelVenue": "",
+      "introduction": "报告人简介：\nN. Sukumar is a professor at the University of California, Davis, in the U.S. Sukumar has published 105 peer-reviewed articles in major international journals with 17650 citations, leading to an h-index of 53 (Source: Google Scholar). His research foci over the past decade has been on novel discretization methods (such as virtual element methods) on polytopal meshes, smooth maximum entropy approximation schemes, construction of high-order cubature rules over polytopes and curved geometries, and new methods development to solve the Kohn-Sham equations of density functional theory. A recent emphasis is on applying deep learning to solve partial differential equations over complex geometries.\n\n报告内容：\nIn scientific machine learning (SciML), physics-informed neural networks has become a powerful and emerging construct to solve systems of ordinary and partial differential equations. Underlying SciML are neural networks, which are nonlinear approximations.  In this lecture, I will introduce the essential concepts that underlie the building blocks of neural networks. To solve differential equations with PINNs, the use of shallow and deep neural networks (fully-connected feedforward multilayer perceptron, MLP) will be discussed.",
+      "lastUpdatedAt": "2026-04-16T01:13:55.374Z"
     },
     {
       "id": "DBHHOJAO",

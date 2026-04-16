@@ -3076,5 +3076,23 @@
     "parallelVenue": "",
     "introduction": "本次报告聚焦人工智能时代数据安全防护面临的困境与应对之道。数字水印作为数据安全防护的技术之一，是版权认证与追踪溯源的核心手段。随着生成式AI的崛起，传统水印方法在保真度、鲁棒性和模型溯源方面面临严峻挑战。我们通过研究发现：相对关系比绝对特征更稳定，在生成编辑和模型修改下可保持内在不变性。基于这一洞察，报告将介绍团队的几项最新成果：面向扩散模型的零水印、抗图像编辑的零水印、面向图数据的解耦水印，以及模型血缘认证技术。展示从“保护内容”到“保护模型”的技术演进，为人工智能时代的知识产权保护提供新思路。\n主讲人：古晓艳，中国科学院信息工程研究所正高级工程师、博士生导师，网络空间安全防御全国重点实验室课题组组长。长期面向国家网络空间安全重大战略需求，聚焦人工智能数据安全防护开展了深入的研究。主持国家重大任务课题、中国科学院战略性先导科技专项课题等10余项，在TIP、TIFS、TSC、TMC、USENIX Security、NeurIPS、CVPR、ICCV、ICDE、WWW、AAAI等重要国际期刊和会议上发表论文90余篇，申请专利30余项，作为通讯作者获国际会议ACM ICMR 2019唯一最佳学生论文奖，获2021年度公安部科学技术奖一等奖。入选中国科协青年人才培育工程，并获启元国家实验室创新人才项目支持，获评中央和国家机关“四好”党员。",
     "lastUpdatedAt": "2026-04-16T02:13:49.278Z"
+  },
+  {
+    "id": "OIDNNHBC",
+    "seriesName": "材料科学与工程前沿系列讲座",
+    "title": "Stretching fractal polymer near a disc reveals Kardar-Parisi-Zhang-like statistics",
+    "creditHours": "2",
+    "department": "材料科学与光电技术学院",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8619/view",
+    "startTimestamp": 1776922200000,
+    "endTimestamp": 1776927900000,
+    "rawTimeStr": "2026-04-23 13:30-15:05",
+    "mainVenue": "雁栖湖 - 教三楼204",
+    "parallelVenue": "",
+    "introduction": "报告人简介\nSerguei Nechaev graduated in 1985 from the Department of Physics at Moscow State University. From 1991 to 2007, he was affiliated with the Landau Institute for Theoretical Physics. Since 2008, he has been working in France, where he currently holds the position of Director of Research at CNRS (National Center for Scientific Research, France). He is based at the LPTMS (Laboratory of Theoretical Physics and Statistical Models), a laboratory affiliated with both CNRS and the University of Paris-Saclay. From 2015 to 2022, He served as the Director of the Interdisciplinary Scientific Center Poncelet, an International Research Laboratory of CNRS, located at the Independent University of Moscow (Moscow, Russia). He has authored more than 150 scientific publications in Web of Science journals. His current scientific interests  belong to statistical physics and topology of random walks, disordered systems, collective effects and phase transitions in networks.\n\n报告摘要\nBy stretching the fractal polymer near the boundary of a disc, one pushes the system into the large deviation regime with anomalous fluctuations. Using the \"optimal fluctuational approach\" I derive the scaling exponent governing the fluctuations of stretched random walk near the disc boundary and show that the \"first return probability\" behaves identically to the Donsker-Varadhan survival probability of 1D random walk in array of traps with the Poisson distribution. This allows one to conjecture that in large-deviation regime the curved boundary could play the same role as the disorder. Manifestation of the found behavior in diffusion of tracer in corrugated channels will be discussed.",
+    "lastUpdatedAt": "2026-04-16T03:13:55.370Z"
   }
 ]

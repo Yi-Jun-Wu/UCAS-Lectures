@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-16T03:13:57.744Z",
-  "total": 215,
+  "generatedAt": "2026-04-16T06:14:06.571Z",
+  "total": 219,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -2901,6 +2901,24 @@
       "lastUpdatedAt": "2026-04-02T03:13:38.381Z"
     },
     {
+      "id": "AIDKFBKH",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "硅锗量子结构中的量子现象",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8622/view",
+      "startTimestamp": 1776645000000,
+      "endTimestamp": 1776650400000,
+      "rawTimeStr": "2026-04-20 08:30-10:00",
+      "mainVenue": "雁栖湖 - 教二楼225",
+      "parallelVenue": "",
+      "introduction": "第一代半导体硅锗材料是信息时代的基石，催生了计算机、手机以及整个互联网经济，基于第一代半导体材料诞生了5项诺贝尔奖；其中晶体管及集成电路的发明是硅材料取得大规模应用的基础；基于硅MOSFET低温观测到的整数量子霍尔效应是第一代半导体材料在量子科技领域的另一项重大成果，后续又陆续发现了分数化量子霍尔效应，以及石墨烯中的量子霍尔效应等重大发现，基于量子化的霍尔效应也被认为是凝聚态物理领域基础研究领域的重大科技成果。随着摩尔定律逼近物理极限，基于第一代半导体硅锗材料的量子计算被认为是后摩尔时代重要科研方向。",
+      "lastUpdatedAt": "2026-04-16T06:13:56.608Z"
+    },
+    {
       "id": "MKNKGEAE",
       "seriesName": "冰冻圈遥感监测进展与展望、微波光子雷达/光量子雷达技术",
       "title": "积雪遥感方法与展望",
@@ -2935,6 +2953,24 @@
       "parallelVenue": "",
       "introduction": "\"本报告以“From quantum secure communication to the quantum internet”为主题，系统介绍量子信息科学的核心方向——量子通信与量子计算。首先，从量子密码学出发，阐述量子密钥分发（QKD）在远距离安全通信中的基本原理及其速率受信道损耗限制的挑战；进一步介绍突破线性速率极限的双场QKD（TF-QKD）及其实验复杂性问题。针对实际应用瓶颈，报告将重点讲解两类解决方案：基于本征频率梳的开放信道稳定技术[1-2]，以及基于后选择配对的测量设备无关QKD方案[3-5]，从而实现高性能、低成本的量子网络。与此同时，报告还将简要介绍量子计算的基本知识及其与量子通信在未来量子互联网中的协同作用。最后，将介绍北京量子信息科学研究院在量子通信、量子计算与量子网络领域的研究布局与代表性进展。\n\n[1] Nature Communications 14, 928 (2023).\n[2] Physical Review Applied 22(6), 064057 (2024).\n[3] Physical Review Letters 130, 250801 (2023).\n[4] Quantum Science and Technology, 10(1), 015046 (2024).\n[5] Physical Review X 15 (2), 021066 (2025).",
       "lastUpdatedAt": "2026-04-03T01:13:49.359Z"
+    },
+    {
+      "id": "JFABALIH",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "面向精准健康的人群队列数据与模型基座建设",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8620/view",
+      "startTimestamp": 1776651900000,
+      "endTimestamp": 1776657600000,
+      "rawTimeStr": "2026-04-20 10:25-12:00",
+      "mainVenue": "雁栖湖 - 教二楼225",
+      "parallelVenue": "",
+      "introduction": "人群队列数据是生命健康研究与发展的重要支撑，更是国际精准医学战略竞争的焦点。为弥补我国在该领域的资源短板，我们构建了中国人群队列大数据平台，整合国内优质自然人群队列数据、肿瘤队列数据及非癌慢病队列数据，通过开展系统的数据清洗与专业的语料加工，形成高质量的人群队列数据集与语料集，研发基座模型，全面赋能生命健康领域的研究与产业高质量发展。",
+      "lastUpdatedAt": "2026-04-16T06:13:56.608Z"
     },
     {
       "id": "LMGPCDCM",
@@ -3288,13 +3324,13 @@
       "speaker": "",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8618/view",
-      "startTimestamp": 1776844800000,
-      "endTimestamp": 1776850200000,
-      "rawTimeStr": "2026-04-22 16:00-17:30",
+      "startTimestamp": 1776845700000,
+      "endTimestamp": 1776851100000,
+      "rawTimeStr": "2026-04-22 16:15-17:45",
       "mainVenue": "雁栖湖 - 教三楼307",
       "parallelVenue": "",
       "introduction": "报告人简介：\nN. Sukumar is a professor at the University of California, Davis, in the U.S. Sukumar has published 105 peer-reviewed articles in major international journals with 17650 citations, leading to an h-index of 53 (Source: Google Scholar). His research foci over the past decade has been on novel discretization methods (such as virtual element methods) on polytopal meshes, smooth maximum entropy approximation schemes, construction of high-order cubature rules over polytopes and curved geometries, and new methods development to solve the Kohn-Sham equations of density functional theory. A recent emphasis is on applying deep learning to solve partial differential equations over complex geometries.\n\n报告内容：\nIn scientific machine learning (SciML), physics-informed neural networks has become a powerful and emerging construct to solve systems of ordinary and partial differential equations. Underlying SciML are neural networks, which are nonlinear approximations.  In this lecture, I will introduce the essential concepts that underlie the building blocks of neural networks. To solve differential equations with PINNs, the use of shallow and deep neural networks (fully-connected feedforward multilayer perceptron, MLP) will be discussed.",
-      "lastUpdatedAt": "2026-04-16T01:13:55.374Z"
+      "lastUpdatedAt": "2026-04-16T06:14:01.812Z"
     },
     {
       "id": "DBHHOJAO",
@@ -3385,6 +3421,42 @@
       "parallelVenue": "",
       "introduction": "报告人简介\nSerguei Nechaev graduated in 1985 from the Department of Physics at Moscow State University. From 1991 to 2007, he was affiliated with the Landau Institute for Theoretical Physics. Since 2008, he has been working in France, where he currently holds the position of Director of Research at CNRS (National Center for Scientific Research, France). He is based at the LPTMS (Laboratory of Theoretical Physics and Statistical Models), a laboratory affiliated with both CNRS and the University of Paris-Saclay. From 2015 to 2022, He served as the Director of the Interdisciplinary Scientific Center Poncelet, an International Research Laboratory of CNRS, located at the Independent University of Moscow (Moscow, Russia). He has authored more than 150 scientific publications in Web of Science journals. His current scientific interests  belong to statistical physics and topology of random walks, disordered systems, collective effects and phase transitions in networks.\n\n报告摘要\nBy stretching the fractal polymer near the boundary of a disc, one pushes the system into the large deviation regime with anomalous fluctuations. Using the \"optimal fluctuational approach\" I derive the scaling exponent governing the fluctuations of stretched random walk near the disc boundary and show that the \"first return probability\" behaves identically to the Donsker-Varadhan survival probability of 1D random walk in array of traps with the Poisson distribution. This allows one to conjecture that in large-deviation regime the curved boundary could play the same role as the disorder. Manifestation of the found behavior in diffusion of tracer in corrugated channels will be discussed.",
       "lastUpdatedAt": "2026-04-16T03:13:55.370Z"
+    },
+    {
+      "id": "AOJMLOFD",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "后摩尔时代新器件基础研究",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "王振兴",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8621/view",
+      "startTimestamp": 1776922200000,
+      "endTimestamp": 1776927600000,
+      "rawTimeStr": "2026-04-23 13:30-15:00",
+      "mainVenue": "雁栖湖 - 教二楼123",
+      "parallelVenue": "",
+      "introduction": "集成电路作为现代信息社会的基石，是推动数字经济发展的战略性产业。长期以来，晶体管尺寸微缩是驱动集成电路性能提升的核心技术。然而，随着工艺节点逼近物理极限，传统技术路线正面临材料瓶颈、量子效应、热耗散难题等多重挑战。在此背景下，以新材料体系、新器件原理、新计算架构为特征的后摩尔技术，正在开辟集成电路发展的新路径。本次汇报将系统介绍团队在后摩尔电子器件领域研究进展，重点涵盖以下内容：（1）非硅新材料：二维半导体晶圆制备、有机自旋电子材料；（2）非冯计算范式的新器件：自旋晶体管、神经形态器件、存算一体单元；（3）集成工艺的新方法：原子制造、极限加工、三维集成等。最后，展望未来，探讨如何推动后摩尔器件从实验室走向大规模应用。",
+      "lastUpdatedAt": "2026-04-16T06:13:56.608Z"
+    },
+    {
+      "id": "JHCCKKHM",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "多模态遥感智能解译基础模型：从方法到实践",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "孙显",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8623/view",
+      "startTimestamp": 1776922200000,
+      "endTimestamp": 1776927600000,
+      "rawTimeStr": "2026-04-23 13:30-15:00",
+      "mainVenue": "雁栖湖 - 教二楼127",
+      "parallelVenue": "",
+      "introduction": "随着商业航天和低空经济的发展，遥感智能成为交叉创新的研究热点，尤其是遥感基础模型已是技术趋势。本报告阐述了遥感基础模型构建过程中面临的数据、模型、任务等方法挑战，包括如何结合成像机理设计网络结构、如何将任务和知识嵌入下游任务学习，如何有效构建高质量样本数据集，实现对遥感图像解译从地物要素提取到演化规律推理的能力提升，并介绍了遥感基础模型在多个行业领域的典型应用实践案例。",
+      "lastUpdatedAt": "2026-04-16T06:13:56.608Z"
     },
     {
       "id": "KDIBACPN",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T04:13:51.335Z",
-  "total": 237,
+  "generatedAt": "2026-04-17T08:13:57.483Z",
+  "total": 240,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3009,6 +3009,24 @@
       "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
     },
     {
+      "id": "GAFHBICE",
+      "seriesName": "科技考古前沿讲座",
+      "title": "人工智能的若干应用",
+      "creditHours": "3",
+      "department": "人文学院",
+      "targetAudience": "全校研究生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8638/view",
+      "startTimestamp": 1776668400000,
+      "endTimestamp": 1776675600000,
+      "rawTimeStr": "2026-04-20 15:00-17:00",
+      "mainVenue": "玉泉路 - 人文楼教一1",
+      "parallelVenue": "",
+      "introduction": "人工智能驱动的科研范式变革日新月异，正在各学科领域深度渗透，同时人工智能也已深度融入?千行百业?，涵盖医疗、制造、金融、交通、考古等诸多领域，并在 “人工智能+\"行动推动下加速规模化应用。报告将介绍人工智能的应用现状，分析典型应用场景，并展望未来趋势。",
+      "lastUpdatedAt": "2026-04-17T08:13:50.495Z"
+    },
+    {
       "id": "NDNFIAKE",
       "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
       "title": "AI驱动的粒子物理前沿研究；抢占科技制高点——大科学装置数据与智能前沿交叉创新",
@@ -3927,6 +3945,24 @@
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
     },
     {
+      "id": "BOIALCMH",
+      "seriesName": "再生医学科学前沿讲座",
+      "title": "干细胞前沿与伦理争议",
+      "creditHours": "2",
+      "department": "医学院",
+      "targetAudience": "全校学生",
+      "speaker": "彭耀进",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8639/view",
+      "startTimestamp": 1777364100000,
+      "endTimestamp": 1777369800000,
+      "rawTimeStr": "2026-04-28 16:15-17:50",
+      "mainVenue": "雁栖湖 - 教二楼123",
+      "parallelVenue": "",
+      "introduction": "干细胞前沿与伦理争议",
+      "lastUpdatedAt": "2026-04-17T08:13:50.495Z"
+    },
+    {
       "id": "BIBNJCFD",
       "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
       "title": "CAX一体化算法创新与EDA先行实践",
@@ -4069,6 +4105,24 @@
       "parallelVenue": "",
       "introduction": "低温科学与技术全国重点实验室依托中国科学院理化技术研究所建设，是我国低温领域唯一的全国重点实验室，也是我国唯一的综合性低温科研机构。实验室开创了我国低温科技事业，历史上为突破国防尖端技术、奠定共和国国防安全体系基石做出了重要贡献。近年来，面向量子科技这一国家重大战略需求，实验室在热力学温度量子计量关键方法与技术、低温关键材料、极低温超流传输理论、极低温制冷关键技术、超大型稀释制冷系统关键技术等方面取得一系列具有代表性的创新成果。报告将围绕实验室使命定位与发展目标、代表性成果贡献与创新效能、队伍建设与人才培养等方面展开介绍，全面展示实验室在服务国家量子科技战略需求、推动低温科学前沿发展和关键技术突破、以及人才培养中的整体布局与建设进展。",
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
+    },
+    {
+      "id": "KPOEBJGB",
+      "seriesName": "再生医学科学前沿讲座",
+      "title": "器官制造与功能模拟",
+      "creditHours": "2",
+      "department": "医学院",
+      "targetAudience": "全校学生",
+      "speaker": "顾奇",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8640/view",
+      "startTimestamp": 1777536900000,
+      "endTimestamp": 1777542600000,
+      "rawTimeStr": "2026-04-30 16:15-17:50",
+      "mainVenue": "雁栖湖 - 教二楼121",
+      "parallelVenue": "",
+      "introduction": "器官制造与功能模拟",
+      "lastUpdatedAt": "2026-04-17T08:13:50.494Z"
     },
     {
       "id": "NICOGPBN",

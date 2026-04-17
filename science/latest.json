@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T08:13:57.483Z",
+  "generatedAt": "2026-04-17T09:13:48.425Z",
   "total": 240,
   "lectures": [
     {
@@ -3021,10 +3021,10 @@
       "startTimestamp": 1776668400000,
       "endTimestamp": 1776675600000,
       "rawTimeStr": "2026-04-20 15:00-17:00",
-      "mainVenue": "玉泉路 - 人文楼教一1",
+      "mainVenue": "主会场：玉泉路 - 人文楼教一1",
       "parallelVenue": "",
       "introduction": "人工智能驱动的科研范式变革日新月异，正在各学科领域深度渗透，同时人工智能也已深度融入?千行百业?，涵盖医疗、制造、金融、交通、考古等诸多领域，并在 “人工智能+\"行动推动下加速规模化应用。报告将介绍人工智能的应用现状，分析典型应用场景，并展望未来趋势。",
-      "lastUpdatedAt": "2026-04-17T08:13:50.495Z"
+      "lastUpdatedAt": "2026-04-17T09:13:48.421Z"
     },
     {
       "id": "NDNFIAKE",
@@ -3957,10 +3957,10 @@
       "startTimestamp": 1777364100000,
       "endTimestamp": 1777369800000,
       "rawTimeStr": "2026-04-28 16:15-17:50",
-      "mainVenue": "雁栖湖 - 教二楼123",
+      "mainVenue": "主会场：雁栖湖 - 教二楼123",
       "parallelVenue": "",
       "introduction": "干细胞前沿与伦理争议",
-      "lastUpdatedAt": "2026-04-17T08:13:50.495Z"
+      "lastUpdatedAt": "2026-04-17T09:13:48.421Z"
     },
     {
       "id": "BIBNJCFD",
@@ -4119,10 +4119,10 @@
       "startTimestamp": 1777536900000,
       "endTimestamp": 1777542600000,
       "rawTimeStr": "2026-04-30 16:15-17:50",
-      "mainVenue": "雁栖湖 - 教二楼121",
+      "mainVenue": "主会场：雁栖湖 - 教二楼121 分会场： -",
       "parallelVenue": "",
       "introduction": "器官制造与功能模拟",
-      "lastUpdatedAt": "2026-04-17T08:13:50.494Z"
+      "lastUpdatedAt": "2026-04-17T09:13:48.421Z"
     },
     {
       "id": "NICOGPBN",

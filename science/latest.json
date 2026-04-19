@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T11:13:46.182Z",
-  "total": 241,
+  "generatedAt": "2026-04-19T03:13:54.482Z",
+  "total": 244,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3171,6 +3171,24 @@
       "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
     },
     {
+      "id": "OJDBLECI",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "世界模型驱动的人工智能",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "山世光",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8641/view",
+      "startTimestamp": 1776756300000,
+      "endTimestamp": 1776762000000,
+      "rawTimeStr": "2026-04-21 15:25-17:00",
+      "mainVenue": "雁栖湖 - 教二楼107",
+      "parallelVenue": "",
+      "introduction": "报告将在分析当前AI进展的基础上，探讨人类智能和当今机器智能在基本原理上的巨大差异，讨论多模态体验驱动的物理常识学习对直觉智能形成及逻辑智能增强的重要性，并论述世界模型对AI发展的重要性和关键技术路线。在此基础上介绍计算所在符号域、物理域、社会域等世界模型方向的布局规划和研究进展。",
+      "lastUpdatedAt": "2026-04-19T03:13:48.584Z"
+    },
+    {
       "id": "KFNDLBKJ",
       "seriesName": "再生医学科学前沿讲座",
       "title": "发育与再生的原理",
@@ -3339,24 +3357,6 @@
       "creditHours": "2",
       "department": "前沿交叉科学学院",
       "targetAudience": "全校学生",
-      "speaker": "山世光",
-      "isAppointmentRequired": false,
-      "sourceUrl": "/subject/8605/view",
-      "startTimestamp": 1776835800000,
-      "endTimestamp": 1776841200000,
-      "rawTimeStr": "2026-04-22 13:30-15:00",
-      "mainVenue": "主会场：雁栖湖 - 教二楼427",
-      "parallelVenue": "",
-      "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-      "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
-    },
-    {
-      "id": "KALICGDA",
-      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
-      "title": "人工智能与处理器芯片",
-      "creditHours": "2",
-      "department": "前沿交叉科学学院",
-      "targetAudience": "全校学生",
       "speaker": "胡瑜",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8605/view",
@@ -3366,10 +3366,10 @@
       "mainVenue": "主会场：雁栖湖 - 教二楼427",
       "parallelVenue": "",
       "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-      "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
+      "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
     },
     {
-      "id": "GCCOBDKC",
+      "id": "KALICGDA",
       "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
       "title": "人工智能与处理器芯片",
       "creditHours": "2",
@@ -3384,7 +3384,25 @@
       "mainVenue": "主会场：雁栖湖 - 教二楼427",
       "parallelVenue": "",
       "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-      "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
+      "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
+    },
+    {
+      "id": "GCCOBDKC",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "人工智能与处理器芯片",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "敖翔",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8605/view",
+      "startTimestamp": 1776835800000,
+      "endTimestamp": 1776841200000,
+      "rawTimeStr": "2026-04-22 13:30-15:00",
+      "mainVenue": "主会场：雁栖湖 - 教二楼427",
+      "parallelVenue": "",
+      "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
+      "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
     },
     {
       "id": "IGNAFOGL",
@@ -3799,6 +3817,42 @@
       "parallelVenue": "",
       "introduction": "硅像素探测器作为现代粒子物理实验的核心装置，与常规集成电路（IC）在物质基础与制造工艺上具有高度的同源性，两者均植根于半导体物理学，并深度依赖微电子平面工艺。随着CMOS工艺的演进，单片有源像素探测器（MAPS）将传感器阵列与信号处理电路集成于同一硅基底，实现了从“分立器件”向“系统级芯片”（SoC）的跨越。这种融合利用了常规IC的高集成度优势，极大地降低了探测器的物质量并提升了空间分辨率。两者的区别则体现了应用场景的极端化需求：常规IC侧重于逻辑运算的快速开关与高密度存储，通常工作在低压环境；而硅像素探测器则侧重于电荷转换与微弱信号感知，需通过高压偏置实现深耗尽区，以保证高探测效率。此外，面对大型强子对撞机等极端的辐射环境，硅像素探测器在设计上必须具备极强的“辐射硬化”能力，其抗辐照设计标准远超民用集成电路。综上所述，硅像素探测器是集成电路技术在极端物理环境下的延伸与重构。这种跨学科的融合不仅推动了超低噪声、高速时戳电路的发展，也为未来医疗成像与空间科学等领域的传感器革新提供了核心动力。",
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
+    },
+    {
+      "id": "BJEKGGFC",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+      "title": "数据驱动的化学材料智能创制",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8635/view",
+      "startTimestamp": 1777095000000,
+      "endTimestamp": 1777100400000,
+      "rawTimeStr": "2026-04-25 13:30-15:00",
+      "mainVenue": "雁栖湖 - 教二楼121",
+      "parallelVenue": "",
+      "introduction": "“人工智能+”技术在化学材料创制领域的发展和应用是推动化学发现和材料研发范式变革的重要机遇。我们将分别从“AI+化学材料“发展趋势、国内外研究现状、中国科学院化学研究所规划和研究进展等方面展开汇报。",
+      "lastUpdatedAt": "2026-04-19T03:13:48.584Z"
+    },
+    {
+      "id": "HPPFPGPD",
+      "seriesName": "第二届急需紧缺领域学科交叉高端论坛——集成电路分论坛",
+      "title": "低功耗人工智能芯片进展",
+      "creditHours": "2",
+      "department": "前沿交叉科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "乔树山",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8637/view",
+      "startTimestamp": 1777101900000,
+      "endTimestamp": 1777107600000,
+      "rawTimeStr": "2026-04-25 15:25-17:00",
+      "mainVenue": "雁栖湖 - 教二楼123",
+      "parallelVenue": "",
+      "introduction": "在回顾处理器发展简史的基础上，简要介绍AI处理器的发展历史及现状。交叉融合低功耗集成电路设计以及人工智能计算，介绍中国科学院微电子研究所智能感知芯片与系统研发中心在低功耗人工智能芯片方向上的主要研究内容以及成果，并进一步介绍现阶段在AI芯片设计方向上的布局及研究平台。",
+      "lastUpdatedAt": "2026-04-19T03:13:48.584Z"
     },
     {
       "id": "GFABKBOF",

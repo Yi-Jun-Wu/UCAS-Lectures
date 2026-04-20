@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T02:14:00.772Z",
+  "generatedAt": "2026-04-20T03:13:50.412Z",
   "total": 248,
   "lectures": [
     {
@@ -4047,10 +4047,10 @@
       "startTimestamp": 1777354200000,
       "endTimestamp": 1777363800000,
       "rawTimeStr": "2026-04-28 13:30-16:10",
-      "mainVenue": "雁栖湖 - 教二楼418",
+      "mainVenue": "主会场：雁栖湖 - 教二楼418",
       "parallelVenue": "",
       "introduction": "介绍线聚焦太阳能热发电技术的基本原理和系统组成，讲解国内外太阳能热发电技术发展历程及其最新前沿技术。",
-      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
+      "lastUpdatedAt": "2026-04-20T03:13:50.407Z"
     },
     {
       "id": "BOIALCMH",
@@ -4299,10 +4299,10 @@
       "startTimestamp": 1778563800000,
       "endTimestamp": 1778573400000,
       "rawTimeStr": "2026-05-12 13:30-16:10",
-      "mainVenue": "雁栖湖 - 教二楼418",
+      "mainVenue": "主会场：雁栖湖 - 教二楼418",
       "parallelVenue": "",
       "introduction": "分别介绍槽式太阳能热发电站和线性菲涅尔太阳能热发电站中聚光器能流密度仿真模拟，集热管光-热-力耦合建模模拟，储换热系统仿真、电站系统仿真及其性能测试验证。",
-      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
+      "lastUpdatedAt": "2026-04-20T03:13:50.405Z"
     },
     {
       "id": "HPPDKOON",
@@ -4389,10 +4389,10 @@
       "startTimestamp": 1779168600000,
       "endTimestamp": 1779174300000,
       "rawTimeStr": "2026-05-19 13:30-15:05",
-      "mainVenue": "雁栖湖 - 教二楼418",
+      "mainVenue": "主会场：雁栖湖 - 教二楼418",
       "parallelVenue": "",
       "introduction": "案例分析——德令哈50MW太阳能热发电系统介绍，太阳资源典型年数据分析实例，电站系统发电量和经济性仿真技术。",
-      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
+      "lastUpdatedAt": "2026-04-20T03:13:50.405Z"
     },
     {
       "id": "LKLPOACJ",

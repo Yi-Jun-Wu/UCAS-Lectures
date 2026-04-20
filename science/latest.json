@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T03:13:50.412Z",
-  "total": 248,
+  "generatedAt": "2026-04-20T05:13:49.806Z",
+  "total": 249,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3817,6 +3817,24 @@
       "parallelVenue": "",
       "introduction": "详见海报",
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
+    },
+    {
+      "id": "PGDMPGNL",
+      "seriesName": "大气生物气溶胶的多维探索系列专题",
+      "title": "生物冰核：探寻大气成云降水过程中的“幕后推手”",
+      "creditHours": "3",
+      "department": "资源与环境学院",
+      "targetAudience": "全校研究生",
+      "speaker": "杜睿",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8646/view",
+      "startTimestamp": 1777026600000,
+      "endTimestamp": 1777035600000,
+      "rawTimeStr": "2026-04-24 18:30-21:00",
+      "mainVenue": "雁栖湖 - 教二楼105",
+      "parallelVenue": "",
+      "introduction": "生物气溶胶作为大气气溶胶的重要组成成分，不仅对人类健康具有重要影响，在环境与气候方面，生物气溶胶作为冰核参与云与降水的形成过程，某些微生物因具有较高的冰核活性可在较暖条件下活化，在人工影响天气催化剂的研究中展现出较大的应用潜力。此外，生物气溶胶与沙尘气溶胶的增加可能会导致大气污染，同时也可能会促进生物生产力，影响海洋碳吸收。本次报告通过探讨生物气溶胶作为云凝结核与冰核在云和降水的形成过程中的关键作用，分析不同类型的生物气溶胶对降水的分布等的影响，并结合云物理知识，阐述其在降水形成和气候变化中的间接作用机制。从而使同学们了解生物气溶胶的气候效应方面的科学研究进展状况。\n杜睿，1999年在中国科学院大气物理研究所获得博士学位，目前是中国科学院大学资源与环境学院教授。研究方向：主要围绕生物气溶胶在大气环境中的作用与生物气溶胶的环境监测方面的关键科学与技术问题开展研究。学术成绩：已主持五项国家自然基金面上项目，主持完成了中国科学院先导专项以及北京市基金等科研项目，已发表百余篇科学论文。主要成果发表在Soil biology & Biochemistry，Atmospheric\nEnvironment, Atmospheric Research, Science Bulletin, Environmental Microbiology等著名学术刊物。2019年荣获中国科学院“朱李月华优秀教师”奖",
+      "lastUpdatedAt": "2026-04-20T05:13:47.537Z"
     },
     {
       "id": "NDLLGPFA",

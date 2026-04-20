@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T04:13:37.331Z",
+  "generatedAt": "2026-04-20T02:13:35.500Z",
   "total": 76,
   "lectures": [
     {
@@ -1332,13 +1332,13 @@
       "speaker": "",
       "isAppointmentRequired": true,
       "sourceUrl": "/subject/7040/humanityView",
-      "startTimestamp": 1777275000000,
-      "endTimestamp": 1777282200000,
-      "rawTimeStr": "2026-04-27 15:30-17:30",
+      "startTimestamp": 1777460400000,
+      "endTimestamp": 1777467600000,
+      "rawTimeStr": "2026-04-29 19:00-21:00",
       "mainVenue": "主会场：雁栖湖 - 国际会议中心报告厅",
       "parallelVenue": "",
       "introduction": "从国家决策、以身许国、艰苦创业和大师风范四个方面再现20世纪五六十年代，面对严峻的国际形势，党中央高瞻远瞩，果断做出研制“两弹一星”的战略决策，以及“两弹一星”研制的艰辛历程和感人故事。报告有助于听众更加深刻地理解“两弹一星”精神，激发听众的爱国情、报国志和创新自信，激励广大科研人员在抢占科技制高点的征途上拼搏进取、团结协作、勇攀高峰。",
-      "lastUpdatedAt": "2026-04-17T04:13:37.327Z"
+      "lastUpdatedAt": "2026-04-20T02:13:35.491Z"
     },
     {
       "id": "JDIOFCAE",
@@ -1350,13 +1350,13 @@
       "speaker": "",
       "isAppointmentRequired": true,
       "sourceUrl": "/subject/7041/humanityView",
-      "startTimestamp": 1777275000000,
-      "endTimestamp": 1777282200000,
-      "rawTimeStr": "2026-04-27 15:30-17:30",
-      "mainVenue": "主会场：玉泉路 - 人文楼教一2",
+      "startTimestamp": 1777460400000,
+      "endTimestamp": 1777467600000,
+      "rawTimeStr": "2026-04-29 19:00-21:00",
+      "mainVenue": "主会场：玉泉路 - 人文楼报告厅",
       "parallelVenue": "",
       "introduction": "从国家决策、以身许国、艰苦创业和大师风范四个方面再现20世纪五六十年代，面对严峻的国际形势，党中央高瞻远瞩，果断做出研制“两弹一星”的战略决策，以及“两弹一星”研制的艰辛历程和感人故事。报告有助于听众更加深刻地理解“两弹一星”精神，激发听众的爱国情、报国志和创新自信，激励广大科研人员在抢占科技制高点的征途上拼搏进取、团结协作、勇攀高峰。",
-      "lastUpdatedAt": "2026-04-17T04:13:37.327Z"
+      "lastUpdatedAt": "2026-04-20T02:13:35.491Z"
     },
     {
       "id": "FCICAMKN",
@@ -1368,13 +1368,13 @@
       "speaker": "",
       "isAppointmentRequired": true,
       "sourceUrl": "/subject/7042/humanityView",
-      "startTimestamp": 1777275000000,
-      "endTimestamp": 1777282200000,
-      "rawTimeStr": "2026-04-27 15:30-17:30",
-      "mainVenue": "主会场：中关村 - 教学楼N210",
+      "startTimestamp": 1777460400000,
+      "endTimestamp": 1777467600000,
+      "rawTimeStr": "2026-04-29 19:00-21:00",
+      "mainVenue": "主会场：中关村 - 教学楼N208",
       "parallelVenue": "",
       "introduction": "从国家决策、以身许国、艰苦创业和大师风范四个方面再现20世纪五六十年代，面对严峻的国际形势，党中央高瞻远瞩，果断做出研制“两弹一星”的战略决策，以及“两弹一星”研制的艰辛历程和感人故事。报告有助于听众更加深刻地理解“两弹一星”精神，激发听众的爱国情、报国志和创新自信，激励广大科研人员在抢占科技制高点的征途上拼搏进取、团结协作、勇攀高峰。",
-      "lastUpdatedAt": "2026-04-17T04:13:37.327Z"
+      "lastUpdatedAt": "2026-04-20T02:13:35.491Z"
     }
   ]
 }

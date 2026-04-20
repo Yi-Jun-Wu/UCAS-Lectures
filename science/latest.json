@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T01:13:53.698Z",
-  "total": 245,
+  "generatedAt": "2026-04-20T02:14:00.772Z",
+  "total": 248,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -4035,6 +4035,24 @@
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
     },
     {
+      "id": "CHGGJIFO",
+      "seriesName": "太阳能热发电仿真技术",
+      "title": "线聚焦太阳能热发电技术及其发展现状",
+      "creditHours": "3",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "雷东强",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8643/view",
+      "startTimestamp": 1777354200000,
+      "endTimestamp": 1777363800000,
+      "rawTimeStr": "2026-04-28 13:30-16:10",
+      "mainVenue": "雁栖湖 - 教二楼418",
+      "parallelVenue": "",
+      "introduction": "介绍线聚焦太阳能热发电技术的基本原理和系统组成，讲解国内外太阳能热发电技术发展历程及其最新前沿技术。",
+      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
+    },
+    {
       "id": "BOIALCMH",
       "seriesName": "再生医学科学前沿讲座",
       "title": "干细胞前沿与伦理争议",
@@ -4269,6 +4287,24 @@
       "lastUpdatedAt": "2026-04-08T08:13:50.214Z"
     },
     {
+      "id": "MHKJDBOC",
+      "seriesName": "太阳能热发电仿真技术",
+      "title": "线聚焦太阳能热发电系统性能仿真建模与测试技术",
+      "creditHours": "3",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "雷东强",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8644/view",
+      "startTimestamp": 1778563800000,
+      "endTimestamp": 1778573400000,
+      "rawTimeStr": "2026-05-12 13:30-16:10",
+      "mainVenue": "雁栖湖 - 教二楼418",
+      "parallelVenue": "",
+      "introduction": "分别介绍槽式太阳能热发电站和线性菲涅尔太阳能热发电站中聚光器能流密度仿真模拟，集热管光-热-力耦合建模模拟，储换热系统仿真、电站系统仿真及其性能测试验证。",
+      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
+    },
+    {
       "id": "HPPDKOON",
       "seriesName": "电磁脉冲探测前沿讲座",
       "title": "人工智能与电磁脉冲探测（二）",
@@ -4339,6 +4375,24 @@
       "parallelVenue": "",
       "introduction": "吴海斌，中国科学院地质与地球物理研究所研究员，杰青，曾获刘东生青年地球科学家奖、中国科学院青年科学家奖。主要从事古气候与碳循环研究，长期致力于全新世土壤有机和无机碳库变化及人类活动的影响、陆地和水生生态系统碳循环、植被反演模型研制及古气候参数定量化等方面的研究。在Nature Communications、PNAS、Global Change Biology等期刊发表论文40余篇，论文被SCI引用1400余次。",
       "lastUpdatedAt": "2026-04-17T04:13:51.326Z"
+    },
+    {
+      "id": "LFDCCEOG",
+      "seriesName": "太阳能热发电仿真技术",
+      "title": "50MW槽式光热发电站发电量与经济性仿真案例分析",
+      "creditHours": "2",
+      "department": "电子电气与通信工程学院",
+      "targetAudience": "全校学生",
+      "speaker": "雷东强",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8645/view",
+      "startTimestamp": 1779168600000,
+      "endTimestamp": 1779174300000,
+      "rawTimeStr": "2026-05-19 13:30-15:05",
+      "mainVenue": "雁栖湖 - 教二楼418",
+      "parallelVenue": "",
+      "introduction": "案例分析——德令哈50MW太阳能热发电系统介绍，太阳资源典型年数据分析实例，电站系统发电量和经济性仿真技术。",
+      "lastUpdatedAt": "2026-04-20T02:13:53.562Z"
     },
     {
       "id": "LKLPOACJ",

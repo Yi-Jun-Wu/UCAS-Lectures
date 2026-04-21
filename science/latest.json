@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-21T08:14:00.414Z",
-  "total": 253,
+  "generatedAt": "2026-04-21T09:13:57.224Z",
+  "total": 255,
   "lectures": [
     {
       "id": "GHKANJNO",
@@ -3801,6 +3801,42 @@
       "lastUpdatedAt": "2026-04-17T04:13:51.328Z"
     },
     {
+      "id": "IPILAIFN",
+      "seriesName": "生命科学前沿讲座",
+      "title": "Intracellular Transport, Neurodevelopment and Neurodegeneration",
+      "creditHours": "3",
+      "department": "生命科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "刘佳佳",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8660/view",
+      "startTimestamp": 1777008600000,
+      "endTimestamp": 1777017600000,
+      "rawTimeStr": "2026-04-24 13:30-16:00",
+      "mainVenue": "雁栖湖 - 教二楼138",
+      "parallelVenue": "",
+      "introduction": "细胞前沿",
+      "lastUpdatedAt": "2026-04-21T09:13:52.431Z"
+    },
+    {
+      "id": "JJKCCGDM",
+      "seriesName": "生命科学前沿讲座",
+      "title": "脑科学与类脑人工智能",
+      "creditHours": "3",
+      "department": "生命科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "蒲慕明",
+      "isAppointmentRequired": false,
+      "sourceUrl": "/subject/8661/view",
+      "startTimestamp": 1777010400000,
+      "endTimestamp": 1777017600000,
+      "rawTimeStr": "2026-04-24 14:00-16:00",
+      "mainVenue": "雁栖湖 - 教二楼429",
+      "parallelVenue": "",
+      "introduction": "神经科学前沿",
+      "lastUpdatedAt": "2026-04-21T09:13:52.431Z"
+    },
+    {
       "id": "AGFDOFFC",
       "seriesName": "高温超导长带材制备与电动汽车电机驱动系统",
       "title": "电驱系统未来发展趋势",
@@ -3939,10 +3975,10 @@
       "startTimestamp": 1777165200000,
       "endTimestamp": 1777176000000,
       "rawTimeStr": "2026-04-26 09:00-12:00",
-      "mainVenue": "雁栖湖 - 教二楼104",
+      "mainVenue": "主会场：雁栖湖 - 教二楼104",
       "parallelVenue": "",
       "introduction": "生态系统及生物多样性适应气候变化。气候变化和生物多样性丧失是人类面临的两大全球性环境问题。本讲座的主要内容为在介绍气候变化对生态系统及生物多样性影响与风险基础上，重点介绍生态系统及生物多样性适应气候变化选择、支撑条件、适应限制与不良适应，以及适应与减缓的联系方面的认知、分析方法、前沿科学问题等。\n吴建国，博士，硕士生导师，中国环境科学研究院研究员。主要研究方向为应对气候变化。主要从事气候变化影响与适应、温室气体排放监测与控制等研究。针对气候变化，开展其对生态系统及生物多样性等影响、脆弱性和风险研究，提出减缓和适应技术方案及对策。首席作者，多次参加政府间气候变化专门委员会（IPCC）报告和我国气候变化国家评估报告等编写。目前再次被遴选为IPCC第7次评估评估的主要作者和我国第5次气候变化国家评估的首席作者。在国内外期刊发表论文百余篇，专著及参编13部等。任中国生态学会生态气象专业委员会副主任委员，中国环境学会气候变化专业委员会常务委员等。",
-      "lastUpdatedAt": "2026-04-21T08:13:58.079Z"
+      "lastUpdatedAt": "2026-04-21T09:13:52.434Z"
     },
     {
       "id": "LNOEFIBO",

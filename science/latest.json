@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T09:13:57.224Z",
+  "generatedAt": "2026-04-21T10:13:55.266Z",
   "total": 255,
   "lectures": [
     {
@@ -3813,10 +3813,10 @@
       "startTimestamp": 1777008600000,
       "endTimestamp": 1777017600000,
       "rawTimeStr": "2026-04-24 13:30-16:00",
-      "mainVenue": "雁栖湖 - 教二楼138",
+      "mainVenue": "主会场：雁栖湖 - 教二楼138",
       "parallelVenue": "",
       "introduction": "细胞前沿",
-      "lastUpdatedAt": "2026-04-21T09:13:52.431Z"
+      "lastUpdatedAt": "2026-04-21T10:13:55.262Z"
     },
     {
       "id": "JJKCCGDM",
@@ -3831,10 +3831,10 @@
       "startTimestamp": 1777010400000,
       "endTimestamp": 1777017600000,
       "rawTimeStr": "2026-04-24 14:00-16:00",
-      "mainVenue": "雁栖湖 - 教二楼429",
+      "mainVenue": "主会场：雁栖湖 - 教二楼429",
       "parallelVenue": "",
       "introduction": "神经科学前沿",
-      "lastUpdatedAt": "2026-04-21T09:13:52.431Z"
+      "lastUpdatedAt": "2026-04-21T10:13:55.262Z"
     },
     {
       "id": "AGFDOFFC",

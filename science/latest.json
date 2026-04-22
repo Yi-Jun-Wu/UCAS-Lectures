@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T03:13:51.836Z",
+  "generatedAt": "2026-04-22T07:14:00.518Z",
   "total": 257,
   "lectures": [
     {
@@ -3609,7 +3609,7 @@
       "creditHours": "2",
       "department": "材料科学与光电技术学院",
       "targetAudience": "全校学生",
-      "speaker": "",
+      "speaker": "Serguei Nechaev",
       "isAppointmentRequired": false,
       "sourceUrl": "/subject/8619/view",
       "startTimestamp": 1776922200000,
@@ -3618,7 +3618,7 @@
       "mainVenue": "主会场：雁栖湖 - 教三楼204",
       "parallelVenue": "",
       "introduction": "报告人简介\nSerguei Nechaev graduated in 1985 from the Department of Physics at Moscow State University. From 1991 to 2007, he was affiliated with the Landau Institute for Theoretical Physics. Since 2008, he has been working in France, where he currently holds the position of Director of Research at CNRS (National Center for Scientific Research, France). He is based at the LPTMS (Laboratory of Theoretical Physics and Statistical Models), a laboratory affiliated with both CNRS and the University of Paris-Saclay. From 2015 to 2022, He served as the Director of the Interdisciplinary Scientific Center Poncelet, an International Research Laboratory of CNRS, located at the Independent University of Moscow (Moscow, Russia). He has authored more than 150 scientific publications in Web of Science journals. His current scientific interests  belong to statistical physics and topology of random walks, disordered systems, collective effects and phase transitions in networks.\n\n报告摘要\nBy stretching the fractal polymer near the boundary of a disc, one pushes the system into the large deviation regime with anomalous fluctuations. Using the \"optimal fluctuational approach\" I derive the scaling exponent governing the fluctuations of stretched random walk near the disc boundary and show that the \"first return probability\" behaves identically to the Donsker-Varadhan survival probability of 1D random walk in array of traps with the Poisson distribution. This allows one to conjecture that in large-deviation regime the curved boundary could play the same role as the disorder. Manifestation of the found behavior in diffusion of tracer in corrugated channels will be discussed.",
-      "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
+      "lastUpdatedAt": "2026-04-22T07:14:00.511Z"
     },
     {
       "id": "AOJMLOFD",

@@ -318,10 +318,10 @@
     "startTimestamp": 1779618600000,
     "endTimestamp": 1779624300000,
     "rawTimeStr": "2026-05-24 18:30-20:05",
-    "mainVenue": "雁栖湖 - 教二楼207",
+    "mainVenue": "主会场：雁栖湖 - 教二楼207",
     "parallelVenue": "",
     "introduction": "主要介绍基于高温超导带材的超导应用，涉及超导输电、超导磁悬浮、超导风力发电机、超导限流器以及超导核聚变等。",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "PLJODAJL",
@@ -336,10 +336,10 @@
     "startTimestamp": 1778805000000,
     "endTimestamp": 1778810700000,
     "rawTimeStr": "2026-05-15 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Physics of radiation effects in semiconductor materials and devices. Definition of basic parameters. Electrical impact of ionizing radiation (total dose effects) and bulk damage. Radiation in advanced Si and Ge devices ( SOI, GeOI, FinFETs, TFETs etc).",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "DJCACNPA",
@@ -354,10 +354,10 @@
     "startTimestamp": 1778718600000,
     "endTimestamp": 1778724300000,
     "rawTimeStr": "2026-05-14 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Physics related to fundamental noise mechanisms (white noise, 1/f noise, GR noise) in semiconductor materials and devices. Models for 1/f noise. Extraction of parameters related to the quality of the dielectrics and interfaces. Noise and reliability. Noise analysis of advanced CMOS devices like SOI devices, memory devices, FinFETs, tunnelFETs, nanowire transistors, 2D transistors etc.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "JJKKCOKC",
@@ -372,10 +372,10 @@
     "startTimestamp": 1778632200000,
     "endTimestamp": 1778637900000,
     "rawTimeStr": "2026-05-13 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Overview of processing aspects of different advanced devices such as FinFET (on bulk and SOI), ultra-thin body and box (UTBB devices) TunnelFETs , Ge and III-V devices. Short discussion on important processing blocks such as e.g. lithography, gate dielectric, interconnects/low-k dielectrics and contact technology.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "OOHOHCAI",
@@ -390,10 +390,10 @@
     "startTimestamp": 1778570700000,
     "endTimestamp": 1778576400000,
     "rawTimeStr": "2026-05-12 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Physics of radiation effects in semiconductor materials and devices. Definition of basic parameters. Electrical impact of ionizing radiation (total dose effects) and bulk damage. Radiation in advanced Si and Ge devices ( SOI, GeOI, FinFETs, TFETs etc).",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "HJFHNPHK",
@@ -408,10 +408,10 @@
     "startTimestamp": 1778545800000,
     "endTimestamp": 1778551500000,
     "rawTimeStr": "2026-05-12 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Processing aspects of device isolation techniques such as standard LOCOS, Poly buffered LOCOS and Deep Trench Isolation (STI). Attention will also be given to defect control and optimization techniques.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "KGMIOLPC",
@@ -426,10 +426,10 @@
     "startTimestamp": 1778484300000,
     "endTimestamp": 1778490000000,
     "rawTimeStr": "2026-05-11 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Physics related to fundamental noise mechanisms (white noise, 1/f noise, GR noise) in semiconductor materials and devices. Models for 1/f noise. Extraction of parameters related to the quality of the dielectrics and interfaces. Noise and reliability. Noise analysis of advanced CMOS devices like SOI devices, memory devices, FinFETs, tunnelFETs, nanowire transistors, 2D transistors etc.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "KKBKDANI",
@@ -444,10 +444,10 @@
     "startTimestamp": 1778459400000,
     "endTimestamp": 1778465100000,
     "rawTimeStr": "2026-05-11 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Metallic contamination in semiconductor: origin, basic properties. Defect gettering techniques. Illustration of some characterization techniques.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "IMGCPAHD",
@@ -462,10 +462,10 @@
     "startTimestamp": 1778311500000,
     "endTimestamp": 1778317200000,
     "rawTimeStr": "2026-05-09 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Overview of processing aspects of different advanced devices such as FinFET (on bulk and SOI), ultra-thin body and box (UTBB devices) TunnelFETs , Ge and III-V devices. Short discussion on important processing blocks such as e.g. lithography, gate dielectric, interconnects/low-k dielectrics and contact technology.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "NKMPFFKN",
@@ -480,10 +480,10 @@
     "startTimestamp": 1778286600000,
     "endTimestamp": 1778292300000,
     "rawTimeStr": "2026-05-09 08:30-10:05",
-    "mainVenue": "雁栖湖 - 教一楼406",
+    "mainVenue": "主会场：雁栖湖 - 教一楼406",
     "parallelVenue": "",
     "introduction": "Definitions and basic aspects of defects in semiconductors. Structural properties. Defect nucleation, growth and multiplications. Grown-in defects during crystal pulling. Oxygen, nitrogen and carbon in Si and Ge. Process-induced defects.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "JMAINJJI",
@@ -498,10 +498,10 @@
     "startTimestamp": 1778236200000,
     "endTimestamp": 1778243400000,
     "rawTimeStr": "2026-05-08 18:30-20:30",
-    "mainVenue": "雁栖湖 - 教一楼213",
+    "mainVenue": "主会场：雁栖湖 - 教一楼213",
     "parallelVenue": "",
     "introduction": "随着气候变化加剧与废弃物污染日益严峻，促进绿色行为已成为多学科交叉的核心议题。绿色行为，即那些有益于生态环境或减少环境负影响的行为，其背后的人类心理机制是理解与干预的关键。本报告围绕两个核心问题展开：为何需要助推绿色行为？以及如何有效助推？基于团队近年实证研究，我们系统探讨了认知偏差（如注意偏向、错误感知、自我拔高效应）如何阻碍绿色行动，并提出了多种助推干预策略（如信息提供、幸福感激发、承诺机制、动态规范反馈及熟悉度利用）来促进个体与群体的绿色行为（以资源分类行为为例）。心理学在助推亲环境行为方面展现出巨大潜力，相关成果不仅为可持续发展政策制定、环保组织行动与教育干预提供了科学依据，也彰显了心理学在应对全球环境挑战中的实践价值。",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "FMKPNNEM",
@@ -516,10 +516,10 @@
     "startTimestamp": 1778225100000,
     "endTimestamp": 1778230800000,
     "rawTimeStr": "2026-05-08 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Processing aspects of device isolation techniques such as standard LOCOS, Poly buffered LOCOS and Deep Trench Isolation (STI). Attention will also be given to defect control and optimization techniques.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.050Z"
   },
   {
     "id": "DMPCNLBM",
@@ -534,10 +534,10 @@
     "startTimestamp": 1778138700000,
     "endTimestamp": 1778144400000,
     "rawTimeStr": "2026-05-07 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Metallic contamination in semiconductor: origin, basic properties. Defect gettering techniques. Illustration of some characterization techniques.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.051Z"
   },
   {
     "id": "EMPOICCF",
@@ -552,9 +552,9 @@
     "startTimestamp": 1778052300000,
     "endTimestamp": 1778058000000,
     "rawTimeStr": "2026-05-06 15:25-17:00",
-    "mainVenue": "玉泉路 - 教学楼阶二4",
+    "mainVenue": "主会场：玉泉路 - 教学楼阶二4",
     "parallelVenue": "",
     "introduction": "Definitions and basic aspects of defects in semiconductors. Structural properties. Defect nucleation, growth and multiplications. Grown-in defects during crystal pulling. Oxygen, nitrogen and carbon in Si and Ge. Process-induced defects.",
-    "lastUpdatedAt": "2026-04-27T03:13:48.322Z"
+    "lastUpdatedAt": "2026-04-27T04:13:54.051Z"
   }
 ]

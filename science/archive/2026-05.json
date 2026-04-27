@@ -588,10 +588,10 @@
     "startTimestamp": 1779705000000,
     "endTimestamp": 1779712200000,
     "rawTimeStr": "2026-05-25 18:30-20:30",
-    "mainVenue": "雁栖湖 - 教一楼108",
+    "mainVenue": "主会场：雁栖湖 - 教一楼108",
     "parallelVenue": "",
     "introduction": "YBCO涂层导体是目前最有希望大规模商业化的高温超导材料。人们探索了多种制备YBCO涂层导体的工艺途径，不断提高带材的临界电流密度，并降低带材成本。本文主要介绍第二代高温超导带材的制备工艺、性能提高途径及最新进展。",
-    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
+    "lastUpdatedAt": "2026-04-27T08:14:07.168Z"
   },
   {
     "id": "FLJGGIBM",
@@ -606,10 +606,10 @@
     "startTimestamp": 1779100200000,
     "endTimestamp": 1779107400000,
     "rawTimeStr": "2026-05-18 18:30-20:30",
-    "mainVenue": "雁栖湖 - 教一楼108",
+    "mainVenue": "主会场：雁栖湖 - 教一楼108",
     "parallelVenue": "",
     "introduction": "Bi系超导体在实用化超导材料中具有最高的临界转变温度，其中Bi2223早在上世纪已经商业化，Bi2212线材则在本世纪初取得突破性进展。本文将介绍Bi系高温超导线材的制备方法、性能提高历程、以及发展方向。",
-    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
+    "lastUpdatedAt": "2026-04-27T08:14:07.168Z"
   },
   {
     "id": "EDECOIPH",
@@ -624,10 +624,10 @@
     "startTimestamp": 1778743200000,
     "endTimestamp": 1778748600000,
     "rawTimeStr": "2026-05-14 15:20-16:50",
-    "mainVenue": "玉泉路 - 人文楼教一2",
+    "mainVenue": "主会场：玉泉路 - 人文楼教一2",
     "parallelVenue": "",
     "introduction": "The question of whether language shapes conceptual thought remains a central debate in cognitive science, with critical implications for understanding how linguistic structures interact with mental representations. The Chinese classifier system offers a unique lens to explore this interplay, as it imposes distinct conceptual groupings not found in many other languages. Here, we examined whether and how the Chinese classifier system reshapes conceptual architecture using a multi-method approach, encompassing behavioral experiments (semantic similarity judgment, forced-choice categorization, and spatial arrangement tasks) and natural language analysis. Our results demonstrate that classifiers cluster distinct concepts sharing the same classifiers and align conceptual representations across individuals.",
-    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
+    "lastUpdatedAt": "2026-04-27T08:14:07.168Z"
   },
   {
     "id": "ABBBPMBD",
@@ -642,10 +642,10 @@
     "startTimestamp": 1778495400000,
     "endTimestamp": 1778501100000,
     "rawTimeStr": "2026-05-11 18:30-20:05",
-    "mainVenue": "雁栖湖 - 教三楼103",
+    "mainVenue": "主会场：雁栖湖 - 教三楼103",
     "parallelVenue": "",
     "introduction": "本报告从技术角度系统梳理纳米孔测序的发展与核心方法学。首先介绍纳米孔DNA测序的关键技术框架，包括纳米孔工作原理、离子电流信号产生机制、单分子通过动力学调控以及碱基识别与信号解码算法。随后重点讨论纳米孔蛋白质测序的技术路径，涵盖氨基酸识别策略、酶辅助逐步降解与转运控制、主-客体识别与化学修饰增强信号分辨率等关键方法，同时分析蛋白质测序中分辨率、通量与准确性之间的权衡关系。最后，总结当前技术瓶颈与优化方向，包括孔结构工程、电化学噪声抑制及机器学习辅助解码等，为纳米孔测序技术的进一步发展提供方法学视角。\n主讲人：吴海臣，中国科学院化学研究所研究员，国家杰出青年基金获得者。2005年在剑桥大学化学系取得博士学位，博士毕业后到牛津大学化学系从事博士后研究至2008年底，主要研究方向为纳米孔DNA测序和纳米孔技术在化学生物学中的应用。2009年至2016年期间任中国科学院高能物理研究所研究员，开展了基于纳米孔的生化分析方法研究。2017年1月至今在中科院化学所活体分析化学实验室工作，开展纳米孔单分子分析方法和单分子测序研究。在Nat. Methods, Nat. Nanotechnol., JACS, Angew. Chem. Int.Ed.Nat.Commun.等国际知名期刊发表文章70余篇。",
-    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
+    "lastUpdatedAt": "2026-04-27T08:14:07.168Z"
   },
   {
     "id": "PLPMJLLK",
@@ -660,9 +660,9 @@
     "startTimestamp": 1778495400000,
     "endTimestamp": 1778502600000,
     "rawTimeStr": "2026-05-11 18:30-20:30",
-    "mainVenue": "雁栖湖 - 教一楼108",
+    "mainVenue": "主会场：雁栖湖 - 教一楼108",
     "parallelVenue": "",
     "introduction": "Nb超导体作为最早实用化的一种超导材料，在超导磁体等领域占据着不可替代的位置。本文分别介绍这两种低温超导材料的基本特性、制备方法、应用领域、以及最新研究进展。",
-    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
+    "lastUpdatedAt": "2026-04-27T08:14:07.168Z"
   }
 ]

@@ -70,5 +70,23 @@
     "parallelVenue": "",
     "introduction": "张仲石，北京大学教授，杰青，重点研发项目首席。主要从事古气候模拟与机理研究，主持国际古气候模拟比较计划部分工作，参与地球系统模式研发。研究兴趣包括新生代古气候的跨尺度演化机理、海平面波动的气候效应、古气候与现代未来气候的类比等。在Nature、Nature Geoscience、Nature Communications及National Science Review等期刊上发表研究论文130余篇；曾获刘东生青年地球科学家奖和科学探索奖。",
     "lastUpdatedAt": "2026-04-17T04:13:51.325Z"
+  },
+  {
+    "id": "FEJLOIIO",
+    "seriesName": "超导材料科学与技术",
+    "title": "超导技术及其应用",
+    "creditHours": "2",
+    "department": "电子电气与通信工程学院",
+    "targetAudience": "全校学生",
+    "speaker": "张现平",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8695/view",
+    "startTimestamp": 1780309800000,
+    "endTimestamp": 1780317000000,
+    "rawTimeStr": "2026-06-01 18:30-20:30",
+    "mainVenue": "雁栖湖 - 教一楼108",
+    "parallelVenue": "",
+    "introduction": "经过几十年的发展，目前超导材料已经在能源、交通、科技等诸多领域获得实际应用。本文将结合超导材料基本特性，介绍超导技术目前获得的各类实际应用，包括强电、弱电、抗磁性等典型应用。",
+    "lastUpdatedAt": "2026-04-27T07:14:07.005Z"
   }
 ]

@@ -556,5 +556,23 @@
     "parallelVenue": "",
     "introduction": "Definitions and basic aspects of defects in semiconductors. Structural properties. Defect nucleation, growth and multiplications. Grown-in defects during crystal pulling. Oxygen, nitrogen and carbon in Si and Ge. Process-induced defects.",
     "lastUpdatedAt": "2026-04-27T04:13:54.051Z"
+  },
+  {
+    "id": "LCENIAME",
+    "seriesName": "语言与科学讲座专题",
+    "title": "汉语动补结构宏事件加工的认知神经机制研究",
+    "creditHours": "2",
+    "department": "外语系",
+    "targetAudience": "全校学生",
+    "speaker": "",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8690/view",
+    "startTimestamp": 1778736600000,
+    "endTimestamp": 1778742000000,
+    "rawTimeStr": "2026-05-14 13:30-15:00",
+    "mainVenue": "玉泉路 - 人文楼教一2",
+    "parallelVenue": "",
+    "introduction": "宏事件（Macro Event ）是语言和认知中的复杂事件表征图式，通常以单个小句整合框架事件和副事件（ Talmy 2000 ）。例如，“风吹灭了蜡烛”包 含“ 蜡烛熄灭”（框架事件）和风通过“吹”的方式实现该结果（副事件）。本研究采用脑电技术（ERPs），考察汉语动补结构宏事件句法语义加工的认知神经机制，揭示其事件动词论元连接（P600）与语义整合（N400）机制，深化对汉语事件结构形式与意义映射脑机制的认识。",
+    "lastUpdatedAt": "2026-04-27T06:13:56.081Z"
   }
 ]

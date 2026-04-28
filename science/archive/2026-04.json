@@ -2850,6 +2850,24 @@
     "creditHours": "2",
     "department": "前沿交叉科学学院",
     "targetAudience": "全校学生",
+    "speaker": "敖翔",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8605/view",
+    "startTimestamp": 1776835800000,
+    "endTimestamp": 1776841200000,
+    "rawTimeStr": "2026-04-22 13:30-15:00",
+    "mainVenue": "主会场：雁栖湖 - 教二楼427",
+    "parallelVenue": "",
+    "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
+    "lastUpdatedAt": "2026-04-28T03:14:21.181Z"
+  },
+  {
+    "id": "MAGJAFFD",
+    "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
+    "title": "人工智能与处理器芯片",
+    "creditHours": "2",
+    "department": "前沿交叉科学学院",
+    "targetAudience": "全校学生",
     "speaker": "陈云霁",
     "isAppointmentRequired": false,
     "sourceUrl": "/subject/8605/view",
@@ -2859,10 +2877,10 @@
     "mainVenue": "主会场：雁栖湖 - 教二楼427",
     "parallelVenue": "",
     "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-    "lastUpdatedAt": "2026-04-17T04:13:51.329Z"
+    "lastUpdatedAt": "2026-04-28T03:14:21.181Z"
   },
   {
-    "id": "MAGJAFFD",
+    "id": "KALICGDA",
     "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
     "title": "人工智能与处理器芯片",
     "creditHours": "2",
@@ -2877,10 +2895,10 @@
     "mainVenue": "主会场：雁栖湖 - 教二楼427",
     "parallelVenue": "",
     "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-    "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
+    "lastUpdatedAt": "2026-04-28T03:14:21.181Z"
   },
   {
-    "id": "KALICGDA",
+    "id": "GCCOBDKC",
     "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
     "title": "人工智能与处理器芯片",
     "creditHours": "2",
@@ -2895,25 +2913,7 @@
     "mainVenue": "主会场：雁栖湖 - 教二楼427",
     "parallelVenue": "",
     "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-    "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
-  },
-  {
-    "id": "GCCOBDKC",
-    "seriesName": "第二届急需紧缺领域学科交叉高端论坛——人工智能分论坛",
-    "title": "人工智能与处理器芯片",
-    "creditHours": "2",
-    "department": "前沿交叉科学学院",
-    "targetAudience": "全校学生",
-    "speaker": "敖翔",
-    "isAppointmentRequired": false,
-    "sourceUrl": "/subject/8605/view",
-    "startTimestamp": 1776835800000,
-    "endTimestamp": 1776841200000,
-    "rawTimeStr": "2026-04-22 13:30-15:00",
-    "mainVenue": "主会场：雁栖湖 - 教二楼427",
-    "parallelVenue": "",
-    "introduction": "人工智能和处理器芯片都是信息产业的基石技术，都是大国博弈的焦点。二者之间相互交叉、彼此推动。处理器芯片是实现人工智能的物质载体，而人工智能对处理器芯片的设计带来了巨大的助力。本报告将介绍二者交叉研究的核心思想、研究现状和人才培养，并探讨未来的发展趋势。",
-    "lastUpdatedAt": "2026-04-19T03:13:52.505Z"
+    "lastUpdatedAt": "2026-04-28T03:14:21.181Z"
   },
   {
     "id": "IGNAFOGL",

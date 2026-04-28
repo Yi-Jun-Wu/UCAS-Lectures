@@ -88,5 +88,41 @@
     "parallelVenue": "",
     "introduction": "经过几十年的发展，目前超导材料已经在能源、交通、科技等诸多领域获得实际应用。本文将结合超导材料基本特性，介绍超导技术目前获得的各类实际应用，包括强电、弱电、抗磁性等典型应用。",
     "lastUpdatedAt": "2026-04-27T08:14:07.167Z"
+  },
+  {
+    "id": "FDELEGIJ",
+    "seriesName": "数据处理前沿方法及遥感应用、数字孪生与智能建模",
+    "title": "遥感图像目标检测的演进：模型与机制",
+    "creditHours": "2",
+    "department": "电子电气与通信工程学院",
+    "targetAudience": "全校学生",
+    "speaker": "计璐艳",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8699/view",
+    "startTimestamp": 1780464600000,
+    "endTimestamp": 1780470300000,
+    "rawTimeStr": "2026-06-03 13:30-15:05",
+    "mainVenue": "雁栖湖 - 教二楼229",
+    "parallelVenue": "",
+    "introduction": "本讲围绕遥感图像目标检测的理论体系与技术演进。通过对模型机制、关键要素及应用案例的深入分析，帮助学生全面理解目标检测的核心思想与发展趋势。",
+    "lastUpdatedAt": "2026-04-28T03:13:55.063Z"
+  },
+  {
+    "id": "KNBEDDDG",
+    "seriesName": "数据处理前沿方法及遥感应用、数字孪生与智能建模",
+    "title": "第四讲：装备制造及航空航天相关应用",
+    "creditHours": "2",
+    "department": "电子电气与通信工程学院",
+    "targetAudience": "全校学生",
+    "speaker": "樊子德",
+    "isAppointmentRequired": false,
+    "sourceUrl": "/subject/8703/view",
+    "startTimestamp": 1780396200000,
+    "endTimestamp": 1780401900000,
+    "rawTimeStr": "2026-06-02 18:30-20:05",
+    "mainVenue": "雁栖湖 - 教一楼214",
+    "parallelVenue": "",
+    "introduction": "聚焦高端装备与航空航天领域，介绍数字孪生在产品设计、工艺优化、装配调试、健康监测与全生命周期管理的应用。以航空发动机、航天器、精密部件为例，展示虚实协同提升研发效率、可靠性与运维保障能力的实践。",
+    "lastUpdatedAt": "2026-04-28T03:13:55.063Z"
   }
 ]

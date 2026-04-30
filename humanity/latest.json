@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-30T03:13:41.573Z",
-  "total": 112,
+  "generatedAt": "2026-04-30T06:13:35.137Z",
+  "total": 114,
   "lectures": [
     {
       "id": "FBAHLKLH",
@@ -1699,6 +1699,42 @@
       "parallelVenue": "",
       "introduction": "当前，人类正在经历以智能技术为代表的新一轮科技革命的滚滚浪潮。人与技术的关系成为我们时代的根本哲学问题。本讲座从海德格尔和斯蒂格勒的现象学视角出发，致力于在存在论层次提出技术不仅仅是人的工具，技术对人的生存方式具有构成性。“技术创造人”有助于在工具主义和人文主义之外构筑新的人技关系思考空间。",
       "lastUpdatedAt": "2026-04-29T04:13:38.561Z"
+    },
+    {
+      "id": "CDIMIGJD",
+      "seriesName": "人居:科学与艺术大讲堂",
+      "title": "交响乐及钢琴协奏曲音乐会",
+      "creditHours": "2",
+      "department": "人居科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "李晨音",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/7075/humanityView",
+      "startTimestamp": 1778585400000,
+      "endTimestamp": 1778592600000,
+      "rawTimeStr": "2026-05-12 19:30-21:30",
+      "mainVenue": "雁栖湖 - 雁栖湖东区礼堂",
+      "parallelVenue": "",
+      "introduction": "李晨音\n国科大教授、国际知名钢琴家当代中国最具成就的青年钢琴家之一，被誉为“细节处理大师”。曾获苏格兰国际钢琴比赛金奖等多项国际大奖，是英国《钢琴家》杂志唯一长期签约钢琴家。\n张艺\n浙音特聘教授、国际著名指挥家\n中央芭蕾舞团音乐总监，浙江交响乐团、上海爱乐乐团、浙音乐队学院艺术总监，浙江音乐学院特聘教授;享受国务院政府特殊津贴专家，中宣部“四个一批”人才，当前中国最具影响力的指挥家之一。",
+      "lastUpdatedAt": "2026-04-30T06:13:32.548Z"
+    },
+    {
+      "id": "CDIMIGJD",
+      "seriesName": "人居:科学与艺术大讲堂",
+      "title": "交响乐及钢琴协奏曲音乐会",
+      "creditHours": "2",
+      "department": "人居科学学院",
+      "targetAudience": "全校学生",
+      "speaker": "李晨音",
+      "isAppointmentRequired": true,
+      "sourceUrl": "/subject/7075/humanityView",
+      "startTimestamp": 1778585400000,
+      "endTimestamp": 1778592600000,
+      "rawTimeStr": "2026-05-12 19:30-21:30",
+      "mainVenue": "雁栖湖 - 雁栖湖东区礼堂",
+      "parallelVenue": "",
+      "introduction": "李晨音\n国科大教授、国际知名钢琴家当代中国最具成就的青年钢琴家之一，被誉为“细节处理大师”。曾获苏格兰国际钢琴比赛金奖等多项国际大奖，是英国《钢琴家》杂志唯一长期签约钢琴家。\n张艺\n浙音特聘教授、国际著名指挥家\n中央芭蕾舞团音乐总监，浙江交响乐团、上海爱乐乐团、浙音乐队学院艺术总监，浙江音乐学院特聘教授;享受国务院政府特殊津贴专家，中宣部“四个一批”人才，当前中国最具影响力的指挥家之一。",
+      "lastUpdatedAt": "2026-04-30T06:13:32.548Z"
     },
     {
       "id": "CPBNIHGE",
